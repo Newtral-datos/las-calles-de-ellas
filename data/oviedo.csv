@@ -1,0 +1,934 @@
+Calle;Género;Nombre;Religioso;Ficción;Descripción;Artículo;Imagen;Fecha Nacimiento;Fecha Muerte;Céntrica
+Calle Carmen Ruiz Tielv Arias;Mujer;Carmen Ruiz-Tilve;;;escritora española;https://es.wikipedia.org/wiki/Carmen_Ruiz-Tilve;;1941-04-19T00:00:00Z;;
+Plaza Concha Heres;Mujer;Concha Heres;;;;https://ast.wikipedia.org/wiki/Concha_Heres;;;;1
+Calle Concepción Arenal;Mujer;Concepción Arenal;;;escritora, abogada y proto-trabajadora social española;https://es.wikipedia.org/wiki/Concepci%C3%B3n_Arenal;http://commons.wikimedia.org/wiki/Special:FilePath/Concepcion%20Arenal%201.jpg;1820-01-31T00:00:00Z;1893-02-04T00:00:00Z;1
+Calle Amparo Pedregal;Mujer;Amparo Pedregal;;;;;;;;1
+Calle Santa Teresa de Jesús;Mujer;Teresa de Jesús;1;;religiosa castellana;https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs;http://commons.wikimedia.org/wiki/Special:FilePath/Teresa%20de%20Jes%C3%BAs%20%28cropped%29.jpg;1515-04-07T00:00:00Z;1582-10-15T00:00:00Z;1
+Santa Eulalia De Mérida;Mujer;Santa Eulalia De Mérida;1;;;https://es.wikipedia.org/wiki/Eulalia_de_Mérida;;;;
+Calle Gloria Fuertes;Mujer;Gloria Fuertes;;;poeta española;https://es.wikipedia.org/wiki/Gloria_Fuertes;http://commons.wikimedia.org/wiki/Special:FilePath/GloriaFuertes.jpg;1917-07-28T00:00:00Z;1998-11-27T00:00:00Z;
+Travesía de Santa Bárbara;Mujer;Bárbara de Nicomedia;1;;santa y mártir cristiana libanesa (273-306);https://es.wikipedia.org/wiki/B%C3%A1rbara_de_Nicomedia;http://commons.wikimedia.org/wiki/Special:FilePath/RAFAEL%20-%20Madonna%20Sixtina%20%28Gem%C3%A4ldegalerie%20Alter%20Meister%2C%20Dresden%2C%201513-14.%20%C3%93leo%20sobre%20lienzo%2C%20265%20x%20196%20cm%29%20%28cropped%29.jpg;0273-01-01T00:00:00Z;0306-01-01T00:00:00Z;1
+Calle Lola Mateos;Mujer;Lola Mateos;;;profesora universitaria española;https://es.wikipedia.org/wiki/Lola_Mateos;;1942-12-24T00:00:00Z;2015-09-25T00:00:00Z;
+Calle Etelvina García;Mujer;Etelvina García;;;;;;;;
+Calle Santa Susana;Mujer;Santa Susana;1;;;https://es.wikipedia.org/wiki/Susana_de_Roma;;;;1
+Calle Matilde García del Real;Mujer;Matilde García del Real;;;pedagoga y escritora española;https://es.wikipedia.org/wiki/Matilde_Garc%C3%ADa_del_Real_y_%C3%81lvarez_Mijares;http://commons.wikimedia.org/wiki/Special:FilePath/Matilde%20Garc%C3%ADa%20del%20Real.jpg;1856-03-15T00:00:00Z;1932-04-25T00:00:00Z;1
+Calle Angustias Pinto;Mujer;Angustias Pinto;;1.0;;;;;;
+"""Calle Obdulia Alvarez """"La Busdonga""""""";Mujer;"""Calle Obdulia Alvarez """"La Busdonga""""""";;;;https://es.wikipedia.org/wiki/La_Busdonga;;;;
+Calle Aurora de Albornoz;Mujer;Aurora de Albornoz;;;Escritora y poetisa española;https://es.wikipedia.org/wiki/Aurora_de_Albornoz;http://commons.wikimedia.org/wiki/Special:FilePath/Aurora%20de%20Albornoz.jpg;1926-01-22T00:00:00Z;1990-06-06T00:00:00Z;
+Calle Anabel Santiago Sanchez;Mujer;Anabel Santiago;;;cantante y política española;https://ast.wikipedia.org/wiki/Anabel_Santiago;;1981-06-18T00:00:00Z;;
+Calle Joaquina Bobela;Mujer;Joaquina Bobela;;;;https://es.wikipedia.org/wiki/Juaca_Bobela;;;;1
+Calle Anita Fratarcangeli;Mujer;Anita Fratarcangeli;;;;https://el.tesorodeoviedo.es/index.php?title=Anita_Fratarcangeli_Cabo;;;;
+Calle Madre Teresa Jornet;Mujer;Madre Teresa Jornet;1;;;https://es.wikipedia.org/wiki/Teresa_de_Jesús_Jornet_e_Ibars;;;;
+Calle Santa Eulalia de Mérida;Mujer;Eulalia de Mérida;1;;Santa de la iglesia católica;https://es.wikipedia.org/wiki/Eulalia_de_M%C3%A9rida;http://commons.wikimedia.org/wiki/Special:FilePath/John%20William%20Waterhouse%20-%20Saint%20Eulalia%20-%201885.jpg;0290-01-01T00:00:00Z;0304-12-11T00:00:00Z;
+Calle Josefina Argüelles;Mujer;Josefina Argüelles;;;;https://ast.wikipedia.org/wiki/Josefina_Argüelles;;;;
+Calle María Andallón;Mujer;María Andallón;;;;https://es.wikipedia.org/wiki/Marica_Andallón;;;;1
+Calle Sara Suárez Solís;Mujer;Sara Suárez Solís;;;escritora española;https://es.wikipedia.org/wiki/Sara_Su%C3%A1rez_Sol%C3%ADs;;1925-01-01T00:00:00Z;2000-05-15T00:00:00Z;
+Calle Doña Jimena;Mujer;Jimena Díaz;;;esposa del Cid;https://es.wikipedia.org/wiki/Jimena_D%C3%ADaz;http://commons.wikimedia.org/wiki/Special:FilePath/1868%2C%20Mugeres%20c%C3%A9lebres%20de%20Espa%C3%B1a%20y%20Portugal%2C%20Gimena%20mujer%20del%20Cid%2C%20AB195%200363%20%28cropped%29.jpg;http://www.wikidata.org/.well-known/genid/09fe119ad887e7b05dd0640039b047c9;1116-01-01T00:00:00Z;
+Calle Clara Campoamor;Mujer;Clara Campoamor;;;política española, feminista;https://es.wikipedia.org/wiki/Clara_Campoamor;http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Campoamor.png;1888-02-12T00:00:00Z;1972-04-30T00:00:00Z;
+Calle Doña Iluminada;Mujer;Doña Iluminada;;1.0;;;;;;
+Calle Flora Tristán;Mujer;Flora Tristan;;;escritora francesa que militó a favor del socialismo y del feminismo;https://es.wikipedia.org/wiki/Flora_Tristan;http://commons.wikimedia.org/wiki/Special:FilePath/Flora%20Tristan.jpg;1803-04-07T00:00:00Z;1844-11-14T00:00:00Z;
+Calle de Santa Clara;Mujer;Clara de Asís;1;;fundadora de las clarisas y santa de la Iglesia católica;https://es.wikipedia.org/wiki/Clara_de_As%C3%ADs;http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Claire%20of%20Assisi%2C%20Walters%20Art%20Museum.jpg;1193-01-01T00:00:00Z;1253-08-18T00:00:00Z;1
+Plaza de la Paz;Mujer;paz;;;equilibrio y tranquilidad entre partes;https://es.wikipedia.org/wiki/Paz;http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20dove.svg;;;
+"""Santa Marina de Piedramuella-Soto Ribera";" por Las Caldas""";"""Santa Marina de Piedramuella-Soto Ribera";Mujer;;;;;;;
+"""""Marina de Piedramuella-Soto de Ribera";" por Las Caldas""";"""""Marina de Piedramuella-Soto de Ribera";;;;;;;;
+Calle Velasquita Giráldez;Mujer;Velasquita Giráldez;;;;https://es.wikipedia.org/wiki/Balesquita_Gir%C3%A1ldez;;;;1
+Calle Mª Josefa Canellada;Mujer;María Josefa Canellada;;;romanista, dialectòloga, folclorista i narradora espanyola;https://es.wikipedia.org/wiki/Mar%C3%ADa_Josefa_Canellada;;1912-01-01T00:00:00Z;1995-05-07T00:00:00Z;
+Calle Mª Xosefa Canellada;Mujer;María Josefa Canellada;;;romanista, dialectòloga, folclorista i narradora espanyola;https://es.wikipedia.org/wiki/Mar%C3%ADa_Josefa_Canellada;;1912-01-01T00:00:00Z;1995-05-07T00:00:00Z;
+Calle Ángeles Muñiz Heres;Mujer;Ángeles Muñiz Heres;;;;;;;;
+Calle Purita de la Riva;Mujer;Purita de la Riva;;;pianista española;https://es.wikipedia.org/wiki/Purita_de_la_Riva;;1933-01-01T00:00:00Z;;1
+Santa Clara;Mujer;Santa Clara;1;;;;;;;
+Calle Santa Teresa de Jesús;Mujer;Santa Teresa de Jesús;1;;;;;;;1
+Calle de Santa Ana;Mujer;Santa Ana;;;;;;;;1
+Plaza Dolores Medio;Mujer;Dolores Medio;;;escritora española;https://es.wikipedia.org/wiki/Dolores_Medio;http://commons.wikimedia.org/wiki/Special:FilePath/Dolores%20Medio%2C%20Oviedo%20%282%29.jpg;1911-12-16T00:00:00Z;1996-01-01T00:00:00Z;
+Calle Covadonga;Mujer;Covadonga;1;;;https://es.wikipedia.org/wiki/Virgen_de_Covadonga;;;;1
+Paseo de Aida Lafuente;Mujer;Aida De La Fuente;;;política española;https://es.wikipedia.org/wiki/Aida_Lafuente;http://commons.wikimedia.org/wiki/Special:FilePath/Aida%20de%20la%20Fuente%20%281918-Oviedo%29%20%288715040588%29.jpg;1915-02-25T00:00:00Z;1934-10-13T00:00:00Z;
+Calle Magdalena;Mujer;María Magdalena;1;;personaje de la Biblia, discípula de Jesús de Nazaret;https://es.wikipedia.org/wiki/Mar%C3%ADa_Magdalena;http://commons.wikimedia.org/wiki/Special:FilePath/Titian%20-%20The%20penitent%20magdalene%20%281565%29.jpg;;0100-01-01T00:00:00Z;1
+Calle Maestras de la República;Mujer;Las maestras de la República;;;documental español de 2013;https://es.wikipedia.org/wiki/Las_maestras_de_la_Rep%C3%BAblica;;;;
+Calle Trece Rosas;Mujer;Las Trece Rosas;;;Grupo de trece adolescentes y jóvenes mujeres españolas fusiladas por la dictadura franquista.;https://es.wikipedia.org/wiki/Las_Trece_Rosas;;;;1
+Calle Hermanas Sánchez Tamargo;Mujer;Hermanas Sánchez Tamargo;;;;;;;;
+Calle Gloria Fuertes;Mujer;Gloria Fuertes;;;poeta española;https://es.wikipedia.org/wiki/Gloria_Fuertes;http://commons.wikimedia.org/wiki/Special:FilePath/GloriaFuertes.jpg;1917-07-28T00:00:00Z;1998-11-27T00:00:00Z;
+Plaza de Kike Gómez Haces;Hombre;Kike Gómez Haces;;;;;;;;
+Luis Sela Sempil;Hombre;Luis Sela Sempil;;;;;;;;
+José Manuel Fuente;Hombre;José Manuel Fuente;;;;;;;;
+Plaza Deán Rafael Somoano Berdasco;Hombre;Deán Rafael Somoano Berdasco;;;;;;;;
+Calle Orlando Sanz Álvarez;Hombre;Orlando Sanz Álvarez;;;;;;;;
+Calle Enrique de Osso;Hombre;Enrique de Osso;;;;;;;;
+Calle Santo Adriano;Hombre;Santo Adriano;;;;;;;;
+Calle Luis José Ávila Fernández;Hombre;Luis José Ávila Fernández;;;;;;;;
+Calle José Vélez Abascal;Hombre;José Vélez Abascal;;;;;;;;
+Calle Rodrigo Grossi;Hombre;Rodrigo Grossi;;;;;;;;
+Calle Luis Martínez Noval;Hombre;Luis Martínez Noval;;;;;;;;
+Calle Francisco Arias de Velasco;Hombre;Francisco Arias de Velasco;;;;;;;;
+Calle Prudencio Fernández Pello;Hombre;Prudencio Fernández Pello;;;;;;;;
+Calle de Rubén Darío;Hombre;Rubén Darío;;;;;;;;
+Avenida de Alfonso Molina;Hombre;Alfonso Molina;;;;;;;;
+Carretera de San Lázaro de Paniceres;Hombre;San Lázaro de Paniceres;;;;;;;;
+Calle Armando Ojanguren;Hombre;Armando Ojanguren;;;;;;;;1
+Calle San Bernabé;Hombre;San Bernabé;;;;;;;;1
+"""Plaza José González """"El Presi""""""";Hombre;"""Plaza José González """"El Presi""""""";;;;;;;;
+Calle Eusebio González Abascal;Hombre;Eusebio González Abascal;;;;;;;;1
+Calle Doctor Casal;Hombre;Doctor Casal;;;;;;;;1
+Paseo Antonio Garcia Oliveros;Hombre;Antonio Garcia Oliveros;;;;;;;;1
+Plaza de Salvador Allende;Hombre;Salvador Allende;;;;;;;;1
+Plaza de San Francisco Coll;Hombre;San Francisco Coll;;;;;;;;1
+Plaza Santo Domingo;Hombre;Santo Domingo;;;;;;;;1
+Plaza Juan Pablo II;Hombre;Juan Pablo II;;;;;;;;
+Plaza de Emilio Casares;Hombre;Emilio Casares;;;;;;;;1
+Calle Carlos Bousoño;Hombre;Carlos Bousoño;;;;;;;;
+Plaza de Juan XXIII;Hombre;Juan XXIII;;;;;;;;1
+Calle Marcelino Suárez;Hombre;Marcelino Suárez;;;;;;;;
+Calle Ortega y Gasset;Hombre;Ortega y Gasset;;;;;;;;
+Calle Ramiro I;Hombre;Ramiro I;;;;;;;;
+Calle Francisco Cambó;Hombre;Francisco Cambó;;;;;;;;
+Calle Padre Vinjoy;Hombre;Padre Vinjoy;;;;;;;;1
+Calle Muñoz Degraín;Hombre;Muñoz Degraín;;;;;;;;1
+Plaza del Cardenal Tarancón;Hombre;Cardenal Tarancón;;;;;;;;
+Plaza Luis Ruiz de la Peña;Hombre;Luis Ruiz de la Peña;;;;;;;;
+Aureliano San Román;Hombre;Aureliano San Román;;;;;;;;
+Calle Fruela;Hombre;Fruela;;;;;;;;1
+Calle Marqués de Santa Cruz;Hombre;Marqués de Santa Cruz;;;;;;;;1
+Calle Conde de Toreno;Hombre;Conde de Toreno;;;;;;;;1
+Calle Mendizábal;Hombre;Mendizábal;;;;;;;;
+Calle Fray Ceferino;Hombre;Fray Ceferino;;;;;;;;1
+Fray Ceferino (prolongación);Hombre;Fray Ceferino (prolongación);;;;;;;;
+Plaza del General Primo de Rivera;Hombre;General Primo de Rivera;;;;;;;;1
+Bermúdez de Castro;Hombre;Bermúdez de Castro;;;;;;;;
+Calle Federico García Lorca;Hombre;Federico García Lorca;;;;;;;;1
+Calle Melquíades Álvarez;Hombre;Melquíades Álvarez;;;;;;;;1
+Calle San Pedro de Mestallón;Hombre;San Pedro de Mestallón;;;;;;;;1
+Calle Padre Suárez;Hombre;Padre Suárez;;;;;;;;1
+Calle Fernando Alonso Díaz;Hombre;Fernando Alonso Díaz;;;;;;;;1
+Calle Goya;Hombre;Goya;;;;;;;;1
+Calle San Mateo;Hombre;San Mateo;;;;;;;;1
+Avenida de Pedro Masaveu;Hombre;Pedro Masaveu;;;;;;;;1
+Calle Gil Blas;Hombre;Gil Blas;;;;;;;;1
+Calle Julián Cañedo;Hombre;Julián Cañedo;;;;;;;;1
+Calle Alejandro Casona;Hombre;Alejandro Casona;;;;;;;;
+Calle Favila;Hombre;Favila;;;;;;;;
+Calle Emilio Alarcos Llorach;Hombre;Emilio Alarcos Llorach;;;;;;;;1
+Calle de Alfonso Camín;Hombre;Alfonso Camín;;;;;;;;
+Calle Evaristo Valle;Hombre;Evaristo Valle;;;;;;;;1
+Calle Tito Bustillo;Hombre;Tito Bustillo;;;;;;;;
+Avenida de San Pedro de los Arcos;Hombre;San Pedro de los Arcos;;;;;;;;
+Calle González Besada;Hombre;González Besada;;;;;;;;1
+Plaza San Miguel;Hombre;San Miguel;;;;;;;;1
+Calle Samuel Sánchez;Hombre;Samuel Sánchez;;;;;;;;
+Calle San Francisco;Hombre;San Francisco;;;;;;;;1
+Calle Mendizábal;Hombre;Mendizábal;;;;;;;;
+Plaza Carlos Osoro;Hombre;Carlos Osoro;;;;;;;;
+Calle Benedicto Santos López;Hombre;Benedicto Santos López;;;;;;;;
+Calle Arzobispo Guisasola;Hombre;Arzobispo Guisasola;;;;;;;;1
+Calle Marqués de Gastañaga;Hombre;Marqués de Gastañaga;;;;;;;;1
+Calle Jerónimo Ibrán;Hombre;Jerónimo Ibrán;;;;;;;;1
+Calle Ramón Prieto Bances;Hombre;Ramón Prieto Bances;;;;;;;;1
+Calle San Ignacio de Loyola;Hombre;San Ignacio de Loyola;;;;;;;;1
+Calle Celestino Villamil;Hombre;Celestino Villamil;;;;;;;;
+Calle Félix Aramburu;Hombre;Félix Aramburu;;;;;;;;1
+Calle Ángel Cañedo;Hombre;Ángel Cañedo;;;;;;;;
+Calle Doctor Bellmunt;Hombre;Doctor Bellmunt;;;;;;;;
+Calle Álvaro Florez Estrada;Hombre;Álvaro Florez Estrada;;;;;;;;
+Calle Joaquín Villa Cañal;Hombre;Joaquín Villa Cañal;;;;;;;;
+Calle José Antonio Elola Olaso;Hombre;José Antonio Elola Olaso;;;;;;;;
+Calle Severo Ochoa;Hombre;Severo Ochoa;;;;;;;;
+Calle Marqués de la Vega de Anzo;Hombre;Marqués de la Vega de Anzo;;;;;;;;1
+Calle Juan Botas Roldán;Hombre;Juan Botas Roldán;;;;;;;;1
+Calle de San Isidoro;Hombre;San Isidoro;;;;;;;;1
+Calle Pedro Antonio Menéndez;Hombre;Pedro Antonio Menéndez;;;;;;;;1
+Calle de Pío XII;Hombre;Pío XII;;;;;;;;
+Calle de Policarpo Herrero;Hombre;Policarpo Herrero;;;;;;;;
+Calle Teodoro Cuesta;Hombre;Teodoro Cuesta;;;;;;;;
+Pasaje Sebastián Miranda;Hombre;Sebastián Miranda;;;;;;;;
+Avenida José Cuesta;Hombre;José Cuesta;;;;;;;;
+Calle Joaquín Manzanares;Hombre;Joaquín Manzanares;;;;;;;;
+Calle Joaquín Costa;Hombre;Joaquín Costa;;;;;;;;
+Calle Lorenzo Abruñedo;Hombre;Lorenzo Abruñedo;;;;;;;;
+Calle Máximo y Fromestano;Hombre;Máximo y Fromestano;;;;;;;;1
+Calle Menéndez y Pelayo;Hombre;Menéndez y Pelayo;;;;;;;;
+"""Calle Eduardo Herrera """"Herrerita""""""";Hombre;"""Calle Eduardo Herrera """"Herrerita""""""";;;;;;;;
+Plaza Teodoro López cuesta;Hombre;Teodoro López cuesta;;;;;;;;
+Calle San José de Calasanz;Hombre;San José de Calasanz;;;;;;;;
+Calle José Uría Uría;Hombre;José Uría Uría;;;;;;;;
+Calle Isidro Lángara;Hombre;Isidro Lángara;;;;;;;;
+Calle Ernesto Winter Blanco;Hombre;Ernesto Winter Blanco;;;;;;;;
+Calle Bernardo Valdés;Hombre;Bernardo Valdés;;;;;;;;
+Calle Alcalde Manuel Alvarez Buylla;Hombre;Alcalde Manuel Alvarez Buylla;;;;;;;;
+Calle San Melchor García Sampedro;Hombre;San Melchor García Sampedro;;;;;;;;1
+Calle de Indalecio Prieto Tuero;Hombre;Indalecio Prieto Tuero;;;;;;;;1
+Calle de Gaspar García Laviana;Hombre;Gaspar García Laviana;;;;;;;;1
+Plaza Luis Estrada González;Hombre;Luis Estrada González;;;;;;;;
+Calle Emilio Rodríguez Vigil;Hombre;Emilio Rodríguez Vigil;;;;;;;;
+Calle Julio Alvarez Mendo;Hombre;Julio Alvarez Mendo;;;;;;;;
+Calle Carlos Sainz;Hombre;Carlos Sainz;;;;;;;;
+Calle Rafael María de Labra;Hombre;Rafael María de Labra;;;;;;;;1
+Calle Lope de Vega;Hombre;Lope de Vega;;;;;;;;1
+Calle Augusto Junquera;Hombre;Augusto Junquera;;;;;;;;
+Calle Ricardo Montes;Hombre;Ricardo Montes;;;;;;;;
+Calle Telesforo Cuevas;Hombre;Telesforo Cuevas;;;;;;;;
+Calle Arturo Álvarez Buylla;Hombre;Arturo Álvarez Buylla;;;;;;;;
+Calle Dionisio Ridruejo;Hombre;Dionisio Ridruejo;;;;;;;;1
+Calle Ventura Rodríguez;Hombre;Ventura Rodríguez;;;;;;;;1
+Calle Manuel Pedregal;Hombre;Manuel Pedregal;;;;;;;;1
+Calle Julián Clavería;Hombre;Julián Clavería;;;;;;;;
+Calle Doctor Fernando Bongera;Hombre;Doctor Fernando Bongera;;;;;;;;
+Calle Guillermo Estrada;Hombre;Guillermo Estrada;;;;;;;;
+Bulevar de San Julián de los Prados;Hombre;San Julián de los Prados;;;;;;;;1
+Calle Jaime Truyols Santonja;Hombre;Jaime Truyols Santonja;;;;;;;;
+Calle Padre Florencio;Hombre;Padre Florencio;;;;;;;;1
+Calle de San Rafael Arnáiz;Hombre;San Rafael Arnáiz;;;;;;;;
+Calle Arcipreste de Hita;Hombre;Arcipreste de Hita;;;;;;;;
+Calle Quevedo;Hombre;Quevedo;;;;;;;;
+Calle Pérez Galdós;Hombre;Pérez Galdós;;;;;;;;
+Calle Fernando de Rojas;Hombre;Fernando de Rojas;;;;;;;;
+Calle Doctor Antonio Bascarán Asúnsolo;Hombre;Doctor Antonio Bascarán Asúnsolo;;;;;;;;
+Calle Juan Valera;Hombre;Juan Valera;;;;;;;;
+Calle Magín Berenguer Alonso;Hombre;Magín Berenguer Alonso;;;;;;;;
+Calle Acisclo Muñiz Vigo;Hombre;Acisclo Muñiz Vigo;;;;;;;;
+José Manuel Fuente El Tarangu;Hombre;José Manuel Fuente El Tarangu;;;;;;;;
+Calle San Lázaro;Hombre;San Lázaro;;;;;;;;1
+Calle Vital Aza;Hombre;Vital Aza;;;;;;;;
+Calle Alcalde Manuel García Conde;Hombre;Alcalde Manuel García Conde;;;;;;;;1
+Calle San José;Hombre;San José;;;;;;;;1
+Calle de San Vicente;Hombre;San Vicente;;;;;;;;1
+Calle Cardenal Álvarez Martínez;Hombre;Cardenal Álvarez Martínez;;;;;;;;
+Calle Marqués de Teverga;Hombre;Marqués de Teverga;;;;;;;;1
+Calle Gil de Jaz;Hombre;Gil de Jaz;;;;;;;;1
+Calle Daniel Moyano;Hombre;Daniel Moyano;;;;;;;;
+Calle Alfredo Blanco;Hombre;Alfredo Blanco;;;;;;;;
+Calle Padre Ferrero;Hombre;Padre Ferrero;;;;;;;;
+Calle Francisco Pintado Fe;Hombre;Francisco Pintado Fe;;;;;;;;
+Calle Sabino Álvarez Gendín;Hombre;Sabino Álvarez Gendín;;;;;;;;
+Calle Francisco Bances Candamo;Hombre;Francisco Bances Candamo;;;;;;;;
+Calle de Bernardo Casielles;Hombre;Bernardo Casielles;;;;;;;;
+Calle Carreño;Hombre;Carreño;;;;;;;;
+Calle Aniceto Sela;Hombre;Aniceto Sela;;;;;;;;1
+Calle Cardenal Inguanzo;Hombre;Cardenal Inguanzo;;;;;;;;1
+Calle Maximiliano Arboleya;Hombre;Maximiliano Arboleya;;;;;;;;
+Calle Gregorio Marañón;Hombre;Gregorio Marañón;;;;;;;;
+Calle Padre Aller;Hombre;Padre Aller;;;;;;;;
+Calle Antonio Maura;Hombre;Antonio Maura;;;;;;;;
+Calle Mateo Llana Díaz-Estébanez;Hombre;Mateo Llana Díaz-Estébanez;;;;;;;;
+Calle Manuel del Fresno;Hombre;Manuel del Fresno;;;;;;;;
+Calle José Remis Ovalle;Hombre;José Remis Ovalle;;;;;;;;
+Calle José Noriega;Hombre;José Noriega;;;;;;;;
+Calle Belarmino Cabal;Hombre;Belarmino Cabal;;;;;;;;
+Calle Ildefonso Sánchez del Río;Hombre;Ildefonso Sánchez del Río;;;;;;;;1
+Calle Melquíades Cabal;Hombre;Melquíades Cabal;;;;;;;;1
+Calle Eduardo de Fraga Torrejón;Hombre;Eduardo de Fraga Torrejón;;;;;;;;
+Calle Emilio Llaneza;Hombre;Emilio Llaneza;;;;;;;;
+Calle José Martínez Botón;Hombre;José Martínez Botón;;;;;;;;
+Calle de Vicente Miranda;Hombre;Vicente Miranda;;;;;;;;
+Calle Virgilio Palacio;Hombre;Virgilio Palacio;;;;;;;;
+Calle Don Víctor Quintanar;Hombre;Don Víctor Quintanar;;;;;;;;
+Calle José María Martínez Cachero;Hombre;José María Martínez Cachero;;;;;;;;
+Calle Valentín Masip;Hombre;Valentín Masip;;;;;;;;
+Calle Arquitecto Tioda;Hombre;Arquitecto Tioda;;;;;;;;
+Calle Roberto Velázquez Riera;Hombre;Roberto Velázquez Riera;;;;;;;;
+Calle José Maldonado;Hombre;José Maldonado;;;;;;;;
+Calle Rafael Altamira;Hombre;Rafael Altamira;;;;;;;;
+Calle Pablo Alonso Rato;Hombre;Pablo Alonso Rato;;;;;;;;
+Calle Padre Buenaventura Paredes;Hombre;Padre Buenaventura Paredes;;;;;;;;1
+Calle Benjamín Ortiz;Hombre;Benjamín Ortiz;;;;;;;;1
+Calle Fernando Vela;Hombre;Fernando Vela;;;;;;;;1
+Calle Arquitecto Reguera;Hombre;Arquitecto Reguera;;;;;;;;1
+Calle Marqués de Pidal;Hombre;Marqués de Pidal;;;;;;;;1
+Calle Cervantes;Hombre;Cervantes;;;;;;;;1
+Calle Cardenal Cienfuegos;Hombre;Cardenal Cienfuegos;;;;;;;;1
+Calle Pedro Caravia;Hombre;Pedro Caravia;;;;;;;;
+Calle Doctor Solís Cajigal;Hombre;Doctor Solís Cajigal;;;;;;;;
+Calle Álvaro de Albornoz;Hombre;Álvaro de Albornoz;;;;;;;;
+Calle Miguel de Unamuno;Hombre;Miguel de Unamuno;;;;;;;;1
+Calle José Echegaray;Hombre;José Echegaray;;;;;;;;
+Calle Juan Ramón Jiménez;Hombre;Juan Ramón Jiménez;;;;;;;;
+Calle Roberto Frasinelli;Hombre;Roberto Frasinelli;;;;;;;;
+Calle Víctor Sáenz;Hombre;Víctor Sáenz;;;;;;;;
+Calle José Ramón Zaragoza;Hombre;José Ramón Zaragoza;;;;;;;;
+Calle José Requejo;Hombre;José Requejo;;;;;;;;
+Calle Murillo;Hombre;Murillo;;;;;;;;
+Calle Manuel de Falla;Hombre;Manuel de Falla;;;;;;;;
+Calle Doctor Amalio Telenti;Hombre;Doctor Amalio Telenti;;;;;;;;
+Glorieta Luis Oliver;Hombre;Luis Oliver;;;;;;;;
+Calle Ricardo Vázquez Prada;Hombre;Ricardo Vázquez Prada;;;;;;;;
+Calle Saturnino Fresno;Hombre;Saturnino Fresno;;;;;;;;
+Calle Leopoldo Alas;Hombre;Leopoldo Alas;;;;;;;;1
+Calle Adolfo Posada;Hombre;Adolfo Posada;;;;;;;;1
+Calle Carlos Asensio Bretones;Hombre;Carlos Asensio Bretones;;;;;;;;1
+Calle Rafael Sarandeses;Hombre;Rafael Sarandeses;;;;;;;;
+Calle Tirso de Avilés;Hombre;Tirso de Avilés;;;;;;;;
+Calle Obispo Manuel Fernández Castro;Hombre;Obispo Manuel Fernández Castro;;;;;;;;
+Calle Fernando Villaamil;Hombre;Fernando Villaamil;;;;;;;;
+Calle Marqués Valero de Urría;Hombre;Marqués Valero de Urría;;;;;;;;
+Calle Turina;Hombre;Turina;;;;;;;;
+Calle Luis Braille;Hombre;Luis Braille;;;;;;;;1
+Calle Adolfo Álvarez Folgueras;Hombre;Adolfo Álvarez Folgueras;;;;;;;;1
+Paulino Vicente (Pintor);Hombre;Paulino Vicente (Pintor);;;;;;;;
+Calle Pepe Cosmen;Hombre;Pepe Cosmen;;;;;;;;1
+Calle José López Muñiz;Hombre;José López Muñiz;;;;;;;;1
+Calle San Roque;Hombre;San Roque;;;;;;;;1
+Calle Juan Antonio Vallejo-Nágera Botas;Hombre;Juan Antonio Vallejo-Nágera Botas;;;;;;;;
+Calle Charles Darwin;Hombre;Charles Darwin;;;;;;;;1
+Calle Marqués de Mohias;Hombre;Marqués de Mohias;;;;;;;;1
+Calle Manuel Fernández Avello;Hombre;Manuel Fernández Avello;;;;;;;;
+Calle Ángel Muñiz Toca;Hombre;Ángel Muñiz Toca;;;;;;;;
+Calle Celestino Álvarez;Hombre;Celestino Álvarez;;;;;;;;
+Calle José Ramón Tolívar Faes;Hombre;José Ramón Tolívar Faes;;;;;;;;
+Calle Joaquín Blume;Hombre;Joaquín Blume;;;;;;;;
+Travesía Francisco González Argüelles;Hombre;Francisco González Argüelles;;;;;;;;
+Plaza Sixto Álvarez Armán;Hombre;Sixto Álvarez Armán;;;;;;;;
+"""Eduardo Herrera """"Herrerita"""" (futbolista)""";Hombre;"""Eduardo Herrera """"Herrerita"""" (futbolista)""";;;;;;;;
+Calle Marcelino Fernández;Hombre;Marcelino Fernández;;;;;;;;1
+Calle Ciriaco Miguel Vigil;Hombre;Ciriaco Miguel Vigil;;;;;;;;
+Calle de Isidoro Rodríguez Acevedo;Hombre;Isidoro Rodríguez Acevedo;;;;;;;;
+Calle Ataúlfo Lada Camblor;Hombre;Ataúlfo Lada Camblor;;;;;;;;
+Calle Alcalde Manuel Alvarez Buylla;Hombre;Alcalde Manuel Alvarez Buylla;;;;;;;;
+Rotonda de San Lazaro;Hombre;San Lazaro;;;;;;;;1
+Calle Rafael Urrusti;Hombre;Rafael Urrusti;;;;;;;;
+Calle Rafael Urristi;Hombre;Rafael Urristi;;;;;;;;
+Calle Jesús Arias de Velasco;Hombre;Jesús Arias de Velasco;;;;;;;;1
+Calle Valentín Andrés Álvarez;Hombre;Valentín Andrés Álvarez;;;;;;;;
+Calle Luis Álvarez Fueyo;Hombre;Luis Álvarez Fueyo;;;;;;;;1
+Calle Isidoro Chamorro Pérez;Hombre;Isidoro Chamorro Pérez;;;;;;;;1
+Calle Ignacio Herrero Garralda;Hombre;Ignacio Herrero Garralda;;;;;;;;
+Plaza del Arzobispo Gabino Díaz Merchán;Hombre;Arzobispo Gabino Díaz Merchán;;;;;;;;
+Calle Jovellanos;Hombre;Jovellanos;;;;;;;;1
+Calle Teodomiro Menéndez;Hombre;Teodomiro Menéndez;;;;;;;;1
+Calle Aurelio del Llano;Hombre;Aurelio del Llano;;;;;;;;1
+Calle de Alfonso Camín;Hombre;Alfonso Camín;;;;;;;;
+Pasaje Doctor Francisco García Díaz;Hombre;Doctor Francisco García Díaz;;;;;;;;
+Calle Juan Benito Argüelles;Hombre;Juan Benito Argüelles;;;;;;;;1
+Calle Fermín Canella;Hombre;Fermín Canella;;;;;;;;1
+Calle Valentín Masip;Hombre;Valentín Masip;;;;;;;;
+Avenida de Colón;Hombre;Colón;;;;;;;;
+Paseo de Julio Vallaure Fernández-Peña;Hombre;Julio Vallaure Fernández-Peña;;;;;;;;
+Calle Menéndez y Pelayo;Hombre;Menéndez y Pelayo;;;;;;;;
+Calle Antonio Martínez Vega;Hombre;Antonio Martínez Vega;;;;;;;;
+"""Calle Antonio Sánchez Valdés """"Antón""""""";Hombre;"""Calle Antonio Sánchez Valdés """"Antón""""""";;;;;;;;
+Pasaje Sebastián Miranda;Hombre;Sebastián Miranda;;;;;;;;
+Calle Vicente Aleixandre;Hombre;Vicente Aleixandre;;;;;;;;1
+Calle Alfonso III El Magno;Hombre;Alfonso III El Magno;;;;;;;;1
+Calle Ignacio Álvarez Castelao;Hombre;Ignacio Álvarez Castelao;;;;;;;;1
+Calle Doctor Alfredo Martínez;Hombre;Doctor Alfredo Martínez;;;;;;;;1
+Calle Alonso Quintanilla;Hombre;Alonso Quintanilla;;;;;;;;1
+Calle Javier Grossi;Hombre;Javier Grossi;;;;;;;;1
+Calle Jacinto Benavente;Hombre;Jacinto Benavente;;;;;;;;
+Calle Narciso Hernández Vaquero;Hombre;Narciso Hernández Vaquero;;;;;;;;1
+Calle Manuel Llaneza;Hombre;Manuel Llaneza;;;;;;;;
+Calle Fernando Zuazua;Hombre;Fernando Zuazua;;;;;;;;
+Plaza Pedro González López;Hombre;Pedro González López;;;;;;;;
+Calle Faustino García-Roel Rodríguez;Hombre;Faustino García-Roel Rodríguez;;;;;;;;1
+Calle Adolfo Posada;Hombre;Adolfo Posada;;;;;;;;1
+Pasaje Luis Muñiz;Hombre;Luis Muñiz;;;;;;;;1
+Calle Nicolás y Pepín Rivero;Hombre;Nicolás y Pepín Rivero;;;;;;;;1
+Calle San Antonio;Hombre;San Antonio;;;;;;;;1
+Juan López-Arranz (Rector);Hombre;Juan López-Arranz (Rector);;;;;;;;
+Plaza Jaime Martínez González - Río;Hombre;Jaime Martínez González - Río;;;;;;;;
+Calle Claudio Sánchez Albornoz;Hombre;Claudio Sánchez Albornoz;;;;;;;;
+Pasaje Plácido Álvarez Buylla;Hombre;Plácido Álvarez Buylla;;;;;;;;
+Calle Doctor Eduardo González Menéndez;Hombre;Doctor Eduardo González Menéndez;;;;;;;;
+Calle Antidio Velasco;Hombre;Antidio Velasco;;;;;;;;
+Calle Carlos Prieto;Hombre;Carlos Prieto;;;;;;;;
+Calle Jorge García Rodríguez;Hombre;Jorge García Rodríguez;;;;;;;;1
+Avenida José Cima;Hombre;José Cima;;;;;;;;
+Calle José Tartiere;Hombre;José Tartiere;;;;;;;;
+Carretera de Abuli;Hombre;Abuli;;;;;;;;
+Calle Luis Gracia Iberni;Hombre;Luis Gracia Iberni;;;;;;;;
+Calle Doctor Fleming;Hombre;Doctor Fleming;;;;;;;;1
+Avenida Adolfo Suárez;Hombre;Adolfo Suárez;;;;;;;;
+Calle Carreño de Miranda;Hombre;Carreño de Miranda;;;;;;;;
+Calle Mario Nuevo;Hombre;Mario Nuevo;;;;;;;;
+Calle Doctor Vicente Vallina;Hombre;Doctor Vicente Vallina;;;;;;;;
+Calle de San Benito;Hombre;San Benito;;;;;;;;1
+Calle Miguel Indurain;Hombre;Miguel Indurain;;;;;;;;1
+"""Dr. Eduardo González """"Macano""""""";Hombre;"""Dr. Eduardo González """"Macano""""""";;;;;;;;
+Calle San Marcelino Champagnat;Hombre;San Marcelino Champagnat;;;;;;;;
+"""Calle Luis Suarez """"Ximielga""""""";Hombre;"""Calle Luis Suarez """"Ximielga""""""";;;;;;;;
+Calle Armando Collar;Hombre;Armando Collar;;;;;;;;1
+Calle de Luis Fernández Castañón;Hombre;Luis Fernández Castañón;;;;;;;;
+Teniente Alfonso Martínez;Hombre;Teniente Alfonso Martínez;;;;;;;;
+Calle Aureliano San Román;Hombre;Aureliano San Román;;;;;;;;
+Calle Celestino Zuazua;Hombre;Celestino Zuazua;;;;;;;;
+Calle Luis Orejas Canseco;Hombre;Luis Orejas Canseco;;;;;;;;
+Calle Domingo Rodríguez;Hombre;Domingo Rodríguez;;;;;;;;
+Calle José García Nieto;Hombre;José García Nieto;;;;;;;;
+Calle Cardenal Arce Ochotorena;Hombre;Cardenal Arce Ochotorena;;;;;;;;1
+Calle Arzobispo Lauzurica;Hombre;Arzobispo Lauzurica;;;;;;;;
+Calle Jose María Marcilla;Hombre;Jose María Marcilla;;;;;;;;
+Calle San Martín del Rey Aurelio;Hombre;San Martín del Rey Aurelio;;;;;;;;
+Calle Manuel Díaz Álvarez;Hombre;Manuel Díaz Álvarez;;;;;;;;
+Carretera de San Esteban de Les Cruces a Frieres;Hombre;San Esteban de Les Cruces a Frieres;;;;;;;;
+Calle Salvador de Madariaga;Hombre;Salvador de Madariaga;;;;;;;;1
+Calle Richard Grandío;Hombre;Richard Grandío;;;;;;;;
+Calle Tino Casal;Hombre;Tino Casal;;;;;;;;
+Plaza Fernando Álvarez García;Hombre;Fernando Álvarez García;;;;;;;;
+Calle Armando Collar;Hombre;Armando Collar;;;;;;;;1
+Calle El Franco;Hombre;Franco;;;;;;;;
+Calle San Julian Box;Hombre;San Julian Box;;;;;;;;
+Ponteo - San Claudio;Hombre;Ponteo - San Claudio;;;;;;;;
+Calle Manolo Ponteo;Hombre;Manolo Ponteo;;;;;;;;
+Plaza Feijoo;Hombre;Feijoo;;;;;;;;1
+Plaza de Daoíz y Velarde;Hombre;Daoíz y Velarde;;;;;;;;1
+Monumento a Clarín;Hombre;Monumento a Clarín;;;;;;;;
+Plaza Párroco Fernando Rubio Bardón;Hombre;Párroco Fernando Rubio Bardón;;;;;;;;1
+Plaza Juanin de Mieres;Hombre;Juanin de Mieres;;;;;;;;
+Calle Escultor Folgueras;Hombre;Escultor Folgueras;;;;;;;;
+Calle Vázquez de Mella;Hombre;Vázquez de Mella;;;;;;;;
+Plaza del General Ordoñez;Hombre;General Ordoñez;;;;;;;;
+Ramón y Cajal;Hombre;Ramón y Cajal;;;;;;;;1
+Calle Víctor Hevia;Hombre;Víctor Hevia;;;;;;;;
+Calle Eusebio González Abascal;Hombre;Eusebio González Abascal;;;;;;;;1
+Calle Schultz;Hombre;Schultz;;;;;;;;1
+Calle Suárez de la Riva;Hombre;Suárez de la Riva;;;;;;;;1
+Calle de Martínez Marina;Hombre;Martínez Marina;;;;;;;;1
+Calle General Elorza;Hombre;General Elorza;;;;;;;;1
+Avenida de los doctores Fernández Vega;Hombre;doctores Fernández Vega;;;;;;;;
+Avenida Cristo de las Cadenas;Hombre;Cristo de las Cadenas;;;;;;;;
+Calle Coronel Bobes;Hombre;Coronel Bobes;;;;;;;;
+Calle del Ecce Homo;Hombre;Ecce Homo;;;;;;;;1
+Calle Pintor Luis Fernández;Hombre;Pintor Luis Fernández;;;;;;;;1
+Calle Pérez de Ayala;Hombre;Pérez de Ayala;;;;;;;;1
+Calle Escultor Navascués;Hombre;Escultor Navascués;;;;;;;;1
+Avenida de los Hermanos Menéndez Pidal;Hombre;Hermanos Menéndez Pidal;;;;;;;;
+Calle Pintor José Pérez Jiménez;Hombre;Pintor José Pérez Jiménez;;;;;;;;
+Calle Sanz y Fores;Hombre;Sanz y Fores;;;;;;;;1
+Calle Monseñor Óscar Arnulfo Romero;Hombre;Monseñor Óscar Arnulfo Romero;;;;;;;;
+Alcalde López Mulero;Hombre;Alcalde López Mulero;;;;;;;;
+Avenida Cristo de las Cadenas;Hombre;Cristo de las Cadenas;;;;;;;;
+Calle Calderón de la Barca;Hombre;Calderón de la Barca;;;;;;;;
+Calle Virrey Abascal;Hombre;Virrey Abascal;;;;;;;;1
+Calle Pintor Francisco Casariego;Hombre;Pintor Francisco Casariego;;;;;;;;
+Calle del Cabo Noval;Hombre;Cabo Noval;;;;;;;;1
+Calle Catedratico José María Serrano;Hombre;Catedratico José María Serrano;;;;;;;;
+Calle Pepín Rodríguez;Hombre;Pepín Rodríguez;;;;;;;;
+Calle Darío de Regoyos;Hombre;Darío de Regoyos;;;;;;;;1
+Calle Hermanos Maristas de La Enseñanza;Hombre;Hermanos Maristas de La Enseñanza;;;;;;;;
+Calle Arquitectos Galán;Hombre;Arquitectos Galán;;;;;;;;1
+Calle Catedrático Miguel Traviesas;Hombre;Catedrático Miguel Traviesas;;;;;;;;1
+Calle Pintor Orlando Pelayo;Hombre;Pintor Orlando Pelayo;;;;;;;;
+Calle Pintor Ribera;Hombre;Pintor Ribera;;;;;;;;
+Calle González del Valle;Hombre;González del Valle;;;;;;;;1
+Calle Catedrático Pérez Casas;Hombre;Catedrático Pérez Casas;;;;;;;;
+Calle Catedrático Rodrigo Uría;Hombre;Catedrático Rodrigo Uría;;;;;;;;
+Calle Baldomero Fernández;Hombre;Baldomero Fernández;;;;;;;;
+Calle Álvarez Lorenzana;Hombre;Álvarez Lorenzana;;;;;;;;
+Calle Goico Aguirre;Hombre;Goico Aguirre;;;;;;;;
+Calle Maestro Don Marciano;Hombre;Maestro Don Marciano;;;;;;;;
+Calle Juan Cordero;Hombre;Juan Cordero;;;;;;;;
+Calle Fernández de Oviedo;Hombre;Fernández de Oviedo;;;;;;;;
+Calle Albéniz;Hombre;Albéniz;;;;;;;;
+Calle López del Vallado;Hombre;López del Vallado;;;;;;;;1
+Calle Dr. Juan Manuel Ocaña Serrano;Hombre;Dr. Juan Manuel Ocaña Serrano;;;;;;;;
+Calle Matemático Pedrayes;Hombre;Matemático Pedrayes;;;;;;;;1
+Jesús Sáenz de Miera;Hombre;Jesús Sáenz de Miera;;;;;;;;
+Calle Martínez Vigil;Hombre;Martínez Vigil;;;;;;;;1
+Calle Rodríguez Cabezas;Hombre;Rodríguez Cabezas;;;;;;;;
+Calle Dr. Melquíades Cabal;Hombre;Dr. Melquíades Cabal;;;;;;;;1
+Calle Valdés Salas;Hombre;Valdés Salas;;;;;;;;1
+Calle Rector Leopoldo Alas Hijo;Hombre;Rector Leopoldo Alas Hijo;;;;;;;;
+Calle Catedrático Adolfo Álvarez-Buylla;Hombre;Catedrático Adolfo Álvarez-Buylla;;;;;;;;
+Calle Poetas Gamoneda;Hombre;Poetas Gamoneda;;;;;;;;
+Calle Dr. Francisco Grande-Covián;Hombre;Dr. Francisco Grande-Covián;;;;;;;;
+Calle Fernández Juncos;Hombre;Fernández Juncos;;;;;;;;
+Calle Hermanos Villanueva;Hombre;Hermanos Villanueva;;;;;;;;
+Calle Cabo Peñas;Hombre;Cabo Peñas;;;;;;;;
+Calle Historiador Juan Uria;Hombre;Historiador Juan Uria;;;;;;;;
+Calle Velázquez;Hombre;Velázquez;;;;;;;;
+Calle Bermúdez de Castro;Hombre;Bermúdez de Castro;;;;;;;;
+Calle de los Periodistas Cepeda;Hombre;Periodistas Cepeda;;;;;;;;
+Calle Escultor Laviada;Hombre;Escultor Laviada;;;;;;;;
+Calle General Zuvillaga;Hombre;General Zuvillaga;;;;;;;;
+Calle Evaristo Valle;Hombre;Evaristo Valle;;;;;;;;1
+Calle General Sabino Fernández Campo;Hombre;General Sabino Fernández Campo;;;;;;;;
+Calle Manuel del Fresno;Hombre;Manuel del Fresno;;;;;;;;
+Calle Pintor César González Pola;Hombre;Pintor César González Pola;;;;;;;;
+Calle Clermont-Ferrand;Hombre;Clermont-Ferrand;;;;;;;;
+Calle Salvador Fuente González;Hombre;Salvador Fuente González;;;;;;;;1
+Calle Catedrático Gimeno;Hombre;Catedrático Gimeno;;;;;;;;1
+Calle Ingeniero Patac;Hombre;Ingeniero Patac;;;;;;;;
+Plaza Juanin de Mieres;Hombre;Juanin de Mieres;;;;;;;;
+Calle Ramón G Palacio;Hombre;Ramón G Palacio;;;;;;;;
+Calle Tomás Crespo;Hombre;Tomás Crespo;;;;;;;;
+Calle Catedrático Noel Llopis Lladó;Hombre;Catedrático Noel Llopis Lladó;;;;;;;;
+Bulevar de San Julián de los Prados;Hombre;San Julián de los Prados;;;;;;;;1
+Pasaje Campillo y Cossío;Hombre;Campillo y Cossío;;;;;;;;
+Calle Roberto Velázquez Riera;Hombre;Roberto Velázquez Riera;;;;;;;;
+Calle Catedrático Francisco Beceña;Hombre;Catedrático Francisco Beceña;;;;;;;;
+Calle Enrique Claverol;Hombre;Enrique Claverol;;;;;;;;
+Calle Xuacu Sama;Hombre;Xuacu Sama;;;;;;;;
+Calle Catedrático Luis Sela Sampil;Hombre;Catedrático Luis Sela Sampil;;;;;;;;
+Luis Suárez «Ximielga»;Hombre;Luis Suárez «Ximielga»;;;;;;;;
+"""Calle Luis Suárez """"Ximielga""""""";Hombre;"""Calle Luis Suárez """"Ximielga""""""";;;;;;;;
+Calle Maestro Larrosa;Hombre;Maestro Larrosa;;;;;;;;
+santiago;Hombre;santiago;;;;;;;;
+Calle Coronel Hernando Espinosa;Hombre;Coronel Hernando Espinosa;;;;;;;;
+Calle General Fonsdeviela;Hombre;General Fonsdeviela;;;;;;;;
+Calle Suárez Inclán;Hombre;Suárez Inclán;;;;;;;;
+Calle Padre Aller;Hombre;Padre Aller;;;;;;;;
+Calle de Gaspar García Laviana;Hombre;Gaspar García Laviana;;;;;;;;1
+Avenida de los Reyes Católicos;NA;Reyes Católicos;;;;;;;;
+Calle de México;NA;México;;;;;;;;
+Calle Río Caudal;NA;Río Caudal;;;;;;;;
+Calle Paraíso;NA;Paraíso;;;;;;;;1
+Calle Río Sella;NA;Río Sella;;;;;;;;
+Calle Río Dobra;NA;Río Dobra;;;;;;;;
+Calle Río Eo;NA;Río Eo;;;;;;;;
+Calle Seminario;NA;Seminario;;;;;;;;
+Calle Río San Pedro;NA;Río San Pedro;;;;;;;;1
+Calle Posada Herrera;NA;Posada Herrera;;;;;;;;1
+Calle Río Ibias;NA;Río Ibias;;;;;;;;
+Calle Río Narcea;NA;Río Narcea;;;;;;;;
+Calle Río Piloña;NA;Río Piloña;;;;;;;;
+Calle Río Cubia;NA;Río Cubia;;;;;;;;
+Calle Río Navia;NA;Río Navia;;;;;;;;
+Calle Río Nora;NA;Río Nora;;;;;;;;
+Calle Río Nalón;NA;Río Nalón;;;;;;;;
+Calle Río Cares;NA;Río Cares;;;;;;;;
+Calle Río Nonaya;NA;Río Nonaya;;;;;;;;
+Calle Río Orlé;NA;Río Orlé;;;;;;;;
+Calle Río Porcía;NA;Río Porcía;;;;;;;;
+Calle Río Pigüeña;NA;Río Pigüeña;;;;;;;;
+Carretera de Oviedo a El Escamplero;NA;Oviedo a El Escamplero;;;;;;;;
+Carretera de Priañes;NA;Priañes;;;;;;;;
+Carretera Trubia - Avilés;NA;Trubia - Avilés;;;;;;;;
+Calle Proaza;NA;Proaza;;;;;;;;
+Carretera Irún-Santiago;NA;Irún-Santiago;;;;;;;;
+Carretera Irún - Santiago;NA;Irún - Santiago;;;;;;;;
+Cuesta Vallina;NA;Vallina;;;;;;;;
+Antiguo trazado;NA;Antiguo trazado;;;;;;;;
+Camino Monte la Capilla - Pedruño;NA;Monte la Capilla - Pedruño;;;;;;;;
+Carretera Ules;NA;Ules;;;;;;;;
+Calle El Monticu de Olivares;NA;Monticu de Olivares;;;;;;;;
+Calle Tineo;NA;Tineo;;;;;;;;
+Calle Yernes y Tameza;NA;Yernes y Tameza;;;;;;;;
+Calle Belmonte de Miranda;NA;Belmonte de Miranda;;;;;;;;
+Calle Teverga;NA;Teverga;;;;;;;;
+Calle Somiedo;NA;Somiedo;;;;;;;;
+Calle Salas;NA;Salas;;;;;;;;
+Calle Quirós;NA;Quirós;;;;;;;;
+Acceso al Centro Asturiano de Oviedo;NA;Centro Asturiano de Oviedo;;;;;;;;
+Camino Primitivo;NA;Primitivo;;;;;;;;
+Carretera Oviedo-San Claudio;NA;Oviedo-San Claudio;;;;;;;;
+Calle El Campo de Olivares;NA;Campo de Olivares;;;;;;;;
+Puente de Brañes;NA;Brañes;;;;;;;;
+Plaza del Deporte Adaptado;NA;Deporte Adaptado;;;;;;;;
+Calle Valdés;NA;Valdés;;;;;;;;
+Paseo de Las Campas;NA;Campas;;;;;;;;
+Calle Muros del Nalon;NA;Muros del Nalon;;;;;;;;
+Espriella;NA;Espriella;;;;;;;;
+Calle El Pradín de Olivares;NA;Pradín de Olivares;;;;;;;;
+Calle La Frialdá de Olivares;NA;Frialdá de Olivares;;;;;;;;
+Calle Casa La Morena de Olivares;NA;Casa La Morena de Olivares;;;;;;;;
+Calle El Pipón de Olivares;NA;Pipón de Olivares;;;;;;;;
+Calle El Monticu de Olivares;NA;Monticu de Olivares;;;;;;;;
+Caleya La Coxa;NA;Caleya La Coxa;;;;;;;;
+Calle Ángel del Río Uribe;NA;Ángel del Río Uribe;;;;;;;;
+Carretera de Posada de Llanera a Biedes;NA;Posada de Llanera a Biedes;;;;;;;;
+Calle Caveda;NA;Caveda;;;;;;;;1
+Plaza Porlier;NA;Porlier;;;;;;;;1
+Plaza de la Constitución;NA;Constitución;;;;;;;;
+Plaza del Sol;NA;Sol;;;;;;;;1
+Paseo de Los Álamos;NA;Álamos;;;;;;;;
+Plaza de Riego;NA;Riego;;;;;;;;1
+Plaza de los Ferrocarriles Económicos de Asturias;NA;Ferrocarriles Económicos de Asturias;;;;;;;;
+Plaza de Italia;NA;Italia;;;;;;;;
+Plaza de La Noceda;NA;Noceda;;;;;;;;1
+Calle Campoamor;NA;Campoamor;;;;;;;;1
+Calle Nueve de Mayo;NA;Nueve de Mayo;;;;;;;;1
+Plaza Montañeros de Vetusta;NA;Montañeros de Vetusta;;;;;;;;
+Plaza del Carbayón;NA;Carbayón;;;;;;;;1
+Plaza del Fontán;NA;Fontán;;;;;;;;1
+Urbanización Monte Alto;NA;Monte Alto;;;;;;;;
+Plaza de la Alameda;NA;Alameda;;;;;;;;
+Parque del desarme;NA;desarme;;;;;;;;
+Plaza Campo de La Vega;NA;Campo de La Vega;;;;;;;;1
+Plaza de los Sindicatos Mineros;NA;Sindicatos Mineros;;;;;;;;
+Plaza de Occidente;NA;Occidente;;;;;;;;
+Plaza Lago Enol;NA;Lago Enol;;;;;;;;
+Plaza Santullano;NA;Santullano;;;;;;;;1
+Plaza Gremio de Libreros;NA;Gremio de Libreros;;;;;;;;
+Corrada de La Poesia;NA;Corrada de La Poesia;;;;;;;;1
+Ronda Sur;NA;Sur;;;;;;;;1
+Plaza de la Cruz Roja;NA;Cruz Roja;;;;;;;;
+AS-266;NA;AS-266;;;;;;;;
+Avenida del Mar;NA;Mar;;;;;;;;
+Avenida de Pumarín;NA;Pumarín;;;;;;;;1
+Calle Fuertes Acevedo;NA;Fuertes Acevedo;;;;;;;;
+Calle Tenderina;NA;Tenderina;;;;;;;;1
+Calle Rosal;NA;Rosal;;;;;;;;1
+Calle Los Pozos;NA;Pozos;;;;;;;;1
+Calle Uría;NA;Uría;;;;;;;;1
+Avenida de Atenas;NA;Atenas;;;;;;;;
+Avenida del Cantábrico;NA;Cantábrico;;;;;;;;
+Plaza de España;NA;España;;;;;;;;1
+Calle Palacio Valdés;NA;Palacio Valdés;;;;;;;;1
+Urbanización Monte Alto;NA;Monte Alto;;;;;;;;
+Calle Villafría;NA;Villafría;;;;;;;;1
+Plaza Montañeros de Vetusta;NA;Montañeros de Vetusta;;;;;;;;
+Juan Escalante de Mendoza;NA;Juan Escalante de Mendoza;;;;;;;;1
+Calle de Otero;NA;Otero;;;;;;;;1
+Calle Fuente de la Plata;NA;Fuente de la Plata;;;;;;;;
+Calle Los Cuatro Ases de la Canción Asturiana;NA;Cuatro Ases de la Canción Asturiana;;;;;;;;
+Calle Viaducto del Ingeniero Marquina;NA;Viaducto del Ingeniero Marquina;;;;;;;;1
+Avenida de Pando;NA;Pando;;;;;;;;1
+Avenida de los Monumentos;NA;Monumentos;;;;;;;;
+Calle Montes del Sueve;NA;Montes del Sueve;;;;;;;;
+Calle Peña Ubiña;NA;Peña Ubiña;;;;;;;;
+Calle Naranjo de Bulnes;NA;Naranjo de Bulnes;;;;;;;;
+Nicolás Soria;NA;Nicolás Soria;;;;;;;;1
+Los Avellanos;NA;Avellanos;;;;;;;;1
+Calle Foncalada;NA;Foncalada;;;;;;;;1
+Calle la Luna;NA;Luna;;;;;;;;1
+Calle del Postigo Alto;NA;Postigo Alto;;;;;;;;1
+Calle Mon;NA;Mon;;;;;;;;1
+Calle Carpio;NA;Carpio;;;;;;;;1
+Plaza del Fontán;NA;Fontán;;;;;;;;1
+Calle Quintana;NA;Quintana;;;;;;;;1
+Plaza Olímpica;NA;Olímpica;;;;;;;;
+Paseo de La Florida;NA;Florida;;;;;;;;
+Calle Cudillero;NA;Cudillero;;;;;;;;
+Manuel Cueto Guisasola;NA;Manuel Cueto Guisasola;;;;;;;;
+Avenida de Galicia;NA;Galicia;;;;;;;;1
+Plaza de los Ferroviarios;NA;Ferroviarios;;;;;;;;
+Calle de la Argañosa;NA;Argañosa;;;;;;;;
+Calle de La Rotonda;NA;Rotonda;;;;;;;;
+Glorieta Hospital Monte Naranco;NA;Hospital Monte Naranco;;;;;;;;
+Calle Principado;NA;Principado;;;;;;;;1
+Calle Oscura;NA;Oscura;;;;;;;;1
+Plaza de Italia;NA;Italia;;;;;;;;
+Avenida de Alemania;NA;Alemania;;;;;;;;
+Calle Llano Ponte;NA;Llano Ponte;;;;;;;;1
+Juan Belmonte;NA;Juan Belmonte;;;;;;;;
+Avenida de Lisboa;NA;Lisboa;;;;;;;;
+Carretera del Rubín;NA;Rubín;;;;;;;;
+Avenida de Buenavista;NA;Buenavista;;;;;;;;
+Pasaje de los Nogales;NA;Nogales;;;;;;;;
+Paseo de Veracruz;NA;Veracruz;;;;;;;;
+Calle Torrecerredo;NA;Torrecerredo;;;;;;;;
+Calle Monte Auseva;NA;Monte Auseva;;;;;;;;
+Pasaje de los Cerezos;NA;Cerezos;;;;;;;;
+Pasaje de los Negrillos;NA;Negrillos;;;;;;;;
+Calle de los Castaños;NA;Castaños;;;;;;;;
+Calle Mayorazu;NA;Mayorazu;;;;;;;;1
+Calle los sauces;NA;sauces;;;;;;;;
+Enlace A-66;NA;A-66;;;;;;;;
+Calle Fierro;NA;Fierro;;;;;;;;1
+Paseo de la Rosaleda;NA;Rosaleda;;;;;;;;
+Calleja de los Huevos;NA;Huevos;;;;;;;;1
+Pasaje del Arco Iris;NA;Arco Iris;;;;;;;;1
+Calle El Peso;NA;Peso;;;;;;;;1
+Carretera de Fitoria;NA;Fitoria;;;;;;;;
+Camino de Matalablima;NA;Matalablima;;;;;;;;
+Calle Monte Gamonal;NA;Monte Gamonal;;;;;;;;
+Avenida de Santander;NA;Santander;;;;;;;;1
+Calle Selgas;NA;Selgas;;;;;;;;
+Calle Altamirano;NA;Altamirano;;;;;;;;1
+Calle Azcárraga;NA;Azcárraga;;;;;;;;1
+Calle Campo de los Patos;NA;Campo de los Patos;;;;;;;;1
+Plaza Puerta de Europa;NA;Puerta de Europa;;;;;;;;
+Paseo del Parque de Invierno;NA;Parque de Invierno;;;;;;;;
+Calle Camin Real;NA;Camin Real;;;;;;;;
+Avenida de Las Segadas;NA;Segadas;;;;;;;;
+Colegio Dulce Nombre de Jesús (Dominicas);NA;Colegio Dulce Nombre de Jesús (Dominicas);;;;;;;;
+Calle Talleres de Carros;NA;Talleres de Carros;;;;;;;;
+Calle Colegio San Isidoro;NA;Colegio San Isidoro;;;;;;;;
+Calle Bélgica;NA;Bélgica;;;;;;;;
+Calle Austria;NA;Austria;;;;;;;;
+Carretera Trubia - Avilés;NA;Trubia - Avilés;;;;;;;;
+Calle Torrevieja;NA;Torrevieja;;;;;;;;
+Calle Jersey City;NA;Jersey City;;;;;;;;
+Calle Viseu;NA;Viseu;;;;;;;;
+Calle del Emigrante;NA;Emigrante;;;;;;;;1
+Calle del Muérdago;NA;Muérdago;;;;;;;;1
+Calle Huerta de Otero;NA;Huerta de Otero;;;;;;;;1
+Calle de los Tulipanes;NA;Tulipanes;;;;;;;;
+Calle Dinamarca;NA;Dinamarca;;;;;;;;
+Calle Aguamiera;NA;Aguamiera;;;;;;;;
+Plaza Campo de La Vega;NA;Campo de La Vega;;;;;;;;1
+Calle La Cuesta de Olivares;NA;Cuesta de Olivares;;;;;;;;
+Glorieta Hospital Monte Naranco;NA;Hospital Monte Naranco;;;;;;;;
+Avenida de Torrelavega;NA;Torrelavega;;;;;;;;1
+Paséu de los pensionistes;NA;Paséu de los pensionistes;;;;;;;;
+Calle Canteras del Picayón;NA;Canteras del Picayón;;;;;;;;
+Calle del Águila;NA;Águila;;;;;;;;1
+Calle La Torre de Olivares;NA;Torre de Olivares;;;;;;;;
+Calle El Centenal de Olivares;NA;Centenal de Olivares;;;;;;;;
+Calle La Quintana de Olivares;NA;Quintana de Olivares;;;;;;;;
+Avenida Fundación Príncipe de Asturias;NA;Fundación Príncipe de Asturias;;;;;;;;
+Urbanización Pintado;NA;Pintado;;;;;;;;
+Avenida de Roma;NA;Roma;;;;;;;;
+Calle Llamaquique;NA;Llamaquique;;;;;;;;1
+Plaza Lago Enol;NA;Lago Enol;;;;;;;;
+Calle de Los Rosales;NA;Rosales;;;;;;;;
+Calle de Las Magnolias;NA;Magnolias;;;;;;;;
+Plaza de Los Viveros;NA;Viveros;;;;;;;;
+Plaza Fuente La Braña;NA;Fuente La Braña;;;;;;;;
+Camino de Les Carriles;NA;Les Carriles;;;;;;;;
+Calle Villa;NA;Villa;;;;;;;;
+Plaza de la enseñanza;NA;enseñanza;;;;;;;;
+Calle Colegio Santo Domingo de Guzmán;NA;Colegio Santo Domingo de Guzmán;;;;;;;;
+Calle Instituto Alfonso II;NA;Instituto Alfonso II;;;;;;;;
+Calle Colegio Hispania;NA;Colegio Hispania;;;;;;;;
+Calle Escuela de Magisterio;NA;Escuela de Magisterio;;;;;;;;
+Calle Mir;NA;Mir;;;;;;;;
+Calle Carretera de Olivares;NA;Carretera de Olivares;;;;;;;;
+Calle de las Madreselvas;NA;Madreselvas;;;;;;;;
+Calle La Habana;NA;Habana;;;;;;;;
+Calle Chile;NA;Chile;;;;;;;;
+Calle Puerto del Pontón;NA;Puerto del Pontón;;;;;;;;
+Calle Puerto de San Isidro;NA;Puerto de San Isidro;;;;;;;;
+Calle Puerto de Leitariegos;NA;Puerto de Leitariegos;;;;;;;;
+Calle Buenos Aires;NA;Buenos Aires;;;;;;;;
+Calle Monte Cerrao;NA;Monte Cerrao;;;;;;;;
+Calle Sacramento;NA;Sacramento;;;;;;;;1
+Calle Prau Picón;NA;Prau Picón;;;;;;;;1
+Calle Arroyo Vaqueros;NA;Arroyo Vaqueros;;;;;;;;
+Calle Ámsterdam;NA;Ámsterdam;;;;;;;;
+Carretera Oviedo - Viella;NA;Oviedo - Viella;;;;;;;;
+Calle Laviada;NA;Laviada;;;;;;;;
+Calle Camino de la Carisa;NA;Camino de la Carisa;;;;;;;;
+Calle Irlanda;NA;Irlanda;;;;;;;;
+Calle Reconquista;NA;Reconquista;;;;;;;;
+Avenida Holanda;NA;Holanda;;;;;;;;
+Calle Sariego;NA;Sariego;;;;;;;;
+Calle de las Gardenias;NA;Gardenias;;;;;;;;
+Acceso sur a Oviedo;NA;sur a Oviedo;;;;;;;;
+Aldea Campón;NA;Aldea Campón;;;;;;;;
+Calle Pontón de Vaqueros;NA;Pontón de Vaqueros;;;;;;;;
+Calle Santiago de Compostela;NA;Santiago de Compostela;;;;;;;;
+Calle Illas;NA;Illas;;;;;;;;
+Calle Soto del Barco;NA;Soto del Barco;;;;;;;;
+Calle Candamo;NA;Candamo;;;;;;;;
+Calle Gozón;NA;Gozón;;;;;;;;
+Calle Coaña;NA;Coaña;;;;;;;;
+Calle Almacenes Industriales;NA;Almacenes Industriales;;;;;;;;
+Calle Canóniga;NA;Canóniga;;;;;;;;1
+Calle Antracita;NA;Antracita;;;;;;;;
+Calle Navia;NA;Navia;;;;;;;;
+Calle Molín de Pachón;NA;Molín de Pachón;;;;;;;;
+Calle Colenxu;NA;Colenxu;;;;;;;;
+Calle El Cortijo;NA;Cortijo;;;;;;;;
+Calle Ronda;NA;Ronda;;;;;;;;
+Calle Los Abedules;NA;Abedules;;;;;;;;1
+Calle Los Pinos;NA;Pinos;;;;;;;;1
+Calle de Los Geranios;NA;Geranios;;;;;;;;
+Calle Tigre Juan;NA;Tigre Juan;;;;;;;;
+Calle Jardín;NA;Jardín;;;;;;;;
+Calle La Media Legua;NA;Media Legua;;;;;;;;
+Calle Arancedo;NA;Arancedo;;;;;;;;
+Calle Bermudo I El Diácono;NA;Bermudo I El Diácono;;;;;;;;
+Calle Pravia;NA;Pravia;;;;;;;;
+Calle Mariscal Solís;NA;Mariscal Solís;;;;;;;;
+Calle Molin El Toro;NA;Molin El Toro;;;;;;;;
+Calle Trascorrales;NA;Trascorrales;;;;;;;;1
+Calle de Los Campos;NA;Campos;;;;;;;;
+Calle Hangzhou;NA;Hangzhou;;;;;;;;
+Calle Facetos;NA;Facetos;;;;;;;;
+Calle de la Regenta;NA;Regenta;;;;;;;;
+Calle Logroño;NA;Logroño;;;;;;;;
+Calle Peña Santa de Enol;NA;Peña Santa de Enol;;;;;;;;
+Carretera del Rayo;NA;Rayo;;;;;;;;
+Calle Argüelles;NA;Argüelles;;;;;;;;1
+Calle Gascona;NA;Gascona;;;;;;;;1
+Avenida de Bruselas;NA;Bruselas;;;;;;;;
+Calle Los Pilares;NA;Pilares;;;;;;;;
+Calle Camino de los Solises;NA;Camino de los Solises;;;;;;;;
+Calle Hevia Bolaños;NA;Hevia Bolaños;;;;;;;;1
+Calle Los Tilos;NA;Tilos;;;;;;;;1
+Accesos al HUCA desde A-66 y Glorieta de Cerdeño;NA;Accesos al HUCA desde A-66 y Glorieta de Cerdeño;;;;;;;;
+Calle Molin Los Cañales;NA;Molin Los Cañales;;;;;;;;
+Calle Costa Verde;NA;Costa Verde;;;;;;;;
+Calle Isla de Cuba;NA;Isla de Cuba;;;;;;;;1
+Plaza de los Ferrocarriles Económicos de Asturias;NA;Ferrocarriles Económicos de Asturias;;;;;;;;
+Calle Campomanes;NA;Campomanes;;;;;;;;1
+Calle Concinos;NA;Concinos;;;;;;;;
+Calle Fraternidad;NA;Fraternidad;;;;;;;;
+Calle Los Eucaliptos;NA;Eucaliptos;;;;;;;;1
+Calle Ribera de Arriba;NA;Ribera de Arriba;;;;;;;;
+Carretera del Rayo;NA;Rayo;;;;;;;;
+Europa (Carretera Irún - Santiago);NA;Europa (Carretera Irún - Santiago);;;;;;;;
+Calle Finlandia;NA;Finlandia;;;;;;;;
+Calle Puerto Rico;NA;Puerto Rico;;;;;;;;
+Calle Ayuntamiento;NA;Ayuntamiento;;;;;;;;
+Calle Peñasanta de Enol;NA;Peñasanta de Enol;;;;;;;;
+Calle de los Jacintos;NA;Jacintos;;;;;;;;
+Calle Siero;NA;Siero;;;;;;;;
+Calle Los Claveles;NA;Claveles;;;;;;;;
+Calle Rio Esva;NA;Rio Esva;;;;;;;;
+Calle Corvera;NA;Corvera;;;;;;;;
+Calle Rio Deva;NA;Rio Deva;;;;;;;;
+Calle Luxemburgo;NA;Luxemburgo;;;;;;;;
+Calle Independencia;NA;Independencia;;;;;;;;1
+Plaza Cofradía Amigos de los Quesos;NA;Cofradía Amigos de los Quesos;;;;;;;;
+Calle Granados;NA;Granados;;;;;;;;
+Calle Burriana;NA;Burriana;;;;;;;;
+Calle Viaducto del Ingeniero Marquina;NA;Viaducto del Ingeniero Marquina;;;;;;;;1
+Calle Fuente del Prado;NA;Fuente del Prado;;;;;;;;1
+Calle Puerto de Pajares;NA;Puerto de Pajares;;;;;;;;
+Calle Noreña;NA;Noreña;;;;;;;;
+Calle Silla del Rey;NA;Silla del Rey;;;;;;;;
+Calle de Las Begonias;NA;Begonias;;;;;;;;
+Calle Cimadevilla;NA;Cimadevilla;;;;;;;;1
+Calle Rúa;NA;Rúa;;;;;;;;1
+Calle Parres;NA;Parres;;;;;;;;
+Calle El Asturcón;NA;Asturcón;;;;;;;;
+Calle Gremio De Confiteros;NA;Gremio De Confiteros;;;;;;;;
+Paseo de La Florida;NA;Florida;;;;;;;;
+Calle Real Oviedo;NA;Real Oviedo;;;;;;;;
+Carretera del Rayo Mercadín Alto;NA;Rayo Mercadín Alto;;;;;;;;
+Calle Molín La Casuca;NA;Molín La Casuca;;;;;;;;
+Paseo de Valdeflora;NA;Valdeflora;;;;;;;;
+Valdeflora (Pista Finlandesa);NA;Valdeflora (Pista Finlandesa);;;;;;;;
+Calle 3 de Abril de 1979;NA;3 de Abril de 1979;;;;;;;;
+Calle Jabalí;NA;Jabalí;;;;;;;;
+Calle de las Ciudades Unidas;NA;Ciudades Unidas;;;;;;;;
+Calle Montes del Aramo;NA;Montes del Aramo;;;;;;;;
+Calle Puerto de Tarna;NA;Puerto de Tarna;;;;;;;;
+Calle Ganaderos Asturianos;NA;Ganaderos Asturianos;;;;;;;;
+Plaza de los Cuatro Caños;NA;Cuatro Caños;;;;;;;;
+Plaza de Castilla;NA;Castilla;;;;;;;;
+Plaza de América;NA;América;;;;;;;;1
+Plaza de la Libertad;NA;Libertad;;;;;;;;
+Calle Lepanto;NA;Lepanto;;;;;;;;1
+Calle de las Huertas;NA;Huertas;;;;;;;;1
+Calle Los Helechos;NA;Helechos;;;;;;;;1
+Calle del Cónsul;NA;Cónsul;;;;;;;;
+Calle Arco de los Zapatos;NA;Arco de los Zapatos;;;;;;;;1
+SI-5;NA;SI-5;;;;;;;;
+Calle Lena;NA;Lena;;;;;;;;
+Glorieta Estación;NA;Estación;;;;;;;;
+Calle Pérez de la Sala;NA;Pérez de la Sala;;;;;;;;1
+Calle Milicias Nacionales;NA;Milicias Nacionales;;;;;;;;1
+Calle Uría;NA;Uría;;;;;;;;1
+La Escandalera;NA;Escandalera;;;;;;;;
+Calle G;NA;G;;;;;;;;
+Calle Silla del Rey;NA;Silla del Rey;;;;;;;;
+Calle de la Regla;NA;Regla;;;;;;;;1
+Calle Postigo Bajo;NA;Postigo Bajo;;;;;;;;
+Calle del Oso;NA;Oso;;;;;;;;
+Calle Progreso;NA;Progreso;;;;;;;;1
+Plaza del Sol;NA;Sol;;;;;;;;1
+Calle Zamora;NA;Zamora;;;;;;;;
+Calle del Conceyin;NA;Conceyin;;;;;;;;
+Avenida de Bruselas;NA;Bruselas;;;;;;;;
+Calle Morcín;NA;Morcín;;;;;;;;
+Camino de La Cadellada;NA;Cadellada;;;;;;;;
+Calle Colegio Virgen Milagrosa;NA;Colegio Virgen Milagrosa;;;;;;;;
+Calle Colegio San Ignacio Montebrezo;NA;Colegio San Ignacio Montebrezo;;;;;;;;
+Calle Colegio Santo Ángel de la Guarda;NA;Colegio Santo Ángel de la Guarda;;;;;;;;
+UNAM (Universidad Autónoma de México);NA;UNAM (Universidad Autónoma de México);;;;;;;;
+Calle Molinos de Sinicio;NA;Molinos de Sinicio;;;;;;;;
+Calle Instituto Aramo;NA;Instituto Aramo;;;;;;;;
+Calle les Matuques;NA;les Matuques;;;;;;;;
+Calle Los Trapones;NA;Trapones;;;;;;;;
+Calle Fumaxil;NA;Fumaxil;;;;;;;;1
+Calle Abundio Gascón;NA;Abundio Gascón;;;;;;;;
+sin nombre;NA;sin nombre;;;;;;;;
+Calle Viaducto del Ingeniero Marquina;NA;Viaducto del Ingeniero Marquina;;;;;;;;1
+Urbanización Jardín del Principado;NA;Jardín del Principado;;;;;;;;
+Urbanización Estrecha 46;NA;Estrecha 46;;;;;;;;
+Calle León y Escosura;NA;León y Escosura;;;;;;;;
+La Herradura;NA;Herradura;;;;;;;;
+Paseo de los Curas;NA;Curas;;;;;;;;
+Calle El Urogallo;NA;Urogallo;;;;;;;;
+Calle Carta Puebla;NA;Carta Puebla;;;;;;;;1
+Calle Fuero;NA;Fuero;;;;;;;;1
+Las Portillas;NA;Portillas;;;;;;;;
+Calle Colegio Santa Teresa de Jesús;NA;Colegio Santa Teresa de Jesús;;;;;;;;
+Calle Cuchichi;NA;Cuchichi;;;;;;;;
+Calle La Vallina de Olivares;NA;Vallina de Olivares;;;;;;;;
+Calle La Caleyuca;NA;Caleyuca;;;;;;;;
+Calle Los Tejos;NA;Tejos;;;;;;;;1
+Calle Los Acebos;NA;Acebos;;;;;;;;1
+Calle Foncalada;NA;Foncalada;;;;;;;;1
+Calle A Coruña;NA;Coruña;;;;;;;;
+Calle Chavia;NA;Chavia;;;;;;;;1
+Calleja de La Ciega;NA;Ciega;;;;;;;;1
+Calle Valparaiso;NA;Valparaiso;;;;;;;;
+Calle Nachín de Nacha;NA;Nachín de Nacha;;;;;;;;
+Urbanización Conjunto Residencial El Parque;NA;Conjunto Residencial El Parque;;;;;;;;
+Calle Molín La Frera;NA;Molín La Frera;;;;;;;;
+Calle Piñole;NA;Piñole;;;;;;;;1
+Pasaje de los Manzanos;NA;Manzanos;;;;;;;;
+Carretera de Fitoria de Arriba;NA;Fitoria de Arriba;;;;;;;;
+Paseo de La Florida;NA;Florida;;;;;;;;
+Avenida Hospital Universitario;NA;Hospital Universitario;;;;;;;;
+Carretera del Rubín;NA;Rubín;;;;;;;;
+Calle Fuente Pando;NA;Fuente Pando;;;;;;;;
+Calle La Minería;NA;Minería;;;;;;;;
+Plaza de las Pelayas;NA;Pelayas;;;;;;;;
+Calle Boca del Río;NA;Boca del Río;;;;;;;;
+Plaza del Conceyín;NA;Conceyín;;;;;;;;
+Carretera de Fitoria y Toleo;NA;Fitoria y Toleo;;;;;;;;
+Senda Oviedo - Fuso de La Reina;NA;Oviedo - Fuso de La Reina;;;;;;;;
+Pasadizo;NA;Pasadizo;;;;;;;;
+Plaza de la Liberación;NA;Liberación;;;;;;;;
+Ruta del colesterol;NA;colesterol;;;;;;;;
+Accesos al HUCA;NA;Accesos al HUCA;;;;;;;;
+Camino de Valdecuevas;NA;Valdecuevas;;;;;;;;
+Senda verde Parque de Invierno;NA;verde Parque de Invierno;;;;;;;;
+Urbanización Monte Alto;NA;Monte Alto;;;;;;;;
+Calle Valencia de don Juan;NA;Valencia de don Juan;;;;;;;;
+Calle La Reguera de Olivares;NA;Reguera de Olivares;;;;;;;;
+Calle Corredoria Baja;NA;Corredoria Baja;;;;;;;;
+Calle Casa Minún de Olivares;NA;Casa Minún de Olivares;;;;;;;;
+Sendero;NA;Sendero;;;;;;;;
+Aldea Campón;NA;Aldea Campón;;;;;;;;
+Calle La Campa de Olivares;NA;Campa de Olivares;;;;;;;;
+Carretera del Rayo;NA;Rayo;;;;;;;;
+Calle la Lila;NA;Lila;;;;;;;;1
+Parking de Mercadona;NA;Parking de Mercadona;;;;;;;;
+(Guerra Civil Española);NA;(Guerra Civil Española);;;;;;;;
+Pista Finlandesa / Paseo de Valdeflora;NA;Finlandesa / Paseo de Valdeflora;;;;;;;;
+Calle de los Aparejadores;NA;Aparejadores;;;;;;;;1
+AutoKing;NA;AutoKing;;;;;;;;
+Plaza de La Poesía;NA;Poesía;;;;;;;;1
+Acceso Parking P1;NA;Parking P1;;;;;;;;
+La Piñera;NA;Piñera;;;;;;;;
+La Arquera-Las Xanas;NA;Arquera-Las Xanas;;;;;;;;
+Fuso de la Reina- Tuñón;NA;Fuso de la Reina- Tuñón;;;;;;;;
+Senda Verde Oviedo-Fuso de la Reina;NA;Verde Oviedo-Fuso de la Reina;;;;;;;;
+Carretera de Siones;NA;Siones;;;;;;;;
+caleya del Boo;NA;caleya del Boo;;;;;;;;
+Avenida Soto Mayor;NA;Soto Mayor;;;;;;;;
+Carretera de Camales;NA;Camales;;;;;;;;
+Acceso a Caces;NA;Caces;;;;;;;;
+Caces - Trubia;NA;Caces - Trubia;;;;;;;;
+Calle Aranjuez;NA;Aranjuez;;;;;;;;
+Calle Los Pinos;NA;Pinos;;;;;;;;1
+Cascadas de Güanga/Buanga;NA;Cascadas de Güanga/Buanga;;;;;;;;
+Carretera Grado - Sama - Trubia;NA;Grado - Sama - Trubia;;;;;;;;
+Calle Nava;NA;Nava;;;;;;;;
+Calle Río Piloña;NA;Río Piloña;;;;;;;;
+La Pereda Los Catalanes;NA;Pereda Los Catalanes;;;;;;;;
+Calle Ponga;NA;Ponga;;;;;;;;
+Calle Bimenes;NA;Bimenes;;;;;;;;
+Pasaje La Viesca;NA;Viesca;;;;;;;;
+Calle Puerto del Pontón;NA;Puerto del Pontón;;;;;;;;
+Gijón - Sevilla (Ruta de la plata);NA;Gijón - Sevilla (Ruta de la plata);;;;;;;;
+Carretera de Oviedo a Campomanes;NA;Oviedo a Campomanes;;;;;;;;
+Calle La Rotella;NA;Rotella;;;;;;;;
+Carretera de la Bolgachina;NA;Bolgachina;;;;;;;;1
+Caserio La Granda;NA;Granda;;;;;;;;
+Calle Langreo;NA;Langreo;;;;;;;;
+Acceso N-630;NA;N-630;;;;;;;;
+Calle de la Malatería;NA;Malatería;;;;;;;;
+Calle Llanera;NA;Llanera;;;;;;;;
+Calle Cabranes;NA;Cabranes;;;;;;;;
+Calle Caso;NA;Caso;;;;;;;;
+Calle Sobrescobio;NA;Sobrescobio;;;;;;;;
+Carretera Olloniego - Tudela Veguín - Riaño;NA;Olloniego - Tudela Veguín - Riaño;;;;;;;;
+Calle Tapia de Casariego;NA;Tapia de Casariego;;;;;;;;
+Calle Llamaoscura;NA;Llamaoscura;;;;;;;;
+Gijón a Puerto de Sevilla;NA;Gijón a Puerto de Sevilla;;;;;;;;
+Calle Llamaoscura;NA;Llamaoscura;;;;;;;;
+Enlace de Tudela Agüeria;NA;Tudela Agüeria;;;;;;;;
+Enlace de Olloniego;NA;Olloniego;;;;;;;;
+Calle Monticu;NA;Monticu;;;;;;;;1
+Fin de la Línea de L1;NA;Fin de la Línea de L1;;;;;;;;
+AS-244a Olloniego - Tudela Veguín;NA;AS-244a Olloniego - Tudela Veguín;;;;;;;;
+Inicio de la Línea L2;NA;Inicio de la Línea L2;;;;;;;;
+Calle Manzanilla;NA;Manzanilla;;;;;;;;
+Calle Las Regueras;NA;Regueras;;;;;;;;
+Calle Derechos Humanos;NA;Derechos Humanos;;;;;;;;
+Pasaje Artigüela;NA;Artigüela;;;;;;;;
+Camino;NA;Camino;;;;;;;;
+Calle El Faeo;NA;Faeo;;;;;;;;
+Calle Riosa;NA;Riosa;;;;;;;;
+Acceso a Urgencias;NA;Urgencias;;;;;;;;

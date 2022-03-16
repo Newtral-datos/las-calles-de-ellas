@@ -1,0 +1,964 @@
+Calle;Género;Nombre;Religioso;Ficción;Descripción;Artículo;Imagen;Fecha Nacimiento;Fecha Muerte;Céntrica
+Carrer d'Agustí Montal;Hombre;Agustí Montal;0.0;;;;;;;1
+Passatge d'Albert Llanas;Hombre;Albert Llanas;0.0;;;;;;;
+Carrer d'Alfons XII;Hombre;Alfons XII;0.0;;;;;;;1
+Avinguda d'Alfons XIII;Hombre;Alfons XIII;0.0;;;;;;;1
+Carrer d'Amadeu Vives;Hombre;Amadeu Vives;0.0;;;;;;;
+Carrer d'Andrés Segovia;Hombre;Andrés Segovia;0.0;;;;;;;
+Carrer d'Andreu Soler;Hombre;Andreu Soler;0.0;;;;;;;
+Carrer d'Àngel Guimerà;Hombre;Àngel Guimerà;0.0;;;;;;;1
+Carrer d'Anselm Clavé;Hombre;Anselm Clavé;0.0;;;;;;;1
+Carrer d'Anselm Turmeda;Hombre;Anselm Turmeda;0.0;;;;;;;
+Carrer d'Antoni Bori;Hombre;Antoni Bori;0.0;;;;;;;
+Carrer d'Antoni Botey;Hombre;Antoni Botey;0.0;;;;;;;
+Carrer d'Antoni Maura;Hombre;Antoni Maura;0.0;;;;;;;1
+Plaça d'Antonio Machado;Hombre;Antonio Machado;0.0;;;;;;;
+Carrer d'Arenys de Mar;Hombre;Arenys de Mar;0.0;;;;;;;
+Carrer d'Aribau;Hombre;Aribau;0.0;;;;;;;
+Carrer d'Arnús;Hombre;Arnús;0.0;;;;;;;1
+Carrer d'Arquimedes;Hombre;Arquimedes;0.0;;;;;;;
+Carrer d'Àrtemis;Mujer;Artemisa;0.0;1.0;diosa griega;https://es.wikipedia.org/wiki/Artemisa;http://commons.wikimedia.org/wiki/Special:FilePath/Diana%20of%20Versailles.jpg;;;
+Carrer d'Ausiàs Marc;Hombre;Ausiàs Marc;0.0;;;;;;;
+Plaça d'Azorín;Hombre;Azorín;0.0;;;;;;;
+Carrer d'Azorín;Hombre;Azorín;0.0;;;;;;;
+Plaça de Bac de Roda;Hombre;Bac de Roda;0.0;;;;;;;
+Carrer de Baldomer Galofre;Hombre;Baldomer Galofre;0.0;;;;;;;1
+Carrer de Baldomer Solà;Hombre;Baldomer Solà;0.0;;;;;;;1
+Carrer de Balmes;Hombre;Balmes;0.0;;;;;;;
+Plaça del Baró de Maldà;Hombre;Baró de Maldà;0.0;;;;;;;1
+Carrer de Batista i Roca;Hombre;Batista i Roca;0.0;;;;;;;1
+Carrer de Beethoven;Hombre;Beethoven;0.0;;;;;;;
+Carrer de Bernat Metge;Hombre;Bernat Metge;0.0;;;;;;;
+Plaça del Bisbe Joan Carrera;Hombre;Bisbe Joan Carrera;0.0;;;;;;;
+Plaça del Bisbe Jubany;Hombre;Bisbe Jubany;0.0;;;;;;;
+Carrer de Calderón de la Barca;Hombre;Calderón de la Barca;0.0;;;;;;;
+Carrer del Camí de Sant Jeroni de la Murtra;Hombre;Camí de Sant Jeroni de la Murtra;1.0;;;;;;;
+Carrer de Campoamor;Mujer;Clara Campoamor;0.0;;política española, feminista;https://es.wikipedia.org/wiki/Clara_Campoamor;http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Campoamor.png;1888-02-12T00:00:00Z;1972-04-30T00:00:00Z;
+Carrer de Can Campmany;NA;Can Campmany;0.0;;;;;;;
+Camí de Can Ferrater;NA;Can Ferrater;0.0;;;;;;;
+Plaça de Can Mercader;NA;Can Mercader;0.0;;;;;;;1
+Plaça de Can Peixau;NA;Can Peixau;0.0;;;;;;;1
+Rotonda de Can Ruti;NA;Can Ruti;0.0;;;;;;;
+Camí de Can Ruti;NA;Can Ruti;0.0;;;;;;;
+Carretera de Can Ruti;NA;Can Ruti;0.0;;;;;;;
+Plaça de Can Sagarra;NA;Can Sagarra;0.0;;;;;;;
+Carrer de Can Tiano;NA;Can Tiano;0.0;;;;;;;
+Camí de Can Viudet;NA;Can Viudet;0.0;;;;;;;
+Carrer del Canonge Baranera;Hombre;Canonge Baranera;0.0;;;;;;;1
+Plaça del Cardenal Albareda;Hombre;Cardenal Albareda;0.0;;;;;;;
+Carrer del Cardenal Cisneros;Hombre;Cardenal Cisneros;0.0;;;;;;;
+Avinguda del Cardenal Vidal i Barraquer;Hombre;Cardenal Vidal i Barraquer;0.0;;;;;;;
+Carrer de Carles I;Hombre;Carles I;0.0;;;;;;;
+Carreró d'Antoni Bori;Hombre;Carreró d'Antoni Bori;0.0;;;;;;;
+Carreró de Barberà;Hombre;Carreró de Barberà;0.0;;;;;;;1
+Carreró de Can Llagosta;NA;Carreró de Can Llagosta;0.0;;;;;;;1
+Carreró de Can Pontons;NA;Carreró de Can Pontons;0.0;;;;;;;
+Carreró de Sant Jaume;Hombre;Carreró de Sant Jaume;1.0;;;;;;;1
+Carreró de Sant Pere;Hombre;Carreró de Sant Pere;1.0;;;;;;;1
+Carrer de Cervantes;Hombre;Cervantes;0.0;;;;;;;
+Carrer de Chopin;Hombre;Chopin;0.0;;;;;;;
+Carrer del Cid Campeador;Hombre;Cid Campeador;0.0;;;;;;;
+Carrer de Coll i Pujol;Hombre;Coll i Pujol;0.0;;;;;;;1
+Carrer de Colom;Hombre;Colom;0.0;;;;;;;1
+Carrer de Còrsega;NA;Còrsega;0.0;;;;;;;
+Avinguda del Doctor Bassols;Hombre;Doctor Bassols;0.0;;;;;;;
+Carrer del Doctor Daudí;Hombre;Doctor Daudí;0.0;;;;;;;1
+Carrer del Doctor Ferran;Hombre;Doctor Ferran;0.0;;;;;;;
+Plaça del Doctor Fleming;Hombre;Doctor Fleming;0.0;;;;;;;
+Plaça del Doctor Francesc Niubó i Mary;Hombre;Doctor Francesc Niubó i Mary;0.0;;;;;;;1
+Carrer del Doctor Modrego;Hombre;Doctor Modrego;0.0;;;;;;;
+Carrer del Doctor Robert;Hombre;Doctor Robert;0.0;;;;;;;1
+Carrer del Doctor Trueta;Hombre;Doctor Trueta;0.0;;;;;;;
+Carrer de Don Pelai;Hombre;Don Pelai;0.0;;;;;;;
+Carrer del Drac;NA;Drac;0.0;;;;;;;
+Carrer d'Echegaray;Hombre;Echegaray;0.0;;;;;;;
+Carrer d'Eduard Flò;Hombre;Eduard Flò;0.0;;;;;;;1
+Carrer d'Eduard Maristany;Hombre;Eduard Maristany;0.0;;;;;;;1
+Carrer d'Eduard Marquina;Hombre;Eduard Marquina;0.0;;;;;;;
+Carrer d'Eliseu Meifrèn;Hombre;Eliseu Meifrèn;0.0;;;;;;;
+Passatge d'Elvis Presley;Hombre;Elvis Presley;0.0;;;;;;;
+Carrer d'en Casas i Amigó;Hombre;en Casas i Amigó;0.0;;;;;;;
+Carrer d'en Garriga;Hombre;en Garriga;0.0;;;;;;;
+Carrer d'en Guixeras;Hombre;en Guixeras;0.0;;;;;;;1
+Passatge d'en Josep Gironés;Hombre;en Josep Gironés;0.0;;;;;;;
+Carrer d'en Lladó;Hombre;en Lladó;0.0;;;;;;;1
+Avinguda d'en Martí Pujol;Hombre;en Martí Pujol;0.0;;;;;;;1
+Passatge d'en Matamoros;Hombre;en Matamoros;0.0;;;;;;;1
+Carrer d'en Prim;Hombre;en Prim;0.0;;;;;;;1
+Carrer d'en Pujol;Hombre;en Pujol;0.0;;;;;;;1
+Passatge d'en Rodó;Hombre;en Rodó;0.0;;;;;;;
+Passatge d'en Sampere;Hombre;en Sampere;0.0;;;;;;;
+Carrer d'en Vila i Vall-llebrera;Hombre;en Vila i Vall-llebrera;0.0;;;;;;;1
+Carrer d'Enric Borràs;Hombre;Enric Borràs;0.0;;;;;;;1
+Carrer d'Enric Granados;Hombre;Enric Granados;0.0;;;;;;;
+Plaça d'Enric Morera;Hombre;Enric Morera;0.0;;;;;;;
+Plaça d'Enric Parellada;Hombre;Enric Parellada;0.0;;;;;;;
+Ronda Ernest Lluch;Hombre;Ernest Lluch;0.0;;;;;;;
+Plaça d'Ernest Lluch;Hombre;Ernest Lluch;0.0;;;;;;;1
+Plaça d'Ernesto 'Che' Guevara;Hombre;Ernesto 'Che' Guevara;0.0;;;;;;;
+Carrer de Federico García Lorca;Hombre;Federico García Lorca;0.0;;;;;;;
+Carrer de Felip II;Hombre;Felip II;0.0;;;;;;;
+Passatge de Felip Pedrell;Hombre;Felip Pedrell;0.0;;;;;;;
+Carrer de Feliu i Vegués;Hombre;Feliu i Vegués;0.0;;;;;;;
+Carrer de Ferrer Bassa;Hombre;Ferrer Bassa;0.0;;;;;;;
+Carrer de Font i Escolà;Hombre;Font i Escolà;0.0;;;;;;;1
+Passatge de Fortuny;NA;Fortuny;0.0;;;;;;;1
+Carrer de Fortuny;NA;Fortuny;0.0;;;;;;;
+Carrer de Fra Basili de Sant Josep;Hombre;Fra Basili de Sant Josep;0.0;;;;;;;1
+Carrer de Francesc Candel;Hombre;Francesc Candel;0.0;;;;;;;
+Carrer de Francesc Layret;Hombre;Francesc Layret;0.0;;;;;;;1
+Carrer de Francesc Macià;Hombre;Francesc Macià;0.0;;;;;;;1
+Carrer de Francesc Planas i Casals;Hombre;Francesc Planas i Casals;0.0;;;;;;;1
+Carrer de Francesc Teixidó;Hombre;Francesc Teixidó;0.0;;;;;;;
+Plaça de Francisco Viana Carrasco;Hombre;Francisco Viana Carrasco;0.0;;;;;;;
+Carrer de Frederic Mompou;Hombre;Frederic Mompou;0.0;;;;;;;
+Carrer de Gaietà Soler;Hombre;Gaietà Soler;0.0;;;;;;;1
+Carrer de Galileu;Hombre;Galileu;0.0;;;;;;;1
+Carrer de Garcilaso;Hombre;Garcilaso;0.0;;;;;;;
+Carrer del General Moragues;Hombre;General Moragues;0.0;;;;;;;
+Carrer del General Weyler;Hombre;General Weyler;0.0;;;;;;;
+Carrer del Germà Bernabé;Hombre;Germà Bernabé;0.0;;;;;;;1
+Carrer del Germà Juli;Hombre;Germà Juli;0.0;;;;;;;1
+Carretera dels Germans Trias i Pujol;Hombre;Germans Trias i Pujol;0.0;;;;;;;
+Carrer de Góngora;Hombre;Góngora;0.0;;;;;;;1
+Carrer de Goya;Hombre;Goya;0.0;;;;;;;
+Carrer de Gregorio López Raimundo;Hombre;Gregorio López Raimundo;0.0;;;;;;;
+Carrer de Guasch;Hombre;Guasch;0.0;;;;;;;
+Carrer de Güell i Ferrer;Hombre;Güell i Ferrer;0.0;;;;;;;1
+Carrer de Guerau de Liost;Hombre;Guerau de Liost;0.0;;;;;;;
+Carrer de Guifré;Hombre;Guifré;0.0;;;;;;;1
+Carrer d'Hipólito Lázaro;Hombre;Hipólito Lázaro;0.0;;;;;;;
+Carrer d'Ignasi Iglésias;Hombre;Ignasi Iglésias;0.0;;;;;;;1
+Carrer d'Isaac Albéniz;Hombre;Isaac Albéniz;0.0;;;;;;;
+Carrer d'Isaac Peral;Hombre;Isaac Peral;0.0;;;;;;;
+Carrer d'Isidre Nonell;Hombre;Isidre Nonell;0.0;;;;;;;
+Carrer de Jacint Verdaguer;Hombre;Jacint Verdaguer;0.0;;;;;;;1
+Carrer de Jacinto Benavente;Hombre;Jacinto Benavente;0.0;;;;;;;
+Jardí de Can Amigó;NA;Jardí de Can Amigó;0.0;;;;;;;1
+Carrer de Jaume Borràs;Hombre;Jaume Borràs;0.0;;;;;;;1
+Carrer de Jaume I el Conqueridor;Hombre;Jaume I el Conqueridor;0.0;;;;;;;
+Carrer de Jaume Passarell;Hombre;Jaume Passarell;0.0;;;;;;;1
+Carrer de Jaume Ribó;Hombre;Jaume Ribó;0.0;;;;;;;
+Carrer de Jaume Solà;Hombre;Jaume Solà;0.0;;;;;;;1
+Carrer de Jerez de la Frontera;NA;Jerez de la Frontera;0.0;;;;;;;
+Carrer de Jesús;Hombre;Jesús;0.0;;;;;;;1
+Carrer de Joan Amigó i Barriga;Hombre;Joan Amigó i Barriga;0.0;;;;;;;
+Carrer de Joan d'Àustria;Hombre;Joan d'Àustria;0.0;;;;;;;
+Plaça de Joan Fuster;Hombre;Joan Fuster;0.0;;;;;;;
+Plaça de Joan García;Hombre;Joan García;0.0;;;;;;;
+Carrer de Joan Junceda;Hombre;Joan Junceda;0.0;;;;;;;1
+Plaça de Joan Miró;Hombre;Joan Miró;0.0;;;;;;;
+Carrer de Joan Peiró;Hombre;Joan Peiró;0.0;;;;;;;1
+Carrer de Joan Vidal i Prat;Hombre;Joan Vidal i Prat;0.0;;;;;;;
+Avinguda de Joan XXIII;Hombre;Joan XXIII;0.0;;;;;;;
+Carrer de Joaquim Costa;Hombre;Joaquim Costa;0.0;;;;;;;
+Plaça de Joaquim Font i Cussó;Hombre;Joaquim Font i Cussó;0.0;;;;;;;1
+Carrer de Joaquim Ruyra;Hombre;Joaquim Ruyra;0.0;;;;;;;
+Plaça de Joaquim Torrents i Lladó;Hombre;Joaquim Torrents i Lladó;0.0;;;;;;;
+Carrer de Joaquim Vayreda;Hombre;Joaquim Vayreda;0.0;;;;;;;
+Carrer de Johann Sebastian Bach;Hombre;Johann Sebastian Bach;0.0;;;;;;;
+Carrer de John Lennon;Hombre;John Lennon;0.0;;;;;;;
+Passatge de José María de Pereda;Hombre;José María de Pereda;0.0;;;;;;;
+Plaça de Josep Boada i Vila;Hombre;Josep Boada i Vila;0.0;;;;;;;
+Plaça de Josep Cortinas i Suñol;Hombre;Josep Cortinas i Suñol;0.0;;;;;;;1
+Carrer de Josep Maria Cuyàs i Tolosa;Hombre;Josep Maria Cuyàs i Tolosa;0.0;;;;;;;
+Carrer de Josep Maria de Sagarra;Hombre;Josep Maria de Sagarra;0.0;;;;;;;
+Carrer de Josep Maria Sert;Hombre;Josep Maria Sert;0.0;;;;;;;
+Carrer de Josep Palau i Fabre;Hombre;Josep Palau i Fabre;0.0;;;;;;;
+Plaça de Josep Pla;Hombre;Josep Pla;0.0;;;;;;;
+Passatge de Josep Pla i Casadevall;Hombre;Josep Pla i Casadevall;0.0;;;;;;;
+Carrer de Josep Pujol Busquets;Hombre;Josep Pujol Busquets;0.0;;;;;;;
+Carrer de Josep Vicenç Foix;Hombre;Josep Vicenç Foix;0.0;;;;;;;
+Carrer de Juan de la Cierva;Hombre;Juan de la Cierva;0.0;;;;;;;1
+Carrer de Juan Valera;Hombre;Juan Valera;0.0;;;;;;;
+Carrer de Juli Garreta;Hombre;Juli Garreta;0.0;;;;;;;1
+Carrer de Julián Gayarre;Hombre;Julián Gayarre;0.0;;;;;;;
+Carrer de Julio Galve Brusson;Hombre;Julio Galve Brusson;0.0;;;;;;;
+Carrer de l'Abat Escarré;Hombre;l'Abat Escarré;0.0;;;;;;;1
+Carrer de l'Alcalde de Móstoles;Hombre;l'Alcalde de Móstoles;0.0;;;;;;;
+Plaça de l'Alcalde Manent;Hombre;l'Alcalde Manent;0.0;;;;;;;
+Carrer de l'Alcalde Martínez Écija;Hombre;l'Alcalde Martínez Écija;0.0;;;;;;;
+Plaça de l'Alcalde Xifré;Hombre;l'Alcalde Xifré;0.0;;;;;;;1
+Carrer de l'Arquitecte Fradera;Hombre;l'Arquitecte Fradera;0.0;;;;;;;
+Carrer de l'Arquitecte Gaudí;Hombre;l'Arquitecte Gaudí;0.0;;;;;;;
+Plaça de l'Enginyer Deulofeu;Hombre;l'Enginyer Deulofeu;0.0;;;;;;;
+Carrer de l'Enginyer Deulofeu;Hombre;l'Enginyer Deulofeu;0.0;;;;;;;
+Carrer de l'Escorxador;NA;l'Escorxador;0.0;;;;;;;
+Carrer de l'Escultor Clarà;Hombre;l'Escultor Clarà;0.0;;;;;;;
+Carrer de l'Escultor Juli González;Hombre;l'Escultor Juli González;0.0;;;;;;;
+Carrer de l'Escultor Llimona;Hombre;l'Escultor Llimona;0.0;;;;;;;
+Carrer de l'Escultor Manolo Hugué;Hombre;l'Escultor Manolo Hugué;0.0;;;;;;;
+Carrer de l'Escultor Salcillo;Hombre;l'Escultor Salcillo;0.0;;;;;;;
+Carrer de Lepant;NA;Lepant;0.0;;;;;;;
+Carrer de Lleó Fontova;Hombre;Lleó Fontova;0.0;;;;;;;
+Carrer de Lloret de Mar;NA;Lloret de Mar;0.0;;;;;;;
+Carrer de Lluís Maria Xirinacs i Damians;Hombre;Lluís Maria Xirinacs i Damians;0.0;;;;;;;
+Carrer de Lope de Vega;Hombre;Lope de Vega;0.0;;;;;;;
+Passatge de Louis Armstrong;Hombre;Louis Armstrong;0.0;;;;;;;
+Carrer de Madoz;Hombre;Madoz;0.0;;;;;;;1
+Plaça de Manuel Carrasco i Formiguera;Hombre;Manuel Carrasco i Formiguera;0.0;;;;;;;
+Carrer de Manuel de Falla;Hombre;Manuel de Falla;0.0;;;;;;;
+Plaça de Manuel de Solà-Morales i Rubió;Hombre;Manuel de Solà-Morales i Rubió;0.0;;;;;;;
+Carrer de Manuel Fernández Márquez;Hombre;Manuel Fernández Márquez;0.0;;;;;;;
+Carrer de Manuel Moreno Mauricio;Hombre;Manuel Moreno Mauricio;0.0;;;;;;;
+Plaça de Manuel Valls i Gorina;Hombre;Manuel Valls i Gorina;0.0;;;;;;;1
+Passatge del Mar d'Alborán;NA;Mar d'Alborán;0.0;;;;;;;
+Carrer de Maragall;Hombre;Maragall;0.0;;;;;;;1
+Passatge de Marconi;Hombre;Marconi;0.0;;;;;;;
+Carrer de Marcus Porcius;Hombre;Marcus Porcius;0.0;;;;;;;
+Carrer de Marià Benlliure;Hombre;Marià Benlliure;0.0;;;;;;;
+Carrer del Mariscal Cabanes;Hombre;Mariscal Cabanes;0.0;;;;;;;
+Avinguda del Marquès de Mont-roig;Hombre;Marquès de Mont-roig;0.0;;;;;;;1
+Avinguda del Marquès de Sant Mori;Hombre;Marquès de Sant Mori;0.0;;;;;;;
+Carrer de Martí i Julià;Hombre;Martí i Julià;0.0;;;;;;;1
+Carrer de Mas Felip;Hombre;Mas Felip;0.0;;;;;;;
+Carrer del Mas Pujol;Hombre;Mas Pujol;0.0;;;;;;;
+Plaça de Mateu Rotger i Rosquellas;Hombre;Mateu Rotger i Rosquellas;0.0;;;;;;;
+Carrer de Mendelssohn;Hombre;Mendelssohn;0.0;;;;;;;
+Carrer de Méndez Núñez;Hombre;Méndez Núñez;0.0;;;;;;;1
+Carrer de Menéndez y Pelayo;Hombre;Menéndez y Pelayo;0.0;;;;;;;
+Carrer de Mercuri;NA;Mercuri;0.0;;;;;;;
+Carrer del Mestre Antoni Nicolau;Hombre;Mestre Antoni Nicolau;0.0;;;;;;;1
+Carrer del Mestre Bretón;Hombre;Mestre Bretón;0.0;;;;;;;1
+Carrer del Mestre Lluís Millet;Hombre;Mestre Lluís Millet;0.0;;;;;;;1
+Carrer del Mestre Pich i Santasusanna;Hombre;Mestre Pich i Santasusanna;0.0;;;;;;;
+Plaça Mestres Maria Rosquellas i Joan Rotger;Hombre;Mestres Maria Rosquellas i Joan Rotger;0.0;;;;;;;
+Carrer de Miguel Hernández;Hombre;Miguel Hernández;0.0;;;;;;;
+Carrer de Milà;Hombre;Milà;0.0;;;;;;;
+Passatge de Milà i Fontanals;Hombre;Milà i Fontanals;0.0;;;;;;;1
+Carrer de Milà i Fontanals;Hombre;Milà i Fontanals;0.0;;;;;;;1
+Carrer de Miquel del Prat;Hombre;Miquel del Prat;0.0;;;;;;;
+Carrer de Miquel Servet;Hombre;Miquel Servet;0.0;;;;;;;1
+Moll de Quimet Costa;Hombre;Moll de Quimet Costa;0.0;;;;;;;
+Carrer de Monistrol de Montserrat;Hombre;Monistrol de Montserrat;0.0;;;;;;;
+Carrer de Mossèn Anton Romeu;Hombre;Mossèn Anton Romeu;0.0;;;;;;;1
+Plaça de Mossèn Joan Baranera;Hombre;Mossèn Joan Baranera;0.0;;;;;;;
+Plaça de Mossèn Miquel Espinosa;Hombre;Mossèn Miquel Espinosa;0.0;;;;;;;
+Carrer de Mozart;Hombre;Mozart;0.0;;;;;;;
+Carrer de Muntaner;Hombre;Muntaner;0.0;;;;;;;
+Carrer de Murillo;Hombre;Murillo;0.0;;;;;;;
+Carrer de Nàpols;NA;Nàpols;0.0;;;;;;;
+Carrer Nebot;Hombre;Nebot;0.0;;;;;;;
+Carrer de Nelson Mandela;Hombre;Nelson Mandela;0.0;;;;;;;1
+Passeig d'Olof Palme;Hombre;Olof Palme;0.0;;;;;;;
+Carrer d'Orió;Hombre;Orió;0.0;;;;;;;
+Plaça d'Oriol Martorell i Codina;Hombre;Oriol Martorell i Codina;0.0;;;;;;;1
+Carrer d'Otger;Hombre;Otger;0.0;1.0;;;;;;
+Plaça d'Ovidi Montllor;Hombre;Ovidi Montllor;0.0;;;;;;;
+Carrer de Pablo Iglesias;Hombre;Pablo Iglesias;0.0;;;;;;;
+Carrer de Pablo Picasso;Hombre;Pablo Picasso;0.0;;;;;;;
+Carrer del Pare Claret;Hombre;Pare Claret;0.0;;;;;;;1
+Plaça del Patí de Vela;Hombre;Patí de Vela;0.0;;;;;;;
+Plaça de Pau Casals;Hombre;Pau Casals;0.0;;;;;;;1
+Carrer de Pau Claris;Hombre;Pau Claris;0.0;;;;;;;
+Carrer de Pau Piferrer;Hombre;Pau Piferrer;0.0;;;;;;;
+Carrer de Pau Rodon;Hombre;Pau Rodon;0.0;;;;;;;1
+Carrer de Pau Vila;Hombre;Pau Vila;0.0;;;;;;;
+Carrer de Pedro Antonio de Alarcón;Hombre;Pedro Antonio de Alarcón;0.0;;;;;;;
+Passatge de Peius Gener;Hombre;Peius Gener;0.0;;;;;;;
+Plaça de Pep Ventura;Hombre;Pep Ventura;0.0;;;;;;;1
+Carrer de Pere III;Hombre;Pere III;0.0;;;;;;;
+Carrer de Pere Martell;Hombre;Pere Martell;0.0;;;;;;;
+Plaça de Pere Rovira;Hombre;Pere Rovira;0.0;;;;;;;
+Carrer de Pérez Galdós;Hombre;Pérez Galdós;0.0;;;;;;;
+Carrer de Pi i Gibert;Hombre;Pi i Gibert;0.0;;;;;;;
+Carrer de Pi i Margall;Hombre;Pi i Margall;0.0;;;;;;;
+Carrer del Pintor Brunet;Hombre;Pintor Brunet;0.0;;;;;;;
+Carrer del Pintor Mir;Hombre;Pintor Mir;0.0;;;;;;;
+Plaça del Pintor Modest Urgell;Hombre;Pintor Modest Urgell;0.0;;;;;;;
+Carrer del Pintor Ribera;Hombre;Pintor Ribera;0.0;;;;;;;
+Carrer del Pintor Roig i Soler;Hombre;Pintor Roig i Soler;0.0;;;;;;;
+Carrer del Pintor Rosales;Hombre;Pintor Rosales;0.0;;;;;;;
+Carrer del Pintor Sorolla;Hombre;Pintor Sorolla;0.0;;;;;;;
+Avinguda de Pius XII;Hombre;Pius XII;0.0;;;;;;;
+Plaça de Pompeu Fabra;Hombre;Pompeu Fabra;0.0;;;;;;;1
+Carrer de Pompeu Fabra;Hombre;Pompeu Fabra;0.0;;;;;;;
+Avinguda del President Lluís Companys;Hombre;President Lluís Companys;0.0;;;;;;;1
+Plaça del President Tarradellas;Hombre;President Tarradellas;0.0;;;;;;;
+Carrer del Príncep d'Astúries;Hombre;Príncep d'Astúries;0.0;;;;;;;
+Carrer del Príncep de Bergara;Hombre;Príncep de Bergara;0.0;;;;;;;1
+Carrer de Quevedo;Hombre;Quevedo;0.0;;;;;;;
+Plaça de Rafael Campalans;Hombre;Rafael Campalans;0.0;;;;;;;
+Carrer de Rafael Casanova;Hombre;Rafael Casanova;0.0;;;;;;;
+Carrer de Ramiro de Maeztu;Hombre;Ramiro de Maeztu;0.0;;;;;;;
+Plaça de Ramon Berenguer III;Hombre;Ramon Berenguer III;0.0;;;;;;;
+Carrer de Ramon Casas;Hombre;Ramon Casas;0.0;;;;;;;
+Carrer de Ramon Llull;Hombre;Ramon Llull;0.0;;;;;;;
+Carrer de Ramon Martí Alsina;Hombre;Ramon Martí Alsina;0.0;;;;;;;
+Carrer de Ramon Rubial;Hombre;Ramon Rubial;0.0;;;;;;;1
+Carrer de Ramón y Cajal;Hombre;Ramón y Cajal;0.0;;;;;;;
+Carrer del Rector;Hombre;Rector;0.0;;;;;;;1
+Plaça del Rector Rifé;Hombre;Rector Rifé;0.0;;;;;;;1
+Carrer de Ribas i Perdigó;Hombre;Ribas i Perdigó;0.0;;;;;;;1
+Carrer de Richard Strauss;Hombre;Richard Strauss;0.0;;;;;;;
+Carrer de Rius i Taulet;Hombre;Rius i Taulet;0.0;;;;;;;
+Carrer de Rivero;Hombre;Rivero;0.0;;;;;;;1
+Plaça de Roca i Pi;Hombre;Roca i Pi;0.0;;;;;;;1
+Carrer de Rodrigo Caro;Hombre;Rodrigo Caro;0.0;;;;;;;
+Carrer de Roger de Flor;Hombre;Roger de Flor;0.0;;;;;;;1
+Carrer de Roger de Llúria;Hombre;Roger de Llúria;0.0;;;;;;;
+Avinguda de Ros i Güell;Hombre;Ros i Güell;0.0;;;;;;;
+Carrer del Rosselló;Hombre;Rosselló;0.0;;;;;;;
+Carrer de Rossini;Hombre;Rossini;0.0;;;;;;;
+Carrer de Rubén Darío;Hombre;Rubén Darío;0.0;;;;;;;1
+Carrer de Rubió i Ors;Hombre;Rubió i Ors;0.0;;;;;;;
+Carrer de Ruperto Chapí;Hombre;Ruperto Chapí;0.0;;;;;;;
+Carrer de Sallent;Hombre;Sallent;0.0;;;;;;;
+Plaça de Salvador Allende;Hombre;Salvador Allende;0.0;;;;;;;
+Plaça de Salvador Dalí;Hombre;Salvador Dalí;0.0;;;;;;;
+Avinguda de Salvador Espriu;Hombre;Salvador Espriu;0.0;;;;;;;
+Carrer de Salvador Seguí 'Noi del Sucre';Hombre;Salvador Seguí 'Noi del Sucre';0.0;;;;;;;
+Carrer de Sant Agustí;Hombre;Sant Agustí;1.0;;;;;;;
+Carrer de Sant Anastasi;Hombre;Sant Anastasi;1.0;;;;;;;1
+Carrer de Sant Antoni Abat;Hombre;Sant Antoni Abat;1.0;;;;;;;
+Ronda de sant Antoni de Llefià;Hombre;sant Antoni de Llefià;1.0;;;;;;;
+Carrer de Sant Antoni de Pàdua;Hombre;Sant Antoni de Pàdua;1.0;;;;;;;1
+Carrer de Sant Bartomeu;Hombre;Sant Bartomeu;1.0;;;;;;;
+Carrer de Sant Bru;Hombre;Sant Bru;1.0;;;;;;;1
+Carrer de Sant Carles;Hombre;Sant Carles;1.0;;;;;;;1
+Carrer de Sant Cebrià;Hombre;Sant Cebrià;1.0;;;;;;;
+Carrer de Sant Domènec;Hombre;Sant Domènec;1.0;;;;;;;1
+Passatge de Sant Elies;Hombre;Sant Elies;1.0;;;;;;;
+Carrer de Sant Felip i d'en Rosés;Hombre;Sant Felip i d'en Rosés;1.0;;;;;;;1
+Carrer de Sant Feliu de Llobregat;Hombre;Sant Feliu de Llobregat;1.0;;;;;;;
+Carrer de Sant Fermí;Hombre;Sant Fermí;1.0;;;;;;;
+Carrer de Sant Francesc d'Assís;Hombre;Sant Francesc d'Assís;1.0;;;;;;;1
+Carrer de Sant Francesc de Paula;Hombre;Sant Francesc de Paula;1.0;;;;;;;1
+Carrer de Sant Frederic;Hombre;Sant Frederic;1.0;;;;;;;
+Carrer de Sant Gonçal;Hombre;Sant Gonçal;1.0;;;;;;;1
+Carrer de Sant Gregori;Hombre;Sant Gregori;1.0;;;;;;;
+Carrer de Sant Hilari Sacalm;Hombre;Sant Hilari Sacalm;1.0;;;;;;;
+Avinguda de Sant Ignasi de Loiola;Hombre;Sant Ignasi de Loiola;1.0;;;;;;;1
+Carrer de Sant Isidre;Hombre;Sant Isidre;1.0;;;;;;;1
+Carrer de Sant Jaume;Hombre;Sant Jaume;1.0;;;;;;;1
+Passatge de Sant Jeroni;Hombre;Sant Jeroni;1.0;;;;;;;
+Rambla de Sant Joan;Hombre;Sant Joan;1.0;;;;;;;1
+Carrer de Sant Joan;Hombre;Sant Joan;1.0;;;;;;;1
+Carrer de Sant Joan de la Creu;Hombre;Sant Joan de la Creu;1.0;;;;;;;1
+Carrer de Sant Joan Evangelista;Hombre;Sant Joan Evangelista;1.0;;;;;;;
+Carrer de Sant Joaquim;Hombre;Sant Joaquim;1.0;;;;;;;1
+Carrer de Sant Jordi;Hombre;Sant Jordi;1.0;;;;;;;1
+Passatge de Sant Jordi;Hombre;Sant Jordi;1.0;;;;;;;1
+Carrer de Sant Josep;Hombre;Sant Josep;1.0;;;;;;;1
+Carrer de Sant Josep i d'en Rosés;Hombre;Sant Josep i d'en Rosés;1.0;;;;;;;1
+Carrer de Sant Josep Oriol;Hombre;Sant Josep Oriol;1.0;;;;;;;1
+Carrer de Sant Llorenç;Hombre;Sant Llorenç;1.0;;;;;;;1
+Carrer de Sant Lluc;Hombre;Sant Lluc;1.0;;;;;;;
+Carrer de Sant Lluís;Hombre;Sant Lluís;1.0;;;;;;;1
+Carrer de Sant Marc;Hombre;Sant Marc;1.0;;;;;;;
+Carrer de Sant Mateu;Hombre;Sant Mateu;1.0;;;;;;;
+Carrer de Sant Miquel;Hombre;Sant Miquel;1.0;;;;;;;1
+Carrer de Sant Pancraç;Hombre;Sant Pancraç;1.0;;;;;;;
+Carrer de Sant Pau;Hombre;Sant Pau;1.0;;;;;;;1
+Carrer de Sant Pere;Hombre;Sant Pere;1.0;;;;;;;1
+Carrer de Sant Rafael;Hombre;Sant Rafael;1.0;;;;;;;1
+Carrer de Sant Ramon;Hombre;Sant Ramon;1.0;;;;;;;1
+Plaça de Sant Roc;Hombre;Sant Roc;1.0;;;;;;;
+Avinguda de Sant Salvador;Hombre;Sant Salvador;1.0;;;;;;;
+Carrer de Sant Sebastià;Hombre;Sant Sebastià;1.0;;;;;;;1
+Carrer de Sant Vicenç;Hombre;Sant Vicenç;1.0;;;;;;;
+Carrer de Santiago;Hombre;Santiago;0.0;;;;;;;
+Carrer de Santiago Rusiñol;Hombre;Santiago Rusiñol;0.0;;;;;;;1
+Carrer de Sèneca;Hombre;Sèneca;0.0;;;;;;;
+Passatge de Severo Catalina;Hombre;Severo Catalina;0.0;;;;;;;
+Carrer de Simó Piera;Hombre;Simó Piera;0.0;;;;;;;
+Passatge de Soler i Biosca;Hombre;Soler i Biosca;0.0;;;;;;;
+Carrer de Teià;Hombre;Teià;0.0;;;;;;;
+Plaça de Tete Montoliu;Hombre;Tete Montoliu;0.0;;;;;;;1
+Carrer de Torras i Bages;Hombre;Torras i Bages;0.0;;;;;;;1
+Travessia de Sant Jeroni;Hombre;Travessia de Sant Jeroni;0.0;;;;;;;
+Carrer d'Usandizaga;Hombre;Usandizaga;0.0;;;;;;;1
+Plaça de Valentí Almirall;Hombre;Valentí Almirall;0.0;;;;;;;
+Carrer de Velázquez;Hombre;Velázquez;0.0;;;;;;;
+Carrer de Vélez Blanco;Hombre;Vélez Blanco;0.0;;;;;;;
+Carrer de Vélez Rubio;Hombre;Vélez Rubio;0.0;;;;;;;
+Carrer de Ventura Gassol;Hombre;Ventura Gassol;0.0;;;;;;;1
+Carrer de Verdi;Hombre;Verdi;0.0;;;;;;;
+Carrer de Víctor Balaguer;Hombre;Víctor Balaguer;0.0;;;;;;;
+Carrer de Vilassar de Mar;Hombre;Vilassar de Mar;0.0;;;;;;;
+Carrer de Wagner;Hombre;Wagner;0.0;;;;;;;
+Carrer de Xavier Nogués;Hombre;Xavier Nogués;0.0;;;;;;;
+Carrer d'Afrodita;Mujer;Afrodita;0.0;1.0;Diosa griega de la belleza y el amor erótico;https://es.wikipedia.org/wiki/Afrodita;http://commons.wikimedia.org/wiki/Special:FilePath/Aphrodite8.jpg;;;
+Carrer d'Àgueda Mompel;Mujer;Àgueda Mompel;0.0;;;https://ca.wikipedia.org/wiki/Carrer_d%27%C3%80gueda_Mompel;;;;1
+Carrer d'Anna Tugas;Mujer;Anna Tugas;0.0;;;https://ca.wikipedia.org/wiki/Anna_Maria_Tugas_i_Masachs;;;;
+Plaça d'Antònia Boada i Ros;Mujer;Antònia Boada i Ros;0.0;;;https://ca.wikipedia.org/wiki/Ant%C3%B2nia_Boada_i_Ros;;;;
+Plaça de Barberà;NA;Barberà;0.0;;;;;;;1
+Passatge de Barberà;NA;Barberà;0.0;;;;;;;1
+Carrer del Carme;Mujer;Virgen del Carmen;0.0;;advocación de la Virgen María;https://es.wikipedia.org/wiki/Virgen_del_Carmen;http://commons.wikimedia.org/wiki/Special:FilePath/HuitzoCarmen.jpg;;;1
+Plaça de Carme Guasch;Mujer;Carme Guasch;0.0;;;https://es.wikipedia.org/wiki/Carme_Guasch;;;;1
+Passatge de Carmen Amaya;Mujer;Carmen Amaya Amaya;0.0;;bailaora y cantaora de flamenco española;https://es.wikipedia.org/wiki/Carmen_Amaya;http://commons.wikimedia.org/wiki/Special:FilePath/Jardins%20de%20Joan%20Brossa%20-%20Barcelona%2008.JPG;1913-11-18T00:00:00Z;1963-11-02T00:00:00Z;
+Carreró de Santa Maria;Mujer;María;1.0;;madre de Jesús de Nazaret;https://es.wikipedia.org/wiki/Mar%C3%ADa_(madre_de_Jes%C3%BAs);http://commons.wikimedia.org/wiki/Special:FilePath/Duccio%20The-Madonna-and-Child-128.jpg;-0100-01-01T00:00:00Z;0100-01-01T00:00:00Z;1
+Carrer de Caterina Albert i Paradís;Mujer;Caterina Albert;0.0;;escritora catalana;https://es.wikipedia.org/wiki/Caterina_Albert;http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Catala%200923.JPG;1869-09-11T00:00:00Z;1966-01-27T00:00:00Z;
+Carrer de Concha Espina;Mujer;Concha Espina;0.0;;escritora española;https://es.wikipedia.org/wiki/Concha_Espina;http://commons.wikimedia.org/wiki/Special:FilePath/1920%2C%20Historia%20de%20la%20lengua%20y%20literatura%20castellana%2C%20Concha%20Espina.jpg;1869-05-15T00:00:00Z;1955-05-19T00:00:00Z;
+Carrer de Diana;Mujer;Diana;0.0;1.0;diosa;https://es.wikipedia.org/wiki/Diana_(mitolog%C3%ADa);http://commons.wikimedia.org/wiki/Special:FilePath/Meister%20der%20Schule%20von%20Fontainebleau%20001.jpg;;;
+"""Plaça de Dolores Ibáburri Gómez """"La Passionària""""""";Mujer;Dolores Ibárruri;0.0;;política española;https://es.wikipedia.org/wiki/Dolores_Ib%C3%A1rruri;http://commons.wikimedia.org/wiki/Special:FilePath/Dolores002.jpg;1895-12-09T00:00:00Z;1989-11-12T00:00:00Z;
+Carrer d'Édith Piaf;Mujer;Édith Piaf;0.0;;cantante francesa;https://es.wikipedia.org/wiki/%C3%89dith_Piaf;http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89dith%20Piaf%20914-6440.jpg;1915-12-19T00:00:00Z;1963-10-10T00:00:00Z;
+Plaça d'Elisa Reverter i López;Mujer;Elisa Reverter i López;0.0;;;https://ca.wikipedia.org/wiki/Elisa_Reverter_i_L%C3%B3pez;;;;
+Plaça de Frederica Montseny;Mujer;Federica Montseny;0.0;;política, sindicalista anarquista y escritora española;https://es.wikipedia.org/wiki/Federica_Montseny;http://commons.wikimedia.org/wiki/Special:FilePath/Federica%20Montseny.jpg;1905-02-12T00:00:00Z;1994-01-14T00:00:00Z;
+Plaça de Júlia Minguell;Mujer;Júlia Minguell;0.0;;;;;;;1
+Carrer de Lola Anglada;Mujer;Lola Anglada;0.0;;escritora, ilustradora e historietista española;https://es.wikipedia.org/wiki/Lola_Anglada;http://commons.wikimedia.org/wiki/Special:FilePath/Lola%20Anglada.png;1892-10-28T00:00:00Z;1984-01-01T00:00:00Z;
+Carrer de la Mare de Déu de Fàtima;Mujer;Virgen de Fátima;1.0;;advocación mariana del catolicismo;https://es.wikipedia.org/wiki/Virgen_de_F%C3%A1tima;http://commons.wikimedia.org/wiki/Special:FilePath/Fatima%20%283%29.jpg;;;
+Passatge de la Mare de Déu de la Cinta;Mujer;Mare de Déu de la Cinta;1.0;;;https://es.wikipedia.org/wiki/Advocaci%C3%B3n_de_la_Virgen_de_la_Cinta;;;;
+Passatge de la Mare de Déu de la Fuensanta;Mujer;Mare de Déu de la Fuensanta;1.0;;;https://es.wikipedia.org/wiki/Virgen_de_la_Fuensanta_(Murcia);;;;
+Carrer de la Mare de Déu de Lorda;Mujer;Nuestra Señora de Lourdes;1.0;;Aparición Mariana;https://ca.wikipedia.org/wiki/Mare_de_D%C3%A9u_de_Lorda;http://commons.wikimedia.org/wiki/Special:FilePath/France-002009%20-%20Our%20Lady%20of%20Lourdes%20%2815774765182%29.jpg;;;
+Passatge de la Mare de Déu de Lorda;Mujer;Nuestra Señora de Lourdes;1.0;;Aparición Mariana;https://ca.wikipedia.org/wiki/Mare_de_D%C3%A9u_de_Lorda;http://commons.wikimedia.org/wiki/Special:FilePath/France-002009%20-%20Our%20Lady%20of%20Lourdes%20%2815774765182%29.jpg;;;
+Carrer de la Mare de Déu de Pompeia;Mujer;Mare de Déu de Pompeia;1.0;;;;;;;
+Passatge de la Mare de Déu del Pilar;Mujer;Nuestra Señora del Pilar de Zaragoza;1.0;;advocación mariana;https://es.wikipedia.org/wiki/Virgen_del_Pilar;http://commons.wikimedia.org/wiki/Special:FilePath/Escultura%20de%20la%20Virgen%20del%20Pilar%2C%20en%20la%20Bas%C3%ADlica%20del%20Pilar%20de%20Zaragoza%2C%20Espa%C3%B1a%2C%20Spain.jpg;;;
+Carrer de Margarida Xirgu;Mujer;Margarita Xirgu;0.0;;Actriz y directora teatral española;https://es.wikipedia.org/wiki/Margarita_Xirgu;http://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Xirgu%20en%201910.JPG;1888-07-18T00:00:00Z;1969-04-25T00:00:00Z;1
+Plaça de Maria Aurèlia Capmany;Mujer;Maria Aurèlia Capmany;0.0;;novelista, escritora y ensayista española;https://es.wikipedia.org/wiki/Maria_Aur%C3%A8lia_Capmany;http://commons.wikimedia.org/wiki/Special:FilePath/MACapmany.jpg;1918-08-03T00:00:00Z;1991-10-02T00:00:00Z;1
+Carrer de Maria Auxiliadora;Mujer;Maria Auxiliadora;1.0;;;;;;;
+Passatge de Maria Callas;Mujer;Maria Callas;0.0;;soprano greco-estadounidense;https://es.wikipedia.org/wiki/Maria_Callas;http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Callas%201958.jpg;1923-12-02T00:00:00Z;1977-09-16T00:00:00Z;
+Carrer de Maria Cristina;Mujer;María Cristina de Borbón y Battenberg;0.0;;Infanta de España, Condesa Marone;https://en.wikipedia.org/wiki/Infanta_Mar%C3%ADa_Cristina_of_Spain;http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Cristina%20de%20Borb%C3%B3n%20y%20Battenberg.jpg;1911-12-12T00:00:00Z;1996-12-23T00:00:00Z;1
+Plaça de Maria Mercè Marçal i Serra;Mujer;Maria Mercè Marçal;0.0;;traductora y escritora española;https://es.wikipedia.org/wiki/Maria_Merc%C3%A8_Mar%C3%A7al;http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%BAmero%2052%20verda.%20Maria-Merc%C3%A8%20Mar%C3%A7al%20i%20Rafael%20Vargas%20%2815307047704%29.jpg;1952-11-13T00:00:00Z;1998-07-05T00:00:00Z;
+Carrer de Maria Niubó i Prats;Mujer;Maria Niubó i Prats;0.0;;pintora española;https://es.wikipedia.org/wiki/Maria_Niub%C3%B3;;1931-01-01T00:00:00Z;2017-01-23T00:00:00Z;
+Carrer de Marina;Mujer;Marina;0.0;;;;;;;1
+Carrer de Mary Ward;Mujer;Mary Ward;0.0;;pedagoga británica;https://es.wikipedia.org/wiki/Mary_Ward;http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Ward.jpg;1585-01-23T00:00:00Z;1645-01-30T00:00:00Z;
+Carrer de la Mercè;Mujer;Virgen de la Merced o de la Misericordia;1.0;;advocación de la Virgen;https://es.wikipedia.org/wiki/Virgen_de_la_Merced;http://commons.wikimedia.org/wiki/Special:FilePath/Soho%2C%20Notre%20Dame%20De%20France%20Church%2C%20Statue%20of%20Our%20Lady%20of%20Mercy.jpg;;;1
+Passatge de Mercè Rodoreda i Gurguí;Mujer;Mercè Rodoreda;0.0;;escritora española en lengua catalana;https://es.wikipedia.org/wiki/Merc%C3%A8_Rodoreda;http://commons.wikimedia.org/wiki/Special:FilePath/Rodoreda.jpg;1908-10-10T00:00:00Z;1983-04-13T00:00:00Z;
+Carrer de Minerva;Mujer;Minerva;0.0;1.0;;;;;;
+Carrer de Montserrat;Mujer;Virgen de Montserrat;1.0;;advocación mariana venerada en el monasterio de Monserrat;https://es.wikipedia.org/wiki/Virgen_de_Montserrat;http://commons.wikimedia.org/wiki/Special:FilePath/Verge.jpg;http://www.wikidata.org/.well-known/genid/131e4631015bb6d8660e845aabd04e48;;1
+Passatge de Montserrat Roig;Mujer;Montserrat Roig;0.0;;escritora y periodista española;https://es.wikipedia.org/wiki/Montserrat_Roig;http://commons.wikimedia.org/wiki/Special:FilePath/Montserrat%20Roig%20%28cropped%29.jpg;1946-06-13T00:00:00Z;1991-11-10T00:00:00Z;1
+Carrer de Paquita Borràs;Mujer;Paquita Borràs;0.0;;;https://ca.wikipedia.org/wiki/Paquita_Borr%C3%A0s_i_Nicol%C3%A0s;;;;
+Carrer de la Reina Elisenda;Mujer;Elisenda de Moncada;0.0;;Reina consorte de Aragón (1322-1327);https://es.wikipedia.org/wiki/Elisenda_de_Moncada;http://commons.wikimedia.org/wiki/Special:FilePath/Tomba%20d%27Elisenda%20de%20Montcada%20%28detall%29.jpg;1292-01-01T00:00:00Z;1364-07-17T00:00:00Z;
+Passatge de Ros i Güell;Hombre;Ros i Güell;0.0;;;;;;;
+Carrer de Santa Anna;Mujer;Santa Anna;1.0;;;;;;;1
+Carrer de Santa Bàrbara;Mujer;Bárbara de Nicomedia;1.0;;santa y mártir cristiana libanesa (273-306);https://es.wikipedia.org/wiki/B%C3%A1rbara_de_Nicomedia;http://commons.wikimedia.org/wiki/Special:FilePath/RAFAEL%20-%20Madonna%20Sixtina%20%28Gem%C3%A4ldegalerie%20Alter%20Meister%2C%20Dresden%2C%201513-14.%20%C3%93leo%20sobre%20lienzo%2C%20265%20x%20196%20cm%29%20%28cropped%29.jpg;0273-01-01T00:00:00Z;0306-01-01T00:00:00Z;1
+Carretera de Santa Coloma;NA;Santa Coloma;1.0;;;;;;;
+Carrer de Santa Eulàlia;Mujer;Eulalia de Barcelona;1.0;;santa española;https://es.wikipedia.org/wiki/Eulalia_de_Barcelona;http://commons.wikimedia.org/wiki/Special:FilePath/Barcelona%20Cathedral%20Interior%20-%20Saint%20Eulalia%20of%20Barcelona%20by%20Pedro%20Garc%C3%ADa%20de%20Benavarre.jpg;0290-01-01T00:00:00Z;0303-01-01T00:00:00Z;1
+Passatge de Santa Isabel;Mujer;Isabel;1.0;;madre de Juan el bautista;https://es.wikipedia.org/wiki/Isabel_(madre_de_Juan_el_Bautista);http://commons.wikimedia.org/wiki/Special:FilePath/Champaigne%20visitation.jpg;-0100-01-01T00:00:00Z;0100-01-01T00:00:00Z;
+Carrer de Santa Joana de Lestonnac;Mujer;Juana Lestonnac;1.0;;santa católica francesa;https://es.wikipedia.org/wiki/Juana_Lestonnac;http://commons.wikimedia.org/wiki/Special:FilePath/Lestonnac4.jpg;1557-01-06T00:00:00Z;1640-02-02T00:00:00Z;
+Carrer de Santa Madrona;Mujer;Madrona de Barcelona;1.0;;santa de la Iglesia Católica Romana y de la Iglesia Ortodoxa Oriental;https://es.wikipedia.org/wiki/Madrona;http://commons.wikimedia.org/wiki/Special:FilePath/Galeriag%C3%B2ticaMadrona.jpg;0250-01-01T00:00:00Z;0300-01-01T00:00:00Z;1
+Carrer de Santa Maria;Mujer;María;1.0;;madre de Jesús de Nazaret;https://es.wikipedia.org/wiki/Mar%C3%ADa_(madre_de_Jes%C3%BAs);http://commons.wikimedia.org/wiki/Special:FilePath/Duccio%20The-Madonna-and-Child-128.jpg;-0100-01-01T00:00:00Z;0100-01-01T00:00:00Z;1
+Carrer de Santa Teresa;Mujer;Teresa de Jesús;1.0;;religiosa castellana;https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs;http://commons.wikimedia.org/wiki/Special:FilePath/Teresa%20de%20Jes%C3%BAs%20%28cropped%29.jpg;1515-04-07T00:00:00Z;1582-10-15T00:00:00Z;1
+"""Plaça del Vaixell """"Maria Assumpta""""""";NA;"""Vaixell """"Maria Assumpta""""""";0.0;;;;;;;
+Carrer de Venus;Mujer;Venus;0.0;1.0;diosa romana de la belleza y el amor erótico;https://es.wikipedia.org/wiki/Venus_(mitolog%C3%ADa);http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20Arles.jpg;;;
+Plaça de Victòria dels Àngels;Mujer;Victoria de los Ángeles;0.0;;soprano española;https://es.wikipedia.org/wiki/Victoria_de_los_%C3%81ngeles;http://commons.wikimedia.org/wiki/Special:FilePath/Victoria%20de%20los%20Angeles%20Allan%20warren.jpg;1923-11-01T00:00:00Z;2005-01-15T00:00:00Z;
+Avinguda d'Àfrica;NA;Àfrica;0.0;;;;;;;
+Carrer d'Alacant;NA;Alacant;0.0;;;;;;;1
+Plaça d'Alcanar;NA;Alcanar;0.0;;;;;;;
+Carrer d'Alella;NA;Alella;0.0;;;;;;;
+Carrer d'Alemanya;NA;Alemanya;0.0;;;;;;;
+Avinguda d'Almeria;NA;Almeria;0.0;;;;;;;
+Carrer dels Almogàvers;NA;Almogàvers;0.0;;;;;;;1
+Carrer dels Alps;NA;Alps;0.0;;;;;;;
+Avinguda d'Amèrica;NA;Amèrica;0.0;;;;;;;
+Avinguda dels Ametllers;NA;Ametllers;0.0;;;;;;;
+Carrer Ample;NA;Ample;0.0;;;;;;;
+Passeig d'Andalusia;NA;Andalusia;0.0;;;;;;;
+Plaça dels Andes;NA;Andes;0.0;;;;;;;
+Carretera Antiga de València;NA;Antiga de València;0.0;;;;;;;
+Carrer dels Apenins;NA;Apenins;0.0;;;;;;;
+Plaça d'Aragó;NA;Aragó;0.0;;;;;;;
+Carrer dels Arbres;NA;Arbres;0.0;;;;;;;1
+Carrer d'Argentona;NA;Argentona;0.0;;;;;;;
+Plaça d'Artigues;NA;Artigues;0.0;;;;;;;
+Carrer d'Àsia;NA;Àsia;0.0;;;;;;;
+Carrer d'Astúries;NA;Astúries;0.0;;;;;;;
+Carrer d'Atena;NA;Atena;0.0;;;;;;;
+Carrer d'Austràlia;NA;Austràlia;0.0;;;;;;;
+Carrer de Babord;NA;Babord;0.0;;;;;;;
+Avinguda de Bac de Roda;NA;Bac de Roda;0.0;;;;;;;
+Carrer de Badajoz;NA;Badajoz;0.0;;;;;;;
+Plaça de Badalona;NA;Badalona;0.0;;;;;;;
+Carrer de Bailén;NA;Bailén;0.0;;;;;;;
+Carrer de Banyoles;NA;Banyoles;0.0;;;;;;;1
+Carrer de Barcelona;NA;Barcelona;0.0;;;;;;;1
+Carrer de la Batllòria;NA;Batllòria;0.0;;;;;;;1
+Plaça del Batre;NA;Batre;0.0;;;;;;;
+Carrer de Bèlgica;NA;Bèlgica;0.0;;;;;;;
+Carrer de Bellavista;NA;Bellavista;0.0;;;;;;;
+Carrer de Berga;NA;Berga;0.0;;;;;;;
+Carrer de Berlín;NA;Berlín;0.0;;;;;;;
+Avinguda de Biscaia;NA;Biscaia;0.0;;;;;;;
+Passeig de la Bòbila;NA;Bòbila;0.0;;;;;;;
+Plaça de la Bòbila;NA;Bòbila;0.0;;;;;;;
+Carrer del Bogatell;NA;Bogatell;0.0;;;;;;;
+Carrer del Boix;NA;Boix;0.0;;;;;;;
+Carrer de Bolívia;NA;Bolívia;0.0;;;;;;;
+Passatge de Bonavista;NA;Bonavista;0.0;;;;;;;
+Carrer de Bonavista;NA;Bonavista;0.0;;;;;;;
+Camí del Bosc;NA;Bosc;0.0;;;;;;;
+Carrer de Bòsnia i Hercegovina;NA;Bòsnia i Hercegovina;0.0;;;;;;;
+Carrer del Brasil;NA;Brasil;0.0;;;;;;;
+Carrer del Bronze;NA;Bronze;0.0;;;;;;;
+Carrer del Bruc;NA;Bruc;0.0;;;;;;;
+Carrer de Buenos Aires;NA;Buenos Aires;0.0;;;;;;;
+Avinguda de Bufalà;NA;Bufalà;0.0;;;;;;;
+Carrer de Càceres;NA;Càceres;0.0;;;;;;;
+Carrer de Cadaqués;NA;Cadaqués;0.0;;;;;;;
+Carrer Cadernera;NA;Cadernera;0.0;;;;;;;
+Carrer de Cadis;NA;Cadis;0.0;;;;;;;1
+Carrer de Calella;NA;Calella;0.0;;;;;;;
+Plaça de Camarón de la Isla;NA;Camarón de la Isla;0.0;;;;;;;
+Carrer de la Camèlia;NA;Camèlia;0.0;;;;;;;1
+Passatge del Camí Estret;NA;Camí Estret;0.0;;;;;;;
+Carrer de Camprodon;NA;Camprodon;0.0;;;;;;;
+Carrer de Canelones;NA;Canelones;0.0;;;;;;;
+Carrer del Canigó;NA;Canigó;0.0;;;;;;;
+Carrer de Cantàbria;NA;Cantàbria;0.0;;;;;;;
+Carretera de Canyet;NA;Canyet;0.0;;;;;;;
+Carrer del Carbó;NA;Carbó;0.0;;;;;;;
+Carrer de la Caritat;NA;Caritat;0.0;;;;;;;1
+Plaça de Caritg;NA;Caritg;0.0;;;;;;;
+Avinguda de Carlemany;NA;Carlemany;0.0;;;;;;;
+Carreró de la Font;NA;Carreró de la Font;0.0;;;;;;;1
+Carreró de la Indústria;NA;Carreró de la Indústria;0.0;;;;;;;
+Plaça de Casagemes;NA;Casagemes;0.0;;;;;;;1
+Avinguda dels Castanyers;NA;Castanyers;0.0;;;;;;;
+Plaça de Castella;NA;Castella;0.0;;;;;;;
+Carrer de Castillejos;NA;Castillejos;0.0;;;;;;;
+Carrer de Catalònia;NA;Catalònia;0.0;;;;;;;
+Avinguda de Catalunya;NA;Catalunya;0.0;;;;;;;
+Carrer del Cedre;NA;Cedre;0.0;;;;;;;
+Carrer de Centelles;NA;Centelles;0.0;;;;;;;
+Plaça del Centenari;NA;Centenari;0.0;;;;;;;
+Carrer del Cep;NA;Cep;0.0;;;;;;;
+Carrer de la Ceràmica;NA;Ceràmica;0.0;;;;;;;
+Avinguda de la Cerdanya;NA;Cerdanya;0.0;;;;;;;
+Carrer de la Cervereta;NA;Cervereta;0.0;;;;;;;
+Plaça de Churruca;Hombre;Churruca;0.0;;;;;;;1
+Carrer de la Ciència;NA;Ciència;0.0;;;;;;;
+Carrer de la Circumval·lació;NA;Circumval·lació;0.0;;;;;;;
+Carrer dels Cirerers;NA;Cirerers;0.0;;;;;;;
+Plaça de la Ciutat de San Carlos de Nicaragua;NA;Ciutat de San Carlos de Nicaragua;0.0;;;;;;;
+Passatge de la Ciutat de San Fernando;NA;Ciutat de San Fernando;0.0;;;;;;;
+Carrer de la Ciutat de San Miguel de Padrón;NA;Ciutat de San Miguel de Padrón;0.0;;;;;;;
+Plaça de la Ciutat Romana;NA;Ciutat Romana;0.0;;;;;;;1
+Carrer dels Clavells;NA;Clavells;0.0;;;;;;;
+Carrer de la Colònia de Sant Antoni;Hombre;Colònia de Sant Antoni;1.0;;;;;;;
+Camí de la Colònia de Sant Jaume;Hombre;Colònia de Sant Jaume;1.0;;;;;;;
+Passatge del Comabona;NA;Comabona;0.0;;;;;;;
+Carrer del Comerç;NA;Comerç;0.0;;;;;;;
+Avinguda de la Comunitat Europea;NA;Comunitat Europea;0.0;;;;;;;
+Carrer de la Concòrdia;NA;Concòrdia;0.0;;;;;;;
+Avinguda del Conflent;NA;Conflent;0.0;;;;;;;
+Avinguda del Congrés Eucarístic;NA;Congrés Eucarístic;0.0;;;;;;;
+Carrer de la Conquista;NA;Conquista;0.0;;;;;;;1
+Carretera de la Conreria;NA;Conreria;0.0;;;;;;;
+Plaça de la Constitució;NA;Constitució;0.0;;;;;;;1
+Carrer dels Corders;NA;Corders;0.0;;;;;;;
+Carrer de Còrdova;NA;Còrdova;0.0;;;;;;;
+Carrer Cortijo;NA;Cortijo;0.0;;;;;;;1
+Carrer de la Costa;NA;Costa;0.0;;;;;;;1
+Diagonal de la Costa Brava;NA;Costa Brava;0.0;;;;;;;
+Carrer de Covadonga;NA;Covadonga;0.0;;;;;;;
+Carrer de la Creu;NA;Creu;0.0;;;;;;;1
+Plaça de Cuba;NA;Cuba;0.0;;;;;;;1
+Carrer de Cuba;NA;Cuba;0.0;;;;;;;1
+Passatge de Cussó;NA;Cussó;0.0;;;;;;;
+Carrer de Dalt;NA;Dalt;0.0;;;;;;;1
+Carrer de la Democràcia;NA;Democràcia;0.0;;;;;;;
+Carrer de Dinamarca;NA;Dinamarca;0.0;;;;;;;
+Plaça del Diplodocus;NA;Diplodocus;0.0;;;;;;;
+Carrer del Dipòsit;NA;Dipòsit;0.0;;;;;;;1
+Plaça de la Dona;NA;Dona;0.0;;;;;;;
+Passatge de Doplà;NA;Doplà;0.0;;;;;;;
+Carrer del Dos de Maig;NA;Dos de Maig;0.0;;;;;;;1
+Carrer d'Eivissa;NA;Eivissa;0.0;;;;;;;
+Carrer d'El Escorial;NA;El Escorial;0.0;;;;;;;
+Plaça d'Elx;NA;Elx;0.0;;;;;;;
+Avinguda d'en Caritg;NA;en Caritg;0.0;;;;;;;
+Carrer d'en Fluvià;NA;en Fluvià;0.0;;;;;;;1
+Passatge dels Encants;NA;Encants;0.0;;;;;;;
+Camí Escoles;NA;Escoles;0.0;;;;;;;
+Plaça d'Espanya;NA;Espanya;0.0;;;;;;;
+Plaça dels Eucaliptus;NA;Eucaliptus;0.0;;;;;;;
+Carrer d'Europa;NA;Europa;0.0;;;;;;;
+Avinguda d'Extremadura;NA;Extremadura;0.0;;;;;;;
+Carrer de la Fàbrica de Can Guixeres;NA;Fàbrica de Can Guixeres;0.0;;;;;;;1
+Avinguda de Ferrater;NA;Ferrater;0.0;;;;;;;
+Carrer de la Festa Major;NA;Festa Major;0.0;;;;;;;
+Carrer de Figueres;NA;Figueres;0.0;;;;;;;
+Carrer de la Filosofia;NA;Filosofia;0.0;;;;;;;
+Carrer de la Física;NA;Física;0.0;;;;;;;
+Carrer de Florència;NA;Florència;0.0;;;;;;;
+Carrer de Floridablanca;NA;Floridablanca;0.0;;;;;;;
+Carrer de Fogars de Tordera;NA;Fogars de Tordera;0.0;;;;;;;
+Plaça de la Font;NA;Font;0.0;;;;;;;1
+Carrer de la Font;NA;Font;0.0;;;;;;;1
+Camí de la Font de l'Amigó;NA;Font de l'Amigó;0.0;;;;;;;
+Carrer del Fossar Xic;NA;Fossar Xic;0.0;;;;;;;1
+Rambla de França;NA;França;0.0;;;;;;;
+Carrer de la Fusta;NA;Fusta;0.0;;;;;;;
+Carrer de Galícia;NA;Galícia;0.0;;;;;;;1
+Carrer del Garbí;NA;Garbí;0.0;;;;;;;1
+Passeig dels Garrofers;NA;Garrofers;0.0;;;;;;;
+Plaça del Gas;NA;Gas;0.0;;;;;;;1
+Carrer de Gavà;NA;Gavà;0.0;;;;;;;
+Carrer de la Gavina;NA;Gavina;0.0;;;;;;;
+Carrer de Gènova;NA;Gènova;0.0;;;;;;;
+Carrer del Ginebre;NA;Ginebre;0.0;;;;;;;
+Carrer de la Ginesta;NA;Ginesta;0.0;;;;;;;
+Carrer de Girona;NA;Girona;0.0;;;;;;;
+Passatge de la Glòria;NA;Glòria;0.0;;;;;;;
+Rambla del Gorg;NA;Gorg;0.0;;;;;;;
+Carrer de Gràcia;NA;Gràcia;0.0;;;;;;;
+Carrer de la Gran Bretanya;NA;Gran Bretanya;0.0;;;;;;;
+Carrer de Granada;NA;Granada;0.0;;;;;;;
+Carrer de Granollers;NA;Granollers;0.0;;;;;;;
+Carrer de Gravina;NA;Gravina;0.0;;;;;;;
+Carrer de Grècia;NA;Grècia;0.0;;;;;;;
+Carrer del Gregal;NA;Gregal;0.0;;;;;;;1
+Grup d'habitatges de la Verge Assumpta;NA;Grup d'habitatges de la Verge Assumpta;0.0;;;;;;;
+Grup d'habitatges Verge de la Salut;NA;Grup d'habitatges Verge de la Salut;0.0;;;;;;;
+Plaça del Grup Maresme;NA;Grup Maresme;0.0;;;;;;;
+Carrer de Guipúscoa;NA;Guipúscoa;0.0;;;;;;;
+Avinguda del Guix;NA;Guix;0.0;;;;;;;
+Carrer d'Holanda;NA;Holanda;0.0;;;;;;;
+Carrer dels Horts;NA;Horts;0.0;;;;;;;
+Carrer de Huelva;NA;Huelva;0.0;;;;;;;
+Carrer d'Ibèria;NA;Ibèria;0.0;;;;;;;
+Carrer d'Igualada;NA;Igualada;0.0;;;;;;;
+Carrer de la Independència;NA;Independència;0.0;;;;;;;1
+Carrer de la Indústria;NA;Indústria;0.0;;;;;;;1
+Carrer d'Iquique - carrer de la Festa Major;NA;Iquique - carrer de la Festa Major;0.0;;;;;;;
+Carrer d'Iris;NA;Iris;0.0;;;;;;;1
+Carrer d'Irlanda;NA;Irlanda;0.0;;;;;;;
+Avinguda d'Itàlia;NA;Itàlia;0.0;;;;;;;
+Carrer de Jaén;NA;Jaén;0.0;;;;;;;
+Carrer de Jerusalem;NA;Jerusalem;0.0;;;;;;;
+Carrer dels Jocs Florals;NA;Jocs Florals;0.0;;;;;;;1
+Plaça dels Jocs Olímpics del 92;NA;Jocs Olímpics del 92;0.0;;;;;;;
+Carrer de Jovellar;NA;Jovellar;0.0;;;;;;;1
+Plaça de Jumberca;NA;Jumberca;0.0;;;;;;;
+Carrer de Jumilla;NA;Jumilla;0.0;;;;;;;
+Carrer de Júpiter;NA;Júpiter;0.0;;;;;;;
+Carrer de l'Acàcia;NA;l'Acàcia;0.0;;;;;;;
+Carrer de l'Acer;NA;l'Acer;0.0;;;;;;;
+Rotonda de l'Alguer;NA;l'Alguer;0.0;;;;;;;
+Carrer de l'Alzina;NA;l'Alzina;0.0;;;;;;;
+Plaça de l'Amistat;NA;l'Amistat;0.0;;;;;;;
+Carrer de l'Aneto;NA;l'Aneto;0.0;;;;;;;
+Carrer de l'Aqüeducte;NA;l'Aqüeducte;0.0;;;;;;;
+Carrer de l'Arboç;NA;l'Arboç;0.0;;;;;;;
+Plaça de l'Assemblea de Catalunya;NA;l'Assemblea de Catalunya;0.0;;;;;;;1
+Carrer de l'Astronomia;NA;l'Astronomia;0.0;;;;;;;
+Carrer de l'Atlàntida;NA;l'Atlàntida;0.0;;;;;;;
+Carrer de l'Autonomia;NA;l'Autonomia;0.0;;;;;;;
+Carrer de l'Electrònica;NA;l'Electrònica;0.0;;;;;;;
+Carrer de l'Empedrat;NA;l'Empedrat;0.0;;;;;;;
+Carrer de l'Empordà;NA;l'Empordà;0.0;;;;;;;1
+Carrer de l'Energia;NA;l'Energia;0.0;;;;;;;
+Carrer de l'Estadi;NA;l'Estadi;0.0;;;;;;;
+Carrer de l'Estiu;NA;l'Estiu;0.0;;;;;;;
+Carrer de l'Estrella;NA;l'Estrella;0.0;;;;;;;
+Carrer de l'Estribord;NA;l'Estribord;0.0;;;;;;;
+Carrer de l'Estrop;NA;l'Estrop;0.0;;;;;;;1
+Carrer de l'Havana;NA;l'Havana;0.0;;;;;;;
+Avinguda de l'Hospitalet;NA;l'Hospitalet;0.0;;;;;;;
+Plaça de l'Oli;NA;l'Oli;0.0;;;;;;;1
+Carrer de l'Oli;NA;l'Oli;0.0;;;;;;;1
+Carrer de l'Olivera;NA;l'Olivera;0.0;;;;;;;
+Carrer de l'Olivera de Sistrells;NA;l'Olivera de Sistrells;0.0;;;;;;;
+Carrer de l'Om;NA;l'Om;0.0;;;;;;;
+Carrer de l'Onze de Setembre;NA;l'Onze de Setembre;0.0;;;;;;;
+Carrer de l'Orient;NA;l'Orient;0.0;;;;;;;
+Carrer de l'Uruguai;NA;l'Uruguai;0.0;;;;;;;
+Carrer de Laietània;NA;Laietània;0.0;;;;;;;1
+Carrer de Latrilla;NA;Latrilla;0.0;;;;;;;1
+Plaça de les Arts;NA;les Arts;0.0;;;;;;;
+Passeig de les Atzavares;NA;les Atzavares;0.0;;;;;;;
+Plaça de les Balears;NA;les Balears;0.0;;;;;;;
+Plaça de les Brigades Internacionals;NA;les Brigades Internacionals;0.0;;;;;;;
+Plaça de les Canàries;NA;les Canàries;0.0;;;;;;;
+Carrer de les Corts;NA;les Corts;0.0;;;;;;;1
+Avinguda de les Corts Catalanes;NA;les Corts Catalanes;0.0;;;;;;;
+Carrer de les Cosidores;NA;les Cosidores;0.0;;;;;;;
+Carrer de les Eres;NA;les Eres;0.0;;;;;;;1
+Carrer de les Escales;NA;les Escales;0.0;;;;;;;
+Carrer de les Filadores;NA;les Filadores;0.0;;;;;;;
+Plaça de les Gavines;NA;les Gavines;0.0;;;;;;;1
+Camí de les Guixeres;NA;les Guixeres;0.0;;;;;;;
+Carrer de les Monges;NA;les Monges;0.0;;;;;;;
+Carrer de les Moreres;NA;les Moreres;0.0;;;;;;;
+Carrer de les Nou Cases;NA;les Nou Cases;0.0;;;;;;;
+Carrer de les Palmeres;NA;les Palmeres;0.0;;;;;;;
+Carrer de les Planes d'en Sunyol;NA;les Planes d'en Sunyol;0.0;;;;;;;
+Plaça de les Puntaires;NA;les Puntaires;0.0;;;;;;;1
+Plaça de les Quatre Hores;NA;les Quatre Hores;0.0;;;;;;;
+Carrer de les Teixidores;NA;les Teixidores;0.0;;;;;;;
+Carrer de les Termes Romanes;NA;les Termes Romanes;0.0;;;;;;;1
+Carrer de les Valls d'Andorra;NA;les Valls d'Andorra;0.0;;;;;;;
+Carrer de Linares;NA;Linares;0.0;;;;;;;
+Carrer de Listz;NA;Listz;0.0;;;;;;;
+Carrer de Lituània;NA;Lituània;0.0;;;;;;;
+Carrer de Llefià;NA;Llefià;0.0;;;;;;;1
+Carrer de Lleida;NA;Lleida;0.0;;;;;;;
+Avinguda del Llenguadoc;NA;Llenguadoc;0.0;;;;;;;
+Carrer del Lleó;NA;Lleó;0.0;;;;;;;1
+Plaça de la Llibertat;NA;Llibertat;0.0;;;;;;;
+Carrer de la Llibertat;NA;Llibertat;0.0;;;;;;;1
+Carrer dels Llimoners;NA;Llimoners;0.0;;;;;;;
+Plaça de Lloreda;NA;Lloreda;0.0;;;;;;;
+Avinguda de Lloreda;NA;Lloreda;0.0;;;;;;;
+Carrer de la Lluna;NA;Lluna;0.0;;;;;;;1
+Carrer de Londres;NA;Londres;0.0;;;;;;;
+Carrer de Luxemburg;NA;Luxemburg;0.0;;;;;;;
+Plaça de Madrid;NA;Madrid;0.0;;;;;;;
+Carrer de Madrid;NA;Madrid;0.0;;;;;;;
+Plaça del Mag Li-Chan;NA;Mag Li-Chan;0.0;;;;;;;1
+Carrer del Magatzem;NA;Magatzem;0.0;;;;;;;1
+Plaça de Maignon;NA;Maignon;0.0;;;;;;;1
+Passatge de Maignon;NA;Maignon;0.0;;;;;;;1
+Carrer de Màlaga;NA;Màlaga;0.0;;;;;;;
+Carrer de Malgrat de Mar;NA;Malgrat de Mar;0.0;;;;;;;
+Carrer de Mallorca;NA;Mallorca;0.0;;;;;;;
+Carrer de Manila;NA;Manila;0.0;;;;;;;
+Carrer del Manresà;NA;Manresà;0.0;;;;;;;
+Plaça de la Mansana XIII;NA;Mansana XIII;0.0;;;;;;;
+Carrer de Mar;NA;Mar;0.0;;;;;;;1
+Carrer de la Mar Adriàtica;NA;Mar Adriàtica;0.0;;;;;;;
+Carrer de la Mar Egea;NA;Mar Egea;0.0;;;;;;;
+Carrer de la Mar Jònica;NA;Mar Jònica;0.0;;;;;;;
+Carrer de la Mar Mediterrània;NA;Mar Mediterrània;0.0;;;;;;;1
+Carrer de la Mar Negra;NA;Mar Negra;0.0;;;;;;;
+Carrer de la Mar Tirrena;NA;Mar Tirrena;0.0;;;;;;;
+Passeig del Mare Nostrum;NA;Mare Nostrum;0.0;;;;;;;
+Avinguda del Maresme;NA;Maresme;0.0;;;;;;;
+Plaça de la Marinada;NA;Marinada;0.0;;;;;;;1
+Passeig Marítim;NA;Marítim;0.0;;;;;;;1
+Carrer de Martorell;NA;Martorell;0.0;;;;;;;
+Avinguda del Mas Ram;NA;Mas Ram;0.0;;;;;;;
+Camí de Masanuc;NA;Masanuc;0.0;;;;;;;
+Carrer de Masanuc;NA;Masanuc;0.0;;;;;;;
+Carrer del Masnou;NA;Masnou;0.0;;;;;;;
+Carrer del Matagalls;NA;Matagalls;0.0;;;;;;;
+Carretera de Mataró;NA;Mataró;0.0;;;;;;;
+Carrer de la Mecànica;NA;Mecànica;0.0;;;;;;;
+Plaça de la Medicina;NA;Medicina;0.0;;;;;;;1
+Carretera de Mena;NA;Mena;0.0;;;;;;;
+Passatge de Meranges;NA;Meranges;0.0;;;;;;;
+Camí del Mig;NA;Mig;0.0;;;;;;;
+Carrer del Migjorn;NA;Migjorn;0.0;;;;;;;1
+Carrer de la Mina;NA;Mina;0.0;;;;;;;
+Passeig de la Miranda;NA;Miranda;0.0;;;;;;;
+Carrer de Mistral;NA;Mistral;0.0;;;;;;;1
+Passatge del Moixeró;NA;Moixeró;0.0;;;;;;;
+Passatge del Moixó;NA;Moixó;0.0;;;;;;;
+Carrer del Molí de la Torre;NA;Molí de la Torre;0.0;;;;;;;1
+Pont del Molinet;NA;Molinet;0.0;;;;;;;
+Moll Adossat;NA;Moll Adossat;0.0;;;;;;;
+Moll de Capitania;NA;Moll de Capitania;0.0;;;;;;;
+Moll de Ribera;NA;Moll de Ribera;0.0;;;;;;;
+Moll Nord;NA;Moll Nord;0.0;;;;;;;
+Avinguda de Mònaco;NA;Mònaco;0.0;;;;;;;
+Carrer de Montalegre;NA;Montalegre;0.0;;;;;;;
+Carretera de Montcada i Reixac;NA;Montcada i Reixac;0.0;;;;;;;
+Carrer de Montjuïc;NA;Montjuïc;0.0;;;;;;;
+Carrer del Montseny;NA;Montseny;0.0;;;;;;;
+Carrer de Monturiol;NA;Monturiol;0.0;;;;;;;
+Carrer de la Mora;NA;Mora;0.0;;;;;;;
+Avinguda de Morera;NA;Morera;0.0;;;;;;;
+Avinguda de Morralla;NA;Morralla;0.0;;;;;;;
+Passatge de Morralla;NA;Morralla;0.0;;;;;;;
+Carrer de Motril;NA;Motril;0.0;;;;;;;
+Carrer de la Muntanya;NA;Muntanya;0.0;;;;;;;
+Carrer de Múrcia;NA;Múrcia;0.0;;;;;;;
+Carrer del Museu;NA;Museu;0.0;;;;;;;1
+Plaça dels Músics;NA;Músics;0.0;;;;;;;
+Carrer de Natzaret;NA;Natzaret;0.0;;;;;;;
+Avinguda de Navarra;NA;Navarra;0.0;;;;;;;1
+Carrer de Navas de Tolosa;NA;Navas de Tolosa;0.0;;;;;;;
+Carrer de Navata;NA;Navata;0.0;;;;;;;
+Carrer de Niça;NA;Niça;0.0;;;;;;;
+Plaça de Nicaragua;NA;Nicaragua;0.0;;;;;;;
+Carrer de la Nova Cançó;NA;Nova Cançó;0.0;;;;;;;1
+Carrer de Numància;NA;Numància;0.0;;;;;;;
+Carrer de Núria;Mujer;Núria;0.0;;;;;;;
+Carrer d'Occitània;NA;Occitània;0.0;;;;;;;
+Carrer d'Oceania;NA;Oceania;0.0;;;;;;;
+Carrer d'Olesa de Montserrat;NA;Olesa de Montserrat;0.0;;;;;;;
+Carrer d'Osca;NA;Osca;0.0;;;;;;;1
+Plaça dels Països Catalans;NA;Països Catalans;0.0;;;;;;;1
+Carrer de Palafrugell;NA;Palafrugell;0.0;;;;;;;
+Carrer de Palamós;NA;Palamós;0.0;;;;;;;
+Carrer de la Pallaresa;NA;Pallaresa;0.0;;;;;;;
+Carrer del Paradís;NA;Paradís;0.0;;;;;;;
+Carrer de Parets del Vallès;NA;Parets del Vallès;0.0;;;;;;;
+Carrer de París;NA;París;0.0;;;;;;;
+Passatge del Pas de la Guineu;NA;Pas de la Guineu;0.0;;;;;;;1
+Carrer de la Pau;NA;Pau;0.0;;;;;;;
+Carrer del Pedraforca;NA;Pedraforca;0.0;;;;;;;
+Carrer de la Pedrera;NA;Pedrera;0.0;;;;;;;
+Camí de la Pelleria;NA;Pelleria;0.0;;;;;;;
+Carrer Perdiu;NA;Perdiu;0.0;;;;;;;
+Carrer del Perú;NA;Perú;0.0;;;;;;;
+Pont del Petroli;NA;Petroli;0.0;;;;;;;
+Carrer de la Pietat;NA;Pietat;1.0;;;;;;;1
+Carrer de Pineda;NA;Pineda;0.0;;;;;;;
+Plaça de la Pineda;NA;Pineda;0.0;;;;;;;1
+Passeig dels Pins;NA;Pins;0.0;;;;;;;
+Carrer Pinsà;NA;Pinsà;0.0;;;;;;;
+Carrer del Pinsà;NA;Pinsà;0.0;;;;;;;
+Plaça de la Pipa;NA;Pipa;0.0;;;;;;;
+Carrer dels Pirineus;NA;Pirineus;0.0;;;;;;;
+Carrer de la Plaça;NA;Plaça;0.0;;;;;;;1
+Plaça de la Plana;NA;Plana;0.0;;;;;;;1
+Passatge de la Plana;NA;Plana;0.0;;;;;;;1
+Carrer del Planeta Mart;NA;Planeta Mart;0.0;;;;;;;
+Plaça dels Planetes;NA;Planetes;0.0;;;;;;;
+Carrer del Plàstic;NA;Plàstic;0.0;;;;;;;
+Carrer dels Plàtans;NA;Plàtans;0.0;;;;;;;
+Carrer de la Platja;NA;Platja;0.0;;;;;;;1
+Plaça de Plutó;NA;Plutó;0.0;;;;;;;
+Plaça de Pomar;NA;Pomar;0.0;;;;;;;
+Carretera de Pomar;NA;Pomar;0.0;;;;;;;
+Avinguda de Pomar;NA;Pomar;0.0;;;;;;;
+Carrer de Pomar de Baix;NA;Pomar de Baix;0.0;;;;;;;
+Carrer de Ponent;NA;Ponent;0.0;;;;;;;
+Passeig del Pont;NA;Pont;0.0;;;;;;;
+Carrer del Porvenir;NA;Porvenir;0.0;;;;;;;1
+Avinguda de Prat de la Riba;NA;Prat de la Riba;0.0;;;;;;;1
+Carrer de Premià de Mar;NA;Premià de Mar;0.0;;;;;;;
+Carrer de la Primavera;NA;Primavera;0.0;;;;;;;
+Avinguda del Primer de Maig;NA;Primer de Maig;0.0;;;;;;;
+Carrer del Progrés;NA;Progrés;0.0;;;;;;;1
+Carrer de Provença;NA;Provença;0.0;;;;;;;
+Carrer de la Providència;NA;Providència;0.0;;;;;;;1
+Avinguda de Puigfred;NA;Puigfred;0.0;;;;;;;
+Carrer del Puigmal;NA;Puigmal;0.0;;;;;;;
+Carrer del Puigsacalm;NA;Puigsacalm;0.0;;;;;;;
+Carrer de la Quintana Alta;NA;Quintana Alta;0.0;;;;;;;1
+Plaça del Quinze de Juny;NA;Quinze de Juny;0.0;;;;;;;1
+Passeig de la Rambla;NA;Rambla;0.0;;;;;;;1
+Plaça de la Regalèssia;NA;Regalèssia;0.0;;;;;;;
+Carrer del Rellotge;NA;Rellotge;0.0;;;;;;;
+Carrer de la República Argentina;NA;República Argentina;0.0;;;;;;;1
+Carrer de la República Portuguesa;NA;República Portuguesa;0.0;;;;;;;1
+Carrer de Reus;NA;Reus;0.0;;;;;;;
+Passeig de la Riba Dreta;NA;Riba Dreta;0.0;;;;;;;
+Carrer de la Riera de Canyadó;NA;Riera de Canyadó;0.0;;;;;;;
+Riera de Canyet;NA;Riera de Canyet;0.0;;;;;;;
+Carrer de la Riera de Matamoros;NA;Riera de Matamoros;0.0;;;;;;;1
+Riera de Montalegre;NA;Riera de Montalegre;0.0;;;;;;;
+Riera de Pomar;NA;Riera de Pomar;0.0;;;;;;;
+Carrer de Ripoll;NA;Ripoll;0.0;;;;;;;
+Passatge del Riu Congost;NA;Riu Congost;0.0;;;;;;;
+Passatge del Riu Corb;NA;Riu Corb;0.0;;;;;;;
+Passatge del Riu de Querol;NA;Riu de Querol;0.0;;;;;;;
+Passatge del Riu Ebre;NA;Riu Ebre;0.0;;;;;;;
+Passatge del Riu Francolí;NA;Riu Francolí;0.0;;;;;;;
+Passatge del Riu Freser;NA;Riu Freser;0.0;;;;;;;
+Passatge del Riu Garona;NA;Riu Garona;0.0;;;;;;;
+Passatge del Riu Llobregat;NA;Riu Llobregat;0.0;;;;;;;
+Passatge del Riu Mogent;NA;Riu Mogent;0.0;;;;;;;
+Plaça del Riu Muga;NA;Riu Muga;0.0;;;;;;;
+Passatge del Riu Noguera;NA;Riu Noguera;0.0;;;;;;;
+Passatge del Riu Onyar;NA;Riu Onyar;0.0;;;;;;;
+Passatge del Riu Segre;NA;Riu Segre;0.0;;;;;;;
+Passatge del Riu Ter;NA;Riu Ter;0.0;;;;;;;
+Passatge del Riu Tordera;NA;Riu Tordera;0.0;;;;;;;
+Plaça Roja;NA;Roja;0.0;;;;;;;
+Plaça de Roma;NA;Roma;0.0;;;;;;;
+Avinguda de Roma;NA;Roma;0.0;;;;;;;
+Pont romàntic;NA;romàntic;0.0;;;;;;;
+Carrer de Roncesvalls;NA;Roncesvalls;0.0;;;;;;;
+Placeta de la Ronda;NA;Ronda;0.0;;;;;;;
+Plaça de la Rosa dels Vents;NA;Rosa dels Vents;0.0;;;;;;;1
+Carrer de la Rosella;NA;Rosella;0.0;;;;;;;1
+Carrer del Roure;NA;Roure;0.0;;;;;;;
+Carrer de Rubí;NA;Rubí;0.0;;;;;;;
+Carrer de s'Agaró;NA;s'Agaró;0.0;;;;;;;
+Avinguda de Sabadell;NA;Sabadell;0.0;;;;;;;
+Plaça dels Safaretjos;NA;Safaretjos;0.0;;;;;;;1
+Carrer de la Sagrada Família;NA;Sagrada Família;0.0;;;;;;;
+Carrer de Sagunt;NA;Sagunt;0.0;;;;;;;1
+Passatge de Sallagosa;NA;Sallagosa;0.0;;;;;;;
+Carrer de Salou;NA;Salou;0.0;;;;;;;
+Passeig de la Salut;NA;Salut;0.0;;;;;;;
+Túnel de la Salut;NA;Salut;0.0;;;;;;;
+Carrer del Salze;NA;Salze;0.0;;;;;;;
+Avinguda del Sanatori;NA;Sanatori;0.0;;;;;;;
+Carrer de Saragossa;NA;Saragossa;0.0;;;;;;;1
+Carrer de la Sardana;NA;Sardana;0.0;;;;;;;
+Carrer de Sardenya;NA;Sardenya;0.0;;;;;;;
+Carrer de Saturn;NA;Saturn;0.0;;;;;;;
+Carrer de la Sega;NA;Sega;0.0;;;;;;;
+Plaça de la Segona República;NA;Segona República;0.0;;;;;;;
+Carrer de la Selva;NA;Selva;0.0;;;;;;;1
+Carrer de la Sembra;NA;Sembra;0.0;;;;;;;
+Carrer de la Sèquia;NA;Sèquia;0.0;;;;;;;
+Carrer de la Serra de Daró;NA;Serra de Daró;0.0;;;;;;;
+Carrer de la Seu d'Urgell;NA;Seu d'Urgell;0.0;;;;;;;1
+Carrer de Sevilla;NA;Sevilla;0.0;;;;;;;
+Carrer de Sicília;NA;Sicília;0.0;;;;;;;
+Carrer de Simancas;NA;Simancas;0.0;;;;;;;
+Carrer de Sírius;NA;Sírius;0.0;;;;;;;
+Plaça de Sistrells;NA;Sistrells;0.0;;;;;;;
+Camí de Sistrells;NA;Sistrells;0.0;;;;;;;
+Carrer de Sitges;NA;Sitges;0.0;;;;;;;
+Passatge del Sobrarb;NA;Sobrarb;0.0;;;;;;;
+Plaça del Sol;NA;Sol;0.0;;;;;;;1
+Carrer de la Soledat;NA;Soledat;0.0;;;;;;;1
+Rambla de la Solidaritat;NA;Solidaritat;0.0;;;;;;;
+Carrer de Solsona;NA;Solsona;0.0;;;;;;;
+Carrer de Suïssa;NA;Suïssa;0.0;;;;;;;
+Carrer de Súria;NA;Súria;0.0;;;;;;;
+Carrer de Tamariu;NA;Tamariu;0.0;;;;;;;
+Camí del tanatori;NA;tanatori;0.0;;;;;;;
+Carrer de Tànger;NA;Tànger;0.0;;;;;;;1
+Carrer de Tanit;NA;Tanit;0.0;;;;;;;
+Carrer de la Tardor;NA;Tardor;0.0;;;;;;;
+Passeig dels Tarongers;NA;Tarongers;0.0;;;;;;;
+Carrer de Tarragona;NA;Tarragona;0.0;;;;;;;
+Carrer de la Tècnica;NA;Tècnica;0.0;;;;;;;
+Carrer del Tei;NA;Tei;0.0;;;;;;;1
+Carrer del Teide;NA;Teide;0.0;;;;;;;
+Carrer del Temple;NA;Temple;0.0;;;;;;;1
+Plaça de la Tenora;NA;Tenora;0.0;;;;;;;1
+Carrer de Terol;NA;Terol;0.0;;;;;;;1
+Avinguda de Terrassa;NA;Terrassa;0.0;;;;;;;
+Carretera de Tiana;NA;Tiana;0.0;;;;;;;
+Carrer de Tiana;NA;Tiana;0.0;;;;;;;
+Carrer del Tibidabo;NA;Tibidabo;0.0;;;;;;;
+Carrer de Torí;NA;Torí;0.0;;;;;;;
+Carrer de Torner;NA;Torner;0.0;;;;;;;1
+Passatge de la Torre;NA;Torre;0.0;;;;;;;
+Plaça de la Torre de l'Ou;NA;Torre de l'Ou;0.0;;;;;;;
+Plaça de la Torre Mena;NA;Torre Mena;0.0;;;;;;;
+Carrer de Torrebadal;NA;Torrebadal;0.0;;;;;;;1
+Carrer del Torrent d'en Grau;NA;Torrent d'en Grau;0.0;;;;;;;
+Carrer del Torrent d'en Valls;NA;Torrent d'en Valls;0.0;;;;;;;1
+Carrer del Torrent de la Batllòria;NA;Torrent de la Batllòria;0.0;;;;;;;1
+Carrer del Torrent de la Font;NA;Torrent de la Font;0.0;;;;;;;1
+Carrer del Torrent de Vallmajor;NA;Torrent de Vallmajor;0.0;;;;;;;
+Carrer de Tortosa;NA;Tortosa;0.0;;;;;;;
+Carrer de Tossa de Mar;NA;Tossa de Mar;0.0;;;;;;;
+Plaça de Trafalgar;NA;Trafalgar;0.0;;;;;;;
+Carrer de la Tramuntana;NA;Tramuntana;0.0;;;;;;;
+Travessera de Montigalà;NA;Travessera de Montigalà;0.0;;;;;;;
+Carrer dels Treballadors;NA;Treballadors;0.0;;;;;;;
+Plaça dels Treballadors de la Haissa;NA;Treballadors de la Haissa;0.0;;;;;;;
+Plaça del Tres d'Abril;NA;Tres d'Abril;0.0;;;;;;;1
+Carrer del Tresmall;NA;Tresmall;0.0;;;;;;;1
+Carrer del Triomf;NA;Triomf;0.0;;;;;;;1
+Passatge del Turó d'en Boscà;NA;Turó d'en Boscà;0.0;;;;;;;
+Passatge del Turó de les Maleses;NA;Turó de les Maleses;0.0;;;;;;;
+Carrer de la Unió;NA;Unió;0.0;;;;;;;1
+Carrer d'Urà;NA;Urà;0.0;;;;;;;
+Carrer de València;NA;València;0.0;;;;;;;1
+Carrer del Vallès;NA;Vallès;0.0;;;;;;;
+Carrer del Vallespir;NA;Vallespir;0.0;;;;;;;
+Carrer de Vallromanes;NA;Vallromanes;0.0;;;;;;;
+Carrer de Vallvidrera;NA;Vallvidrera;0.0;;;;;;;
+Plaça del Vapor;NA;Vapor;0.0;;;;;;;
+Camí Vell de Montcada;NA;Vell de Montcada;0.0;;;;;;;
+Passatge de Venècia;NA;Venècia;0.0;;;;;;;
+Carrer de Veneçuela;NA;Veneçuela;0.0;;;;;;;
+Passatge de Ventós Mir;NA;Ventós Mir;0.0;;;;;;;1
+Avinguda dels Vents;NA;Vents;0.0;;;;;;;
+Camí de la Verema;NA;Verema;0.0;;;;;;;
+Carrer de la Via Augusta;NA;Via Augusta;0.0;;;;;;;1
+Carrer de Vic;NA;Vic;0.0;;;;;;;
+Plaça de la Vila;NA;Vila;0.0;;;;;;;1
+Carrer de Vilamajor;NA;Vilamajor;0.0;;;;;;;1
+Carrer de Vilanova i la Geltrú;NA;Vilanova i la Geltrú;0.0;;;;;;;
+Camí de la Vinya;NA;Vinya;0.0;;;;;;;
+Passatge de Viñas;NA;Viñas;0.0;;;;;;;1
+Carrer de Viriat;NA;Viriat;0.0;;;;;;;
+Plaça dels Voluntaris Olímpics;NA;Voluntaris Olímpics;0.0;;;;;;;
+Carrer de Xaloc;NA;Xaloc;0.0;;;;;;;
+Plaça del Xarol;NA;Xarol;0.0;;;;;;;
+Carrer del Xarol;NA;Xarol;0.0;;;;;;;
+Carrer de Xile;NA;Xile;0.0;;;;;;;
+Camí dels Xiprers;NA;Xiprers;0.0;;;;;;;

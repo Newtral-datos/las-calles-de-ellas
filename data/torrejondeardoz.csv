@@ -1,0 +1,500 @@
+Calle;Género;Nombre;Religioso;Ficción;Descripción;Artículo;Imagen;Fecha Nacimiento;Fecha Muerte;Céntrica
+Carretera Torrejón - Ajalvir;NA;Torrejón - Ajalvir;0.0;;;;;;;1
+Camino de la Ventosilla;NA;Ventosilla;0.0;;;;;;;
+Calle del Ocio;NA;Ocio;0.0;;;;;;;
+Calle de la Moda;NA;Moda;0.0;;;;;;;
+Calle del Comercio;NA;Comercio;0.0;;;;;;;
+Calle de José Echegaray;Hombre;José Echegaray;0.0;;;;;;;
+Avenida de los Premios Nobel;NA;Premios Nobel;0.0;;;;;;;
+Calle de Mario Vargas Llosa;Hombre;Mario Vargas Llosa;0.0;;;;;;;
+Calle de Jacinto Benavente;Hombre;Jacinto Benavente;0.0;;;;;;;
+Plaza de España;NA;España;0.0;;;;;;;1
+Plaza Mayor;NA;Mayor;0.0;;;;;;;1
+Calle de José Cadalso;Hombre;José Cadalso;0.0;;;;;;;
+Plaza del Museo;NA;Museo;0.0;;;;;;;1
+Plaza de La Habana;NA;Habana;0.0;;;;;;;1
+Plaza Centro;NA;Centro;0.0;;;;;;;1
+Glorieta de la Paz;NA;Paz;0.0;;;;;;;
+Avenida de la Luna;NA;Luna;0.0;;;;;;;
+Plaza del Progreso;NA;Progreso;0.0;;;;;;;
+Carretera de Loeches;NA;Loeches;0.0;;;;;;;1
+Calle de Hércules;Hombre;Hércules;0.0;;;;;;;
+Calle de la Solana;NA;Solana;0.0;;;;;;;1
+Calle del Metano;NA;Metano;0.0;;;;;;;
+Avenida de la Constitución;NA;Constitución;0.0;;;;;;;1
+Calle del Cobre;NA;Cobre;0.0;;;;;;;
+Avenida del Sol;NA;Sol;0.0;;;;;;;1
+Calle de Enmedio;NA;Enmedio;0.0;;;;;;;1
+Calle de la Forja;NA;Forja;0.0;;;;;;;
+Calle de Cemento;NA;Cemento;0.0;;;;;;;
+Calle de la Circunvalación;NA;Circunvalación;0.0;;;;;;;
+Calle de Alcuñeza;NA;Alcuñeza;0.0;;;;;;;
+Calle del Carbono;NA;Carbono;0.0;;;;;;;1
+Calle de Arganda;NA;Arganda;0.0;;;;;;;1
+Calle de Homero;Hombre;Homero;0.0;;;;;;;1
+Avenida de las Fronteras;NA;Fronteras;0.0;;;;;;;1
+Calle de Telémaco;NA;Telémaco;0.0;;;;;;;1
+Calle de Aquiles;Hombre;Aquiles;0.0;;;;;;;
+Calle del Río;NA;Río;0.0;;;;;;;1
+Calle de Dionisos;NA;Dionisos;0.0;;;;;;;
+Calle de Ulises;Hombre;Ulises;0.0;1.0;;;;;;
+Calle de Londres;NA;Londres;0.0;;;;;;;1
+Calle de Budapest;NA;Budapest;0.0;;;;;;;
+Paso de Zapatería;NA;Paso de Zapatería;0.0;;;;;;;1
+Calle del Río Miño;Hombre;Río Miño;0.0;;;;;;;1
+Avenida de las Estaciones;NA;Estaciones;0.0;;;;;;;
+Calle del Amoniaco;NA;Amoniaco;0.0;;;;;;;
+Calle de Hilados;NA;Hilados;0.0;;;;;;;
+Calle del Tres de Abril;NA;Tres de Abril;0.0;;;;;;;
+Calle de Garabay;NA;Garabay;0.0;;;;;;;
+Calle del Grafito;NA;Grafito;0.0;;;;;;;
+Calle de la Pirita;NA;Pirita;0.0;;;;;;;
+Calle del Bronce;NA;Bronce;0.0;;;;;;;
+Callejón de Ebanistería;NA;Ebanistería;0.0;;;;;;;
+Calle de Ebanistería;NA;Ebanistería;0.0;;;;;;;
+Calle de las Industrias;NA;Industrias;0.0;;;;;;;
+Calle de la Madera;NA;Madera;0.0;;;;;;;1
+Calle de Madrid;NA;Madrid;0.0;;;;;;;1
+Avenida de la Virgen de Loreto;Mujer;Virgen de Loreto;1.0;;;https://es.wikipedia.org/wiki/Virgen_de_Loreto;;;;1
+Calle de Roma;NA;Roma;0.0;;;;;;;1
+Calle de las Viñas;NA;Viñas;0.0;;;;;;;1
+Calle de Granados;NA;Granados;0.0;;;;;;;1
+Calle de la Virgen de la Paz;Mujer;Virgen de la Paz;1.0;;;https://es.wikipedia.org/wiki/Virgen_de_la_Paz_Coronada_(Ronda);;;;1
+Callejón de Protección Civil;NA;Protección Civil;0.0;;;;;;;1
+Calle de Alcalá;NA;Alcalá;0.0;;;;;;;1
+Calle de Juan Ramón Jiménez;Hombre;Juan Ramón Jiménez;0.0;;;;;;;1
+Calle de San Isidro;Hombre;San Isidro;1.0;;;;;;;1
+Calle Pesquera;NA;Pesquera;0.0;;;;;;;1
+Calle de la Ronda del Saliente;NA;Ronda del Saliente;0.0;;;;;;;1
+Calle del Cristo;Hombre;Cristo;1.0;;;;;;;1
+Calle de Juan XXIII;Hombre;Juan XXIII;0.0;;;;;;;1
+Calle de la Cruz;NA;Cruz;0.0;;;;;;;1
+Calle de los Curas;NA;Curas;0.0;;;;;;;1
+Calle de Cardoso;Hombre;Cardoso;0.0;;;;;;;1
+Calle de Ramón y Cajal;Hombre;Ramón y Cajal;0.0;;;;;;;1
+Calle de San Felipe;Hombre;San Felipe;1.0;;;;;;;1
+Calle de la Virgen del Pilar;Mujer;Nuestra Señora del Pilar de Zaragoza;1.0;;advocación mariana;https://es.wikipedia.org/wiki/Virgen_del_Pilar;http://commons.wikimedia.org/wiki/Special:FilePath/Escultura%20de%20la%20Virgen%20del%20Pilar%2C%20en%20la%20Bas%C3%ADlica%20del%20Pilar%20de%20Zaragoza%2C%20Espa%C3%B1a%2C%20Spain.jpg;;;1
+Calle de San Alberto;Hombre;San Alberto;1.0;;;;;;;1
+Calle del Hospital;NA;Hospital;0.0;;;;;;;1
+Calle de las Marquesas;Mujer;Marquesas;0.0;;;;;;;1
+Paseo de la Estación;NA;Estación;0.0;;;;;;;1
+Calle de Aragón;NA;Aragón;0.0;;;;;;;
+Calle de Teruel;NA;Teruel;0.0;;;;;;;
+Calle de Lisboa;NA;Lisboa;0.0;;;;;;;1
+Calle de Cantalarrana;NA;Cantalarrana;0.0;;;;;;;1
+Calle del Río Henares;Hombre;Río Henares;0.0;;;;;;;
+Travesía del Río Jarama;Hombre;Río Jarama;0.0;;;;;;;
+Calle del Mármol;NA;Mármol;0.0;;;;;;;
+Calle del Hierro;NA;Hierro;0.0;;;;;;;
+Glorieta de Torreón del Ardoz;NA;Torreón del Ardoz;0.0;;;;;;;
+Calle de Pamplona;NA;Pamplona;0.0;;;;;;;1
+Calle de Sevilla;NA;Sevilla;0.0;;;;;;;1
+Calle de Zaragoza;NA;Zaragoza;0.0;;;;;;;1
+Calle de Salamanca;NA;Salamanca;0.0;;;;;;;1
+Calle de Logroño;NA;Logroño;0.0;;;;;;;1
+Calle de Guadalajara;NA;Guadalajara;0.0;;;;;;;1
+Calle de Joaquín Blume;Hombre;Joaquín Blume;0.0;;;;;;;
+Avenida de los Fresnos;NA;Fresnos;0.0;;;;;;;
+Calle de Cibeles;NA;Cibeles;0.0;;;;;;;
+Calle de Júpiter;NA;Júpiter;0.0;;;;;;;
+Calle de Neptuno;NA;Neptuno;0.0;;;;;;;
+Calle de Hermes;Hombre;Hermes;0.0;1.0;;;;;;
+Calle de Vulcano;Hombre;Vulcano;0.0;1.0;;;;;;
+Calle de Minerva;Mujer;Minerva;0.0;1.0;;;;;;
+Calle de Poseidón;Hombre;Poseidón;0.0;1.0;;;;;;
+Calle de Saturno;Hombre;Saturno;0.0;1.0;;;;;;
+Calle de Venus;Mujer;Venus;0.0;1.0;diosa romana de la belleza y el amor erótico;https://es.wikipedia.org/wiki/Venus_(mitolog%C3%ADa);http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20Arles.jpg;;;
+Calle de Zeus;Hombre;Zeus;0.0;1.0;;;;;;
+Calle de Urano;Hombre;Urano;0.0;1.0;;;;;;
+Calle de Artemisa;Mujer;Artemisa;0.0;1.0;;;;;;
+Calle de Baco;Hombre;Baco;0.0;1.0;;;;;;
+Calle de Apolo;Hombre;Apolo;0.0;1.0;;;;;;
+Calle de las Fraguas;NA;Fraguas;0.0;;;;;;;1
+Calle de Valladolid;NA;Valladolid;0.0;;;;;;;1
+Calle de Segovia;NA;Segovia;0.0;;;;;;;1
+Calle de Cuenca;NA;Cuenca;0.0;;;;;;;1
+Calle de Palencia;NA;Palencia;0.0;;;;;;;1
+Calle de Ciudad Real;NA;Ciudad Real;0.0;;;;;;;1
+Calle de Zamora;NA;Zamora;0.0;;;;;;;1
+Calle del Invierno;NA;Invierno;0.0;;;;;;;
+Calle del Verano;NA;Verano;0.0;;;;;;;
+Calle del Término;NA;Término;0.0;;;;;;;
+Calle de la Primavera;NA;Primavera;0.0;;;;;;;
+Calle del Trópico;NA;Trópico;0.0;;;;;;;
+Calle del Otoño;NA;Otoño;0.0;;;;;;;
+Calle del Hemisferio;NA;Hemisferio;0.0;;;;;;;1
+Calle de Alcorcón;NA;Alcorcón;0.0;;;;;;;1
+Calle del Puerto de Navacerrada;NA;Puerto de Navacerrada;0.0;;;;;;;1
+Ciudad Jardín del Rosario;NA;Ciudad Jardín del Rosario;0.0;;;;;;;1
+Calle de Cristal;NA;Cristal;0.0;;;;;;;
+Calle de Buenos Aires;NA;Buenos Aires;0.0;;;;;;;
+Calle de Chile;NA;Chile;0.0;;;;;;;
+Calle de Salvador Allende;Hombre;Salvador Allende;0.0;;;;;;;1
+Calle de Manuel Sandoval;Hombre;Manuel Sandoval;0.0;;;;;;;1
+Calle de San Fernando;Hombre;San Fernando;1.0;;;;;;;1
+Calle de Verónica;Mujer;Verónica;0.0;;;;;;;1
+Calle del Cerro del Viso;NA;Cerro del Viso;0.0;;;;;;;1
+Calle del Silicio (Posterior);NA;Silicio (Posterior);0.0;;;;;;;
+Calle de Hilados (Posterior);NA;Hilados (Posterior);0.0;;;;;;;
+Calle de la Circunvalación (Posterior);NA;Circunvalación (Posterior);0.0;;;;;;;
+Calle del Estaño;NA;Estaño;0.0;;;;;;;
+Calle de la Química;NA;Química;0.0;;;;;;;
+Calle de la Óptica;NA;Óptica;0.0;;;;;;;
+Calle de Florencia;NA;Florencia;0.0;;;;;;;
+Calle del Minotauro;NA;Minotauro;0.0;;;;;;;
+Calle de Atenea;Mujer;Atenea;0.0;1.0;;;;;;
+Calle de Diana;Mujer;Diana;0.0;;;;;;;
+Calle de Afrodita;Mujer;Afrodita;0.0;1.0;Diosa griega de la belleza y el amor erótico;https://es.wikipedia.org/wiki/Afrodita;http://commons.wikimedia.org/wiki/Special:FilePath/Aphrodite8.jpg;;;
+Calle de Canillas;NA;Canillas;0.0;;;;;;;1
+Calle de Morata de Tajuña;NA;Morata de Tajuña;0.0;;;;;;;1
+Calle de Chinchón;NA;Chinchón;0.0;;;;;;;1
+Calle de Marte;NA;Marte;0.0;;;;;;;
+Calle de Ceres;NA;Ceres;0.0;;;;;;;
+Calle de los Arbolillos;NA;Arbolillos;0.0;;;;;;;1
+Calle de Retamar;NA;Retamar;0.0;;;;;;;1
+Calle de Soria;NA;Soria;0.0;;;;;;;1
+Calle de la Cancana;NA;Cancana;0.0;;;;;;;1
+Calle de Ceuta;NA;Ceuta;0.0;;;;;;;
+Calle de Palermo;NA;Palermo;0.0;;;;;;;
+Calle de Gertrudis de Hore;Mujer;María Gertrudis Hore;0.0;;escritora española;https://es.wikipedia.org/wiki/Mar%C3%ADa_Gertrudis_Hore;;1742-01-01T00:00:00Z;1801-01-01T00:00:00Z;
+Calle de José Marchena;Hombre;José Marchena;0.0;;;;;;;
+Calle del Pozo de las Nieves;NA;Pozo de las Nieves;0.0;;;;;;;
+Carretera del Castillo;NA;Castillo;0.0;;;;;;;
+Calle de Guadarrama;NA;Guadarrama;0.0;;;;;;;
+Calle del Río Jarama;Hombre;Río Jarama;0.0;;;;;;;
+Calle del Río Torote;Hombre;Río Torote;0.0;;;;;;;
+Calle del Charco de los Peces;NA;Charco de los Peces;0.0;;;;;;;
+Calle de Alicante;NA;Alicante;0.0;;;;;;;1
+Calle de San Alfonso;Hombre;San Alfonso;1.0;;;;;;;1
+Calle de Toledo;NA;Toledo;0.0;;;;;;;1
+Calle del Canto;NA;Canto;0.0;;;;;;;1
+Calle de Turín;NA;Turín;0.0;;;;;;;1
+Calle de la Veredilla;NA;Veredilla;0.0;;;;;;;1
+Calle de Medinaceli;NA;Medinaceli;0.0;;;;;;;1
+Calle de la Iglesia;NA;Iglesia;0.0;;;;;;;1
+Calle de la Virgen de la Paloma;Mujer;Virgen de la Paloma;1.0;;;https://es.wikipedia.org/wiki/Virgen_de_la_Paloma_de_Madrid;;;;1
+Calle de la Soledad;NA;Soledad;0.0;;;;;;;1
+Calle de la Ronda del Poniente;NA;Ronda del Poniente;0.0;;;;;;;1
+Plaza del Río Lozoya;Hombre;Río Lozoya;0.0;;;;;;;
+Calle del Río Ardoz;Hombre;Río Ardoz;0.0;;;;;;;
+Calle del Río Pelayo;Hombre;Río Pelayo;0.0;;;;;;;
+Calle de Brasil;NA;Brasil;0.0;;;;;;;1
+Calle de las Calderas;NA;Calderas;0.0;;;;;;;1
+Calle de la Libertad;NA;Libertad;0.0;;;;;;;1
+Plaza de Pablo de Olavide;Hombre;Pablo de Olavide;0.0;;;;;;;1
+Calle de los Villares;NA;Villares;0.0;;;;;;;1
+Calle de Paracuellos;NA;Paracuellos;0.0;;;;;;;1
+Calle del General Vigón;Hombre;General Vigón;0.0;;;;;;;1
+Calle de Cervantes;Hombre;Cervantes;0.0;;;;;;;1
+Calle de Oslo;NA;Oslo;0.0;;;;;;;1
+Calle de Bruselas;NA;Bruselas;0.0;;;;;;;1
+Calle de Berlín;NA;Berlín;0.0;;;;;;;1
+Calle de Estocolmo;NA;Estocolmo;0.0;;;;;;;1
+Calle de Dublín;NA;Dublín;0.0;;;;;;;1
+Calle de los Nardos;NA;Nardos;0.0;;;;;;;1
+Travesía de los Curas;NA;Curas;0.0;;;;;;;1
+Calle de Ajalvir;NA;Ajalvir;0.0;;;;;;;1
+Calle de las Cabilas;NA;Cabilas;0.0;;;;;;;1
+Calle del Rincón;NA;Rincón;0.0;;;;;;;1
+Calle del Platino;Hombre;Platino;0.0;;;;;;;
+Calle de Protección Civil;NA;Protección Civil;0.0;;;;;;;1
+Calle de Castilla;NA;Castilla;0.0;;;;;;;1
+Travesía del Cristo;Hombre;Cristo;1.0;;;;;;;1
+Calle de la Huerta;NA;Huerta;0.0;;;;;;;1
+Calle de la Luz;NA;Luz;0.0;;;;;;;1
+Calle de Esteban Terradas;Hombre;Esteban Terradas;0.0;;;;;;;1
+Calle del Capitán Domínguez Aguado;Hombre;Capitán Domínguez Aguado;0.0;;;;;;;1
+Calle del Capitán Elia;Hombre;Capitán Elia;0.0;;;;;;;1
+Calle del Titanio;NA;Titanio;0.0;;;;;;;
+Calle de Villarroel;NA;Villarroel;0.0;;;;;;;
+Calle del Topacio;NA;Topacio;0.0;;;;;;;
+Calle del Límite;NA;Límite;0.0;;;;;;;1
+Calle de la Esmeralda;NA;Esmeralda;0.0;;;;;;;
+Calle de Mariana Pineda;Mujer;Mariana Pineda;0.0;;Liberal española del siglo XIX;https://es.wikipedia.org/wiki/Mariana_Pineda;http://commons.wikimedia.org/wiki/Special:FilePath/Mariana%20pineda5.JPG;1804-09-01T00:00:00Z;1831-05-26T00:00:00Z;1
+Calle del Oxígeno;NA;Oxígeno;0.0;;;;;;;1
+Calle del Mercurio;NA;Mercurio;0.0;;;;;;;
+Calle del Pozo de las Nieves (Posterior);NA;Pozo de las Nieves (Posterior);0.0;;;;;;;
+Calle de San Francisco;Hombre;San Francisco;1.0;;;;;;;
+Calle de San Antonio;Hombre;San Antonio;1.0;;;;;;;
+Avenida de Brasil;NA;Brasil;0.0;;;;;;;1
+Calle de Milán;NA;Milán;0.0;;;;;;;
+Calle de Jabonería;NA;Jabonería;0.0;;;;;;;1
+Calle del Helio;NA;Helio;0.0;;;;;;;
+Calle de La Rioja;NA;Rioja;0.0;;;;;;;
+Calle de Mónaco;NA;Mónaco;0.0;;;;;;;1
+Calle de Jaén;NA;Jaén;0.0;;;;;;;1
+Calle del Castillo;NA;Castillo;0.0;;;;;;;
+Calle del Duque;Hombre;Duque;0.0;;;;;;;
+Calle de Quintana;NA;Quintana;0.0;;;;;;;1
+Camino de Mejorada;NA;Mejorada;0.0;;;;;;;1
+Calle del Círculo Polar;NA;Círculo Polar;0.0;;;;;;;
+Calle del Aluminio;NA;Aluminio;0.0;;;;;;;
+Calle del Río Sil;NA;Río Sil;0.0;;;;;;;
+Calle del Ozono;NA;Ozono;0.0;;;;;;;
+Calle de Luxemburgo;NA;Luxemburgo;0.0;;;;;;;1
+Calle de Copenhague;NA;Copenhague;0.0;;;;;;;1
+Calle del Valle del Tormes;NA;Valle del Tormes;0.0;;;;;;;
+Calle de Torrejón;NA;Torrejón;0.0;;;;;;;1
+Calle de París;NA;París;0.0;;;;;;;1
+Avenida de Madrid;NA;Madrid;0.0;;;;;;;1
+Calle de Viena;NA;Viena;0.0;;;;;;;1
+Calle de Belgrado;NA;Belgrado;0.0;;;;;;;1
+Calle de la Cal;NA;Cal;0.0;;;;;;;
+Callejón del Río Henares;NA;Río Henares;0.0;;;;;;;
+Calle de Quintanillas;NA;Quintanillas;0.0;;;;;;;1
+Calle del Almendro;NA;Almendro;0.0;;;;;;;1
+Calle del Avellano;NA;Avellano;0.0;;;;;;;1
+Calle de la Higuera;NA;Higuera;0.0;;;;;;;1
+Calle de Boyeros;NA;Boyeros;0.0;;;;;;;1
+Calle de Bir-Ganduz;NA;Bir-Ganduz;0.0;;;;;;;1
+Calle de Condeja;NA;Condeja;0.0;;;;;;;1
+Calle del Girasol;NA;Girasol;0.0;;;;;;;1
+Calle de Ávila;NA;Ávila;0.0;;;;;;;1
+Calle de la Hortensia;NA;Hortensia;0.0;;;;;;;1
+Calle de las Margaritas;NA;Margaritas;0.0;;;;;;;1
+Calle de las Rosas;NA;Rosas;0.0;;;;;;;1
+Paseo de Manuel Azaña;Hombre;Manuel Azaña;0.0;;;;;;;1
+Calle de Antonio Buero Vallejo;Hombre;Antonio Buero Vallejo;0.0;;;;;;;1
+Calle de Gloria Fuertes;Mujer;Gloria Fuertes;0.0;;poeta española;https://es.wikipedia.org/wiki/Gloria_Fuertes;http://commons.wikimedia.org/wiki/Special:FilePath/GloriaFuertes.jpg;1917-07-28T00:00:00Z;1998-11-27T00:00:00Z;1
+Calle de la Azucena;NA;Azucena;0.0;;;;;;;1
+Calle de los Claveles;NA;Claveles;0.0;;;;;;;1
+Calle de la Campiña;NA;Campiña;0.0;;;;;;;1
+Calle del Pescador;Hombre;Pescador;0.0;;;;;;;1
+Calle del Silicio;NA;Silicio;0.0;;;;;;;
+Calle del Puerto de la Bonaigua;NA;Puerto de la Bonaigua;0.0;;;;;;;1
+Travesía de Navacerrada;NA;Navacerrada;0.0;;;;;;;1
+Calle de Marie Curie;Mujer;Marie Curie;0.0;;física y química polaco-francesa;https://es.wikipedia.org/wiki/Marie_Curie;http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Curie%20c.%201920s.jpg;1867-11-07T00:00:00Z;1934-07-04T00:00:00Z;
+Calle de Leonardo da Vinci;Hombre;Leonardo da Vinci;0.0;;;;;;;
+Calle de la Magdalena;Mujer;Magdalena;0.0;;;;;;;
+Calle del Valle del Jerte;NA;Valle del Jerte;0.0;;;;;;;
+Calle del Valle del Cabriel;NA;Valle del Cabriel;0.0;;;;;;;
+Calle del Maestro Sorozábal;Hombre;Maestro Sorozábal;0.0;;;;;;;1
+Calle del Valle de Amblés;NA;Valle de Amblés;0.0;;;;;;;
+Calle del Valle del Esgueva;NA;Valle del Esgueva;0.0;;;;;;;
+Calle del Valle del Tiétar;NA;Valle del Tiétar;0.0;;;;;;;
+Calle del Valle de Arán;NA;Valle de Arán;0.0;;;;;;;
+Calle del Valle del Baztán;NA;Valle del Baztán;0.0;;;;;;;
+Calle del Brillante;NA;Brillante;0.0;;;;;;;
+Calle del Río Ebro;NA;Río Ebro;0.0;;;;;;;1
+Calle del Río Guadalquivir;NA;Río Guadalquivir;0.0;;;;;;;1
+Calle del Río Tajuña;NA;Río Tajuña;0.0;;;;;;;
+Calle del Río Guadiana;NA;Río Guadiana;0.0;;;;;;;1
+Calle de los Zapadores;NA;Zapadores;0.0;;;;;;;
+Calle de los Torneros;NA;Torneros;0.0;;;;;;;
+Calle del Maestro Guridi;Hombre;Maestro Guridi;0.0;;;;;;;1
+Calle de Berna;NA;Berna;0.0;;;;;;;1
+Calle de Pablo Ruiz Picasso;Hombre;Pablo Ruiz Picasso;0.0;;;;;;;1
+Calle de las Fuentes;NA;Fuentes;0.0;;;;;;;1
+Calle de Leandro Fernández Moratín;Hombre;Leandro Fernández Moratín;0.0;;;;;;;1
+Calle de Eos;NA;Eos;0.0;;;;;;;
+Calle de Pedro Rodríguez de Campomanes;Hombre;Pedro Rodríguez de Campomanes;0.0;;;;;;;1
+Calle del Meridiano;NA;Meridiano;0.0;;;;;;;1
+Calle del Polo Sur;NA;Polo Sur;0.0;;;;;;;1
+Calle del Polo Norte;NA;Polo Norte;0.0;;;;;;;1
+Calle del Ferrocarril;NA;Ferrocarril;0.0;;;;;;;1
+Callejón de la Forja;NA;Forja;0.0;;;;;;;
+Calle de Campo Real;NA;Campo Real;0.0;;;;;;;
+Calle del Puerto de Somosierra;NA;Puerto de Somosierra;0.0;;;;;;;1
+Calle del Maestro Caballero;Hombre;Maestro Caballero;0.0;;;;;;;1
+Calle del Puerto de los Leones;NA;Puerto de los Leones;0.0;;;;;;;1
+Calle del Olivar;NA;Olivar;0.0;;;;;;;1
+Travesía de las Viñas;NA;Viñas;0.0;;;;;;;1
+Calle del Puerto de Pajares;NA;Puerto de Pajares;0.0;;;;;;;1
+Avenida de la Ronda Sur;NA;Ronda Sur;0.0;;;;;;;
+Calle del Ecuador;NA;Ecuador;0.0;;;;;;;
+Callejón del Silicio;NA;Silicio;0.0;;;;;;;
+Calle del Maestro Chapi;Hombre;Maestro Chapi;0.0;;;;;;;1
+Calle de San Benito;Hombre;San Benito;1.0;;;;;;;
+Calle del Maestro Serrano;Hombre;Maestro Serrano;0.0;;;;;;;1
+Calle del Maestro Albéniz;Hombre;Maestro Albéniz;0.0;;;;;;;
+Calle del Maestro Falla;Hombre;Maestro Falla;0.0;;;;;;;
+Plaza de Venecia;NA;Venecia;0.0;;;;;;;
+Calle de La Mancha;NA;Mancha;0.0;;;;;;;
+Calle del Arroyo;NA;Arroyo;0.0;;;;;;;1
+Calle de Cádiz;NA;Cádiz;0.0;;;;;;;1
+Calle de Atenas;NA;Atenas;0.0;;;;;;;1
+Calle de Emilia Pardo Bazán;Mujer;Emilia Pardo Bazán;0.0;;escritora española;https://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n;http://commons.wikimedia.org/wiki/Special:FilePath/1921-05-21%2C%20La%20Esfera%2C%20Condesa%20de%20Pardo%20Baz%C3%A1n%2C%20Gamonal.jpg;1851-09-16T00:00:00Z;1921-05-12T00:00:00Z;1
+Calle de Nápoles;NA;Nápoles;0.0;;;;;;;
+Calle de Génova;NA;Génova;0.0;;;;;;;
+Paso de Enmedio;NA;Paso de Enmedio;0.0;;;;;;;1
+Calle del Maestro Chueca;Hombre;Maestro Chueca;0.0;;;;;;;1
+Calle del Maestro Guerrero;Hombre;Maestro Guerrero;0.0;;;;;;;1
+Calle del Maestro Luna;Hombre;Maestro Luna;0.0;;;;;;;1
+Calle del Maestro Barbieri;Hombre;Maestro Barbieri;0.0;;;;;;;1
+Calle del Maestro Turina;Hombre;Maestro Turina;0.0;;;;;;;1
+Calle de Daganzo;NA;Daganzo;0.0;;;;;;;1
+Calle de La Haya;NA;Haya;0.0;;;;;;;1
+Calle de Córdoba;NA;Córdoba;0.0;;;;;;;1
+Calle de Margarita Salas;Mujer;Margarita Salas;0.0;;bioquímica española;https://es.wikipedia.org/wiki/Margarita_Salas;http://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Salas%20y%20Santiago%20Grisol%C3%ADa%20Doctores%20Honoris%20Causa%20UNED%20%282%29.jpg;1938-11-30T00:00:00Z;2019-11-07T00:00:00Z;
+Vial Milán;NA;Vial Milán;0.0;;;;;;;
+Carretera de la Base;NA;Base;0.0;;;;;;;
+Calle de Álvarez de Cienfuegos;Hombre;Álvarez de Cienfuegos;0.0;;;;;;;
+Calle de Juan de Mena;Hombre;Juan de Mena;0.0;;;;;;;
+Calle de Melilla;NA;Melilla;0.0;;;;;;;
+Calle del Juncal;NA;Juncal;0.0;;;;;;;
+Calle de Asturias;NA;Asturias;0.0;;;;;;;
+Calle de Andalucía;NA;Andalucía;0.0;;;;;;;
+Calle de la Acacia;NA;Acacia;0.0;;;;;;;
+Calle de la Plata;NA;Plata;0.0;;;;;;;
+Calle de la Cañada;NA;Cañada;0.0;;;;;;;
+Calle del Azufre;NA;Azufre;0.0;;;;;;;
+Calle del Sauce;NA;Sauce;0.0;;;;;;;
+Calle del Caucho;NA;Caucho;0.0;;;;;;;
+Calle de Rosa Chacel;Mujer;Rosa Chacel;0.0;;escritora española de la Generación del 27;https://es.wikipedia.org/wiki/Rosa_Chacel;http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Chacel.jpg;1898-06-03T00:00:00Z;1994-07-27T00:00:00Z;
+Calle de María Teresa León;Mujer;María Teresa León;0.0;;Escritora española (1903-1988);https://es.wikipedia.org/wiki/Mar%C3%ADa_Teresa_Le%C3%B3n;http://commons.wikimedia.org/wiki/Special:FilePath/Maria-teresa-goyri1.jpg;1903-10-31T00:00:00Z;1988-12-13T00:00:00Z;
+Calle de Clara Campoamor;Mujer;Clara Campoamor;0.0;;política española, feminista;https://es.wikipedia.org/wiki/Clara_Campoamor;http://commons.wikimedia.org/wiki/Special:FilePath/Clara%20Campoamor.png;1888-02-12T00:00:00Z;1972-04-30T00:00:00Z;
+Calle de la Brújula;NA;Brújula;0.0;;;;;;;
+Calle de la Brújula (Posterior);NA;Brújula (Posterior);0.0;;;;;;;
+Plaza de Austria;NA;Austria;0.0;;;;;;;
+Calle del Pino;NA;Pino;0.0;;;;;;;
+Calle de Tenerife;NA;Tenerife;0.0;;;;;;;
+Calle de Hernán Cortés;Hombre;Hernán Cortés;0.0;;;;;;;
+Avenida de Cristóbal Colón;Hombre;Cristóbal Colón;0.0;;;;;;;
+Calle de Almagro;Hombre;Almagro;0.0;;;;;;;
+Avenida de los Descubrimientos;NA;Descubrimientos;0.0;;;;;;;
+Calle de Pizarro;Hombre;Pizarro;0.0;;;;;;;
+Calle de Núñez de Balboa;Hombre;Núñez de Balboa;0.0;;;;;;;
+Plaza del Doce de Octubre;NA;Doce de Octubre;0.0;;;;;;;
+Calle de Fernando Magallanes;Hombre;Fernando Magallanes;0.0;;;;;;;
+Calle de Juan Sebastián El Cano;Hombre;Juan Sebastián El Cano;0.0;;;;;;;
+Calle de Legazpi;NA;Legazpi;0.0;;;;;;;
+Calle de Ponce de León;Hombre;Ponce de León;0.0;;;;;;;
+Calle de Rodrigo de Triana;Hombre;Rodrigo de Triana;0.0;;;;;;;
+Calle de los Hermanos Pinzón;Hombre;Hermanos Pinzón;0.0;;;;;;;
+Calle de Mercè Rodoreda;Mujer;Mercè Rodoreda;0.0;;escritora española en lengua catalana;https://es.wikipedia.org/wiki/Merc%C3%A8_Rodoreda;http://commons.wikimedia.org/wiki/Special:FilePath/Rodoreda.jpg;1908-10-10T00:00:00Z;1983-04-13T00:00:00Z;
+Calle de Federica Montseny;Mujer;Federica Montseny;0.0;;política, sindicalista anarquista y escritora española;https://es.wikipedia.org/wiki/Federica_Montseny;http://commons.wikimedia.org/wiki/Special:FilePath/Federica%20Montseny.jpg;1905-02-12T00:00:00Z;1994-01-14T00:00:00Z;
+Calle de Dolores Ibárruri;Mujer;Dolores Ibárruri;0.0;;política española;https://es.wikipedia.org/wiki/Dolores_Ib%C3%A1rruri;http://commons.wikimedia.org/wiki/Special:FilePath/Dolores002.jpg;1895-12-09T00:00:00Z;1989-11-12T00:00:00Z;
+Calle de José Quintana;Hombre;José Quintana;0.0;;;;;;;
+Calle de Baltasar Gracián;Hombre;Baltasar Gracián;0.0;;;;;;;
+Calle de Tomás de Iriarte;Hombre;Tomás de Iriarte;0.0;;;;;;;
+Calle de Jovellanos;Hombre;Jovellanos;0.0;;;;;;;
+Calle del Olmo;NA;Olmo;0.0;;;;;;;
+Avenida de la Unión Europea;NA;Unión Europea;0.0;;;;;;;
+Calle de Antonio de Solís;Hombre;Antonio de Solís;0.0;;;;;;;
+Calle del Álamo;NA;Álamo;0.0;;;;;;;
+Calle de la Morera;NA;Morera;0.0;;;;;;;
+Calle del Chopo;NA;Chopo;0.0;;;;;;;
+Calle de Concha Espina;Mujer;Concha Espina;0.0;;escritora española;https://es.wikipedia.org/wiki/Concha_Espina;http://commons.wikimedia.org/wiki/Special:FilePath/1920%2C%20Historia%20de%20la%20lengua%20y%20literatura%20castellana%2C%20Concha%20Espina.jpg;1869-05-15T00:00:00Z;1955-05-19T00:00:00Z;
+Ronda Sur;NA;Sur;0.0;;;;;;;
+Calle de Francia;NA;Francia;0.0;;;;;;;
+Calle de Mariano Benlliure;Hombre;Mariano Benlliure;0.0;;;;;;;
+Paseo de la Convivencia;NA;Convivencia;0.0;;;;;;;
+Calle de Grecia;NA;Grecia;0.0;;;;;;;
+Avenida de Carmen Laforet;Mujer;Carmen Laforet;0.0;;escritora española (1921-2004);https://es.wikipedia.org/wiki/Carmen_Laforet;http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Carmen%20Laforet.jpg;1921-09-06T00:00:00Z;2004-02-28T00:00:00Z;
+Plaza de las Palmeras;NA;Palmeras;0.0;;;;;;;
+Calle del Naranjo;NA;Naranjo;0.0;;;;;;;
+Calle de Suecia;NA;Suecia;0.0;;;;;;;
+Calle de Dinamarca;NA;Dinamarca;0.0;;;;;;;
+Calle de Bélgica;NA;Bélgica;0.0;;;;;;;
+Calle del Reino Unido;NA;Reino Unido;0.0;;;;;;;
+Calle de La Gomera;NA;Gomera;0.0;;;;;;;
+Calle de Gran Canaria;NA;Gran Canaria;0.0;;;;;;;
+Calle de Lanzarote;NA;Lanzarote;0.0;;;;;;;
+Calle de La Palma;NA;Palma;0.0;;;;;;;
+Paseo de los Cipreses;NA;Cipreses;0.0;;;;;;;
+Calle de Margarita Nelken;Mujer;Margarita Nelken;0.0;;escritora, crítica de arte y política española;https://es.wikipedia.org/wiki/Margarita_Nelken;http://commons.wikimedia.org/wiki/Special:FilePath/Margarita%20Nelken%2C%20en%20Mundo%20Gr%C3%A1fico.jpg;1894-07-05T00:00:00Z;1968-03-09T00:00:00Z;
+Calle de María Zambrano;Mujer;María Zambrano;0.0;;pensadora, filósofa y ensayista española;https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano;http://commons.wikimedia.org/wiki/Special:FilePath/Mural%20feminista%20Gandia%20-%20Maria%20Zambrano.jpg;1904-04-22T00:00:00Z;1991-02-06T00:00:00Z;
+Calle del Abedul;NA;Abedul;0.0;;;;;;;
+Calle del Cedro;NA;Cedro;0.0;;;;;;;
+Calle de la Orfebrería;NA;Orfebrería;0.0;;;;;;;
+Calle de Extremadura;NA;Extremadura;0.0;;;;;;;
+Calle del Arrope;NA;Arrope;0.0;;;;;;;
+Avenida de Claudio Coello;Hombre;Claudio Coello;0.0;;;;;;;
+Calle de Simón Abril;Hombre;Simón Abril;0.0;;;;;;;
+Avenida de Jorge Oteiza;Hombre;Jorge Oteiza;0.0;;;;;;;
+Paseo de la Concordia;NA;Concordia;0.0;;;;;;;
+Paseo de la Democracia;NA;Democracia;0.0;;;;;;;
+Calle de Ricardo Bellver;Hombre;Ricardo Bellver;0.0;;;;;;;
+Calle de Antonio Saura;Hombre;Antonio Saura;0.0;;;;;;;
+Calle de Irlanda;NA;Irlanda;0.0;;;;;;;
+Calle de Concepción Arenal;Hombre;Concepción Arenal;0.0;;;;;;;
+Calle de Pablo Gargallo;Hombre;Pablo Gargallo;0.0;;;;;;;
+Calle de Juan Bautista Monegro;Hombre;Juan Bautista Monegro;0.0;;;;;;;
+Calle de César Manrique;Hombre;César Manrique;0.0;;;;;;;
+Calle de Juan de Ávalos;Hombre;Juan de Ávalos;0.0;;;;;;;
+Calle de Juan Genovés;Hombre;Juan Genovés;0.0;;;;;;;
+Calle de Vicente de Espona;Hombre;Vicente de Espona;0.0;;;;;;;
+Avenida de Joan Miró;Hombre;Joan Miró;0.0;;;;;;;
+Calle de Juan de Roelas;Hombre;Juan de Roelas;0.0;;;;;;;
+Calle de Pedro Berruguete;Hombre;Pedro Berruguete;0.0;;;;;;;
+Calle de Italia;NA;Italia;0.0;;;;;;;
+Calle de Portugal;NA;Portugal;0.0;;;;;;;
+Calle de Juan Gris;Hombre;Juan Gris;0.0;;;;;;;
+Paseo del Diálogo;NA;Diálogo;0.0;;;;;;;
+Calle de Beatriz Galindo;Mujer;Beatriz Galindo;0.0;;escritora y humanista española;https://es.wikipedia.org/wiki/Beatriz_Galindo;http://commons.wikimedia.org/wiki/Special:FilePath/Beatriz%20Galindo.jpg;http://www.wikidata.org/.well-known/genid/3440ad80c7ec5a7aa5a1e06e39a0b9f9;1535-12-03T00:00:00Z;
+Calle de Juan de Juanes;Hombre;Juan de Juanes;0.0;;;;;;;
+Paseo de la Fraternidad;NA;Fraternidad;0.0;;;;;;;
+Avenida de Carmen Martín Gaite;Mujer;Carmen Martín Gaite;0.0;;Escritora, poetisa, maestra, y ensayista española;https://es.wikipedia.org/wiki/Carmen_Mart%C3%ADn_Gaite;http://commons.wikimedia.org/wiki/Special:FilePath/Carmen%20Mart%C3%ADn%20Gaite.jpg;1925-12-08T00:00:00Z;2000-07-22T00:00:00Z;
+Travesía de la Cañada;NA;Cañada;0.0;;;;;;;
+Calle de Joan Rebull;Hombre;Joan Rebull;0.0;;;;;;;
+Calle de Juan Valdés;Hombre;Juan Valdés;0.0;;;;;;;
+Calle de Holanda;NA;Holanda;0.0;;;;;;;
+Calle de Jerónimo Suñol;Hombre;Jerónimo Suñol;0.0;;;;;;;
+Calle de Dulce Chacón;Mujer;Dulce Chacón;0.0;;escritora española;https://es.wikipedia.org/wiki/Dulce_Chac%C3%B3n_(escritora);;1954-06-06T00:00:00Z;2003-12-03T00:00:00Z;
+Calle de Gabriela Mistral;Mujer;Gabriela Mistral;0.0;;poetisa, diplomática y profesora chilena;https://es.wikipedia.org/wiki/Gabriela_Mistral;http://commons.wikimedia.org/wiki/Special:FilePath/Gabriela%20Mistral%201945.jpg;1889-04-07T00:00:00Z;1957-01-10T00:00:00Z;
+Calle de Elena Quiroga;Mujer;Elena Quiroga;0.0;;escritora española;https://es.wikipedia.org/wiki/Elena_Quiroga;http://commons.wikimedia.org/wiki/Special:FilePath/Elena%20Quiroga.jpg;1921-10-26T00:00:00Z;1995-10-03T00:00:00Z;
+Calle de Luisa Roldán;Mujer;Luisa Roldán;0.0;;escultora barroca española;https://es.wikipedia.org/wiki/Luisa_Rold%C3%A1n;;1652-09-08T00:00:00Z;1706-01-10T00:00:00Z;
+Avenida de Eduardo Chillida;Hombre;Eduardo Chillida;0.0;;;;;;;
+Calle de Isabel de Villena;Mujer;Isabel de Villena;0.0;;escritora y monja valenciana;https://es.wikipedia.org/wiki/Isabel_de_Villena;http://commons.wikimedia.org/wiki/Special:FilePath/Murals%20Espinar%202018%20-%20Bat%C3%A0%2C%20Muro%20d%27Alcoi%20%288%29.jpg;1431-01-01T00:00:00Z;1490-07-02T00:00:00Z;
+Calle de Manuel Tolsa;Hombre;Manuel Tolsa;0.0;;;;;;;
+Calle de Montserrat Roig;Mujer;Montserrat Roig;0.0;;escritora y periodista española;https://es.wikipedia.org/wiki/Montserrat_Roig;http://commons.wikimedia.org/wiki/Special:FilePath/Montserrat%20Roig%20%28cropped%29.jpg;1946-06-13T00:00:00Z;1991-11-10T00:00:00Z;
+Calle de Francisco Salzillo;Hombre;Francisco Salzillo;0.0;;;;;;;
+Calle de María de Zayas;Mujer;María de Zayas;0.0;;escritora del Siglo de Oro español;https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Zayas;http://commons.wikimedia.org/wiki/Special:FilePath/MariadeZayas.jpg;1590-09-12T00:00:00Z;1660-01-01T00:00:00Z;
+Calle de Lorenzo Frechilla;Hombre;Lorenzo Frechilla;0.0;;;;;;;
+Calle de Gil de Siloé;Hombre;Gil de Siloé;0.0;;;;;;;
+Calle de Josefina Pla;Mujer;Josefina Plá;0.0;;poetisa hispano paraguaya;https://es.wikipedia.org/wiki/Josefina_Pla;http://commons.wikimedia.org/wiki/Special:FilePath/Pla-2.jpg;1903-11-09T00:00:00Z;1999-01-11T00:00:00Z;
+Paseo de la Igualdad;NA;Igualdad;0.0;;;;;;;
+Calle de Diego de Siloé;Hombre;Diego de Siloé;0.0;;;;;;;
+Calle de Lola Anglada;Mujer;Lola Anglada;0.0;;escritora, ilustradora e historietista española;https://es.wikipedia.org/wiki/Lola_Anglada;http://commons.wikimedia.org/wiki/Special:FilePath/Lola%20Anglada.png;1892-10-28T00:00:00Z;1984-01-01T00:00:00Z;
+Calle de Juan Guas;Hombre;Juan Guas;0.0;;;;;;;
+Calle de Benjamín Palencia;Hombre;Benjamín Palencia;0.0;;;;;;;
+Calle de Alemania;NA;Alemania;0.0;;;;;;;
+Calle de Francisco Herrera;Hombre;Francisco Herrera;0.0;;;;;;;
+Calle de Álvaro Retana;Hombre;Álvaro Retana;0.0;;;;;;;
+Plaza Grande;NA;Grande;0.0;;;;;;;
+Calle de la Retama;NA;Retama;0.0;;;;;;;
+Calle del Tomillo;NA;Tomillo;0.0;;;;;;;
+Calle de Alcaravea;NA;Alcaravea;0.0;;;;;;;
+Calle de la Zarzamora;NA;Zarzamora;0.0;;;;;;;
+Calle del Tojo;NA;Tojo;0.0;;;;;;;
+Calle de la Blancaflor;NA;Blancaflor;0.0;;;;;;;
+Calle del Chaparro;NA;Chaparro;0.0;;;;;;;
+Avenida de Salvador Dalí;Hombre;Salvador Dalí;0.0;;;;;;;
+Calle de Rosalía de Castro;Mujer;Rosalía de Castro;0.0;;poetisa y novelista gallega;https://es.wikipedia.org/wiki/Rosal%C3%ADa_de_Castro;http://commons.wikimedia.org/wiki/Special:FilePath/Rosal%C3%ADa%20Castro%20de%20Murgu%C3%ADa%20por%20Luis%20Sellier.jpg;1838-02-23T00:00:00Z;1885-07-15T00:00:00Z;
+Calle de la Zarza;NA;Zarza;0.0;;;;;;;
+Calle de la Encina;NA;Encina;0.0;;;;;;;
+Calle de Orellana;NA;Orellana;0.0;;;;;;;
+Paseo de las Américas;NA;Américas;0.0;;;;;;;
+Calle de Pedro de Valdivia;Hombre;Pedro de Valdivia;0.0;;;;;;;
+Paseo de la Navegación;NA;Navegación;0.0;;;;;;;
+Calle de la Hierbabuena;NA;Hierbabuena;0.0;;;;;;;
+Calle del Enebro;NA;Enebro;0.0;;;;;;;
+Plaza del Olivo;NA;Olivo;0.0;;;;;;;
+Plaza de las Tinajas;NA;Tinajas;0.0;;;;;;;
+Plaza de Europa;NA;Europa;0.0;;;;;;;
+Avenida de Severo Ochoa;Hombre;Severo Ochoa;0.0;;;;;;;
+Calle de Mateo Inurria;Hombre;Mateo Inurria;0.0;;;;;;;
+Puente de Van Gogh;Hombre;Van Gogh;0.0;;;;;;;
+London Bridge;NA;London Bridge;0.0;;;;;;;
+Calle de Camilo José Cela;Hombre;Camilo José Cela;0.0;;;;;;;
+Calle de Vicente Aleixandre;Hombre;Vicente Aleixandre;0.0;;;;;;;
+Calle del Olivo;NA;Olivo;0.0;;;;;;;
+Calle de los Pajaritos;NA;Pajaritos;0.0;;;;;;;
+Calle del Sándalo;NA;Sándalo;0.0;;;;;;;
+Calle de Juan Sebastián Elcano;Hombre;Juan Sebastián Elcano;0.0;;;;;;;
+Calle del Cerezo;NA;Cerezo;0.0;;;;;;;
+Calle de Pilar Sinues;Mujer;María del Pilar Sinués;0.0;;escritora española;https://es.wikipedia.org/wiki/Mar%C3%ADa_del_Pilar_Sinu%C3%A9s;http://commons.wikimedia.org/wiki/Special:FilePath/Vallejo-Retrato%20de%20Mar%C3%ADa%20del%20Pilar%20Sinues%20y%20Navarro.jpg;1835-12-19T00:00:00Z;1893-11-20T00:00:00Z;
+Calle de Álvaro Retama;Hombre;Álvaro Retama;0.0;;;;;;;
+Calle de la Alcaravea;NA;Alcaravea;0.0;;;;;;;
+Paseo de la Tolerancia;NA;Tolerancia;0.0;;;;;;;
+Calle del Dalai Lama;Hombre;Dalai Lama;0.0;;;;;;;
+Calle de Mahatma Gandhi;Hombre;Mahatma Gandhi;0.0;;;;;;;
+Calle de Martin Luther King;Hombre;Martin Luther King;0.0;;;;;;;
+Calle de Nelson Mandela;Hombre;Nelson Mandela;0.0;;;;;;;
+Calle de Teresa de Calcuta;Mujer;Teresa de Calcuta;1.0;;santa católica de origen albanés (1910-1997);https://es.wikipedia.org/wiki/Teresa_de_Calcuta;http://commons.wikimedia.org/wiki/Special:FilePath/MotherTeresa%20090.jpg;1910-08-26T00:00:00Z;1997-09-05T00:00:00Z;
+Calle de Malala Yousafzai;Mujer;Malala Yousafzai;0.0;;estudiante y activista de Pakistán;https://es.wikipedia.org/wiki/Malala_Yousafzai;http://commons.wikimedia.org/wiki/Special:FilePath/Shinz%C5%8D%20Abe%20and%20Malala%20Yousafzai%20%281%29%20Cropped.jpg;1997-07-12T00:00:00Z;;
+Calle de Jimmy Carter;Hombre;Jimmy Carter;0.0;;;;;;;
+Calle de Desmond Tutu;Hombre;Desmond Tutu;0.0;;;;;;;
+Calle de Mijaíl Gorbachov;Hombre;Mijaíl Gorbachov;0.0;;;;;;;
+Calle del Barómetro;NA;Barómetro;0.0;;;;;;;
+;;;;;;;;;;
